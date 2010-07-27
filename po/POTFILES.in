@@ -1,0 +1,26 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+[encoding: UTF-8]
+[type: gettext/ini]effects/agingtv.effect.in
+[type: gettext/ini]effects/cartoon.effect.in
+[type: gettext/ini]effects/cheguevara.effect.in
+[type: gettext/ini]effects/chrome.effect.in
+[type: gettext/ini]effects/dicetv.effect.in
+[type: gettext/ini]effects/distortion.effect.in
+[type: gettext/ini]effects/edgetv.effect.in
+[type: gettext/ini]effects/hulk.effect.in
+[type: gettext/ini]effects/identity.effect.in
+[type: gettext/ini]effects/invertion.effect.in
+[type: gettext/ini]effects/mauve.effect.in
+[type: gettext/ini]effects/noir.effect.in
+[type: gettext/ini]effects/optv.effect.in
+[type: gettext/ini]effects/quarktv.effect.in
+[type: gettext/ini]effects/radioactv.effect.in
+[type: gettext/ini]effects/revtv.efect.in
+[type: gettext/ini]effects/ripple.effect.in
+[type: gettext/ini]effects/saturation.effect.in
+[type: gettext/ini]effects/shagadelictv.effect.in
+[type: gettext/ini]effects/sobel.effect.in
+[type: gettext/ini]effects/streaktv.effect.in
+[type: gettext/ini]effects/vertigotv.effect.in
+[type: gettext/ini]effects/warptv.effect.in

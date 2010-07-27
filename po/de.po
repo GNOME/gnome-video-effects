@@ -1,0 +1,80 @@
+# Cheese German translation
+# Copyright (C) 2007 Daniel G. Siegel <dgsiegel@gmail.com>
+# This file is distributed under the same license as the cheese package.
+# Daniel G. Siegel <dgsiegel@gmail.com>, 2007.
+# Andre Klapper <ak-47@gmx.net>, 2007.
+# Wolfgang Stöggl <c72578@yahoo.de>, 2008 - 2010.
+# Hendrik Richter <hendrikr@gnome.org>, 2008, 2009.
+# Mario Blättermann <mariobl@gnome.org>, 2009, 2010.
+# Paul Seyfert <pseyfert@mathphys.fsk.uni-heidelberg.de>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=cheese&component=general\n"
+"POT-Creation-Date: 2010-07-20 18:43+0000\n"
+"PO-Revision-Date: 2010-07-20 21:34+0100\n"
+"Last-Translator: Mario Blättermann <mariobl@gnome.org>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: German\n"
+
+#: ../data/effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr "Historisch"
+
+#: ../data/effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Würfel"
+
+#: ../data/effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Ecken"
+
+#: ../data/effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Hulk"
+
+#: ../data/effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Kein Effekt"
+
+#: ../data/effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Violett"
+
+#: ../data/effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Schwarz-weiß"
+
+#: ../data/effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr "Optische Täuschung"
+
+#: ../data/effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr "Quark"
+
+#: ../data/effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr "Radioaktiv"
+
+#: ../data/effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Psychedelisch"
+
+#: ../data/effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr "Kung-Fu"
+
+#: ../data/effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Vertigo"
+
+#: ../data/effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Warp"

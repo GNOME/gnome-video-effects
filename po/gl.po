@@ -1,0 +1,83 @@
+# Cheese Galician translation
+# This file is distributed under the same license as cheese
+# Copyright (C) 2007 daniel g. siegel <dgsiegel@gnome.org>
+# Copyright (C) 2009, 2010 Leandro Regueiro.
+#
+# Proxecto Trasno - Adaptación do software libre á lingua galega:  Se desexas
+# colaborar connosco, podes atopar máis información en <http://trasno.net>
+#
+# Ricardo González Castro <rick@jinlabs.com>, 2007.
+# Ignacio Casal Quinteiro <icq@svn.gnome.org>, 2007, 2008.
+# Mancomún - Centro de Referencia e Servizos de Software Libre <g11n@mancomun.org>, 2009.
+# Anton Meixome <meixome@mancomun.org>, 2009.
+# Leandro Regueiro <leandro.regueiro@gmail.com>, 2009, 2010.
+# Fran Diéguez <frandieguez@ubuntu.com>, 2009, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese.master\n"
+"Report-Msgid-Bugs-To: gnome-gl-list@gnome.org\n"
+"POT-Creation-Date: 2010-07-18 16:49+0200\n"
+"PO-Revision-Date: 2010-07-18 17:20+0200\n"
+"Last-Translator: Fran Diéguez <frandieguez@ubuntu.com>\n"
+"Language-Team: Galician <gnome-gl-list@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: ../data/effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr "Hitorial"
+
+#: ../data/effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Pixelar"
+
+#: ../data/effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Bordos"
+
+#: ../data/effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Hulk"
+
+#: ../data/effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Sen efectos"
+
+#: ../data/effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Malva"
+
+#: ../data/effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Branco e negro"
+
+#: ../data/effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr "Ilusión óptica"
+
+#: ../data/effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr "Quark"
+
+#: ../data/effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr "Radioactivo"
+
+#: ../data/effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Psicodélico"
+
+#: ../data/effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr "Kung-Fu"
+
+#: ../data/effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Vertixe"
+
+#: ../data/effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Deformar"
