@@ -9,6 +9,7 @@ install-sh
 libtool
 omf-make
 *.mo
+*.gmo
 gnome-doc-utils.make
 intltool*.in
 missing
