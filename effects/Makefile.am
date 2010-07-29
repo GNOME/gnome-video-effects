@@ -17,7 +17,7 @@ effects_in_files = \
 	optv.effect.in \
 	quarktv.effect.in \
 	radioactv.effect.in \
-	revtv.efect.in \
+	revtv.effect.in \
 	ripple.effect.in \
 	saturation.effect.in \
 	shagadelictv.effect.in \
