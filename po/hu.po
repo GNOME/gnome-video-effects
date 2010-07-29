@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-30 00:30+0200\n"
+"POT-Creation-Date: 2010-07-30 00:39+0200\n"
 "PO-Revision-Date: 2010-07-30 00:33+0200\n"
 "Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
 "Language-Team: Hungarian <gnome at fsf dot hu>\n"
@@ -79,6 +79,10 @@ msgstr "Kvark"
 msgid "Radioactive"
 msgstr "Radioaktív"
 
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr "Hullámforma"
+
 #: ../effects/ripple.effect.in.h:1
 msgid "Ripple"
 msgstr "Hullám"
@@ -106,4 +110,3 @@ msgstr "Elmosás"
 #: ../effects/warptv.effect.in.h:1
 msgid "Warp"
 msgstr "Görbítés"
-
