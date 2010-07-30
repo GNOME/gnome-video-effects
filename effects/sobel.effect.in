@@ -1,4 +1,4 @@
 [Effect]
 Encoding=UTF-8
-_Name=Sboel
+_Name=Sobel
 PipelineDescription=frei0r-filter-sobel
