@@ -4,6 +4,14 @@ EXTRA_DIST = \
 	README \
 	$(NULL)
 
+CLEANFILES = gnome-video-effects.pc
+
+DISTCLEANFILES = \
+	gnome-doc-utils.make
+
+pkgconfigdir = $(libdir)/pkgconfig
+pkgconfig_DATA = gnome-video-effects.pc
+
 dist-hook:
 	@if test -d "$(srcdir)/.git"; \
 	then \

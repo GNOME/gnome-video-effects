@@ -1,0 +1,7 @@
+prefix = @prefix@
+datarootdir = @datarootdir@
+effectsdir = ${datarootdir}/gnome-video-effects
+
+Name: gnome-video-effects
+Description: A collection of GStreamer effects to be used in different GNOME Modules
+Version: @VERSION@

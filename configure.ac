@@ -21,6 +21,7 @@ AC_PROG_LN_S
 
 AC_OUTPUT([
 Makefile
+gnome-video-effects.pc
 effects/Makefile
 po/Makefile.in
 ])
