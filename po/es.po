@@ -9,10 +9,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese.master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=cheese&component=general\n"
-"POT-Creation-Date: 2010-07-20 19:39+0000\n"
-"PO-Revision-Date: 2010-07-26 20:57+0200\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&component=general\n"
+"POT-Creation-Date: 2010-07-30 09:27+0000\n"
+"PO-Revision-Date: 2010-07-31 11:22+0200\n"
 "Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,58 +21,96 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../data/effects/agingtv.effect.in.h:1
+#: ../effects/agingtv.effect.in.h:1
 msgid "Historical"
 msgstr "Histórico"
 
-#: ../data/effects/dicetv.effect.in.h:1
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr "Dibujos animados"
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr "Che Guevara"
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr "Cromo"
+
+#: ../effects/dicetv.effect.in.h:1
 msgid "Dice"
 msgstr "Pedazos"
 
-#: ../data/effects/edgetv.effect.in.h:1
+#: ../effects/distortion.effect.in.h:1
+#| msgid "Historical"
+msgid "Distortion"
+msgstr "Distorsión"
+
+#: ../effects/edgetv.effect.in.h:1
 msgid "Edge"
 msgstr "Contornos"
 
-#: ../data/effects/hulk.effect.in.h:1
+#: ../effects/hulk.effect.in.h:1
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../data/effects/identity.effect.in.h:1
+#: ../effects/identity.effect.in.h:1
 msgid "No Effect"
 msgstr "Sin efectos"
 
-#: ../data/effects/mauve.effect.in.h:1
+#: ../effects/invertion.effect.in.h:1
+#| msgid "Vertigo"
+msgid "Invertion"
+msgstr "Inversión"
+
+#: ../effects/mauve.effect.in.h:1
 msgid "Mauve"
 msgstr "Malva"
 
-#: ../data/effects/noir.effect.in.h:1
+#: ../effects/noir.effect.in.h:1
 msgid "Noir/Blanc"
 msgstr "Blanco y negro"
 
-#: ../data/effects/optv.effect.in.h:1
+#: ../effects/optv.effect.in.h:1
 msgid "Optical Illusion"
 msgstr "Ilusión óptica"
 
-#: ../data/effects/quarktv.effect.in.h:1
+#: ../effects/quarktv.effect.in.h:1
 msgid "Quark"
 msgstr "Quark"
 
-#: ../data/effects/radioactv.effect.in.h:1
+#: ../effects/radioactv.effect.in.h:1
 msgid "Radioactive"
 msgstr "Radioactivo"
 
-#: ../data/effects/shagadelictv.effect.in.h:1
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr "Forma de onda"
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr "Rizado"
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "Saturación"
+
+#: ../effects/shagadelictv.effect.in.h:1
 msgid "Shagadelic"
 msgstr "Psicodélico"
 
-#: ../data/effects/streaktv.effect.in.h:1
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr "Bordes Sobel"
+
+#: ../effects/streaktv.effect.in.h:1
 msgid "Kung-Fu"
 msgstr "Kung-Fu"
 
-#: ../data/effects/vertigotv.effect.in.h:1
+#: ../effects/vertigotv.effect.in.h:1
 msgid "Vertigo"
 msgstr "Vértigo"
 
-#: ../data/effects/warptv.effect.in.h:1
+#: ../effects/warptv.effect.in.h:1
 msgid "Warp"
 msgstr "Distorsión"
