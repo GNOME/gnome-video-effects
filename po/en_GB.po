@@ -1,0 +1,111 @@
+# English (British) translation.
+# Copyright (C) 2008 gnome-video-effects' COPYRIGHT HOLDER
+# This file is distributed under the same licence as the gnome-video-effects package.
+# Philip Withnall <philip@tecnocode.co.uk>, 2008, 2009.
+# Bruce Cowan <bruce@bcowan.me.uk>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-video-effects\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-01 12:02+0100\n"
+"PO-Revision-Date: 2010-08-01 12:00+0100\n"
+"Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
+"Language-Team: British English <en@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr "Historical"
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr "Cartoon"
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr "Che Guevara"
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr "Chrome"
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Dice"
+
+#: ../effects/distortion.effect.in.h:1
+msgid "Distortion"
+msgstr "Distortion"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Edge"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Hulk"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "No Effect"
+
+#: ../effects/invertion.effect.in.h:1
+msgid "Invertion"
+msgstr "Invertion"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Mauve"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Noir/Blanc"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr "Optical Illusion"
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr "Quark"
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr "Radioactive"
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr "Waveform"
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr "Ripple"
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "Saturation"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Shagadelic"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr "Sobel"
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr "Kung-Fu"
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Vertigo"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Warp"
