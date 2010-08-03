@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese.gnome-2.22.dz.po\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:31+0200\n"
+"PO-Revision-Date: 2008-08-18 14:20+0530\n"
+"Last-Translator: Dawa pemo <daws_403@hotmail.com>\n"
+"Language-Team: Dzongkha <pgeyleg@dit.gov.bt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=(n!=1);\n"
+"X-Poedit-Language: Dzongkha\n"
+"X-Poedit-Country: Bhutan\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "ཤོ"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "མཐའ་ཚད།"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "མཐའམ།"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "སྦོམ། "
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "ནུས་པ་མིན་ནུག། "
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "ཝར་ཊི་གོ།"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "བཀྱག་སྨུག་པོ།"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "ནོའིར/ བེནེནསི་ "
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "མཐའ་ཚད།"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "ཤ་ཇི་ཌེ་ལིཀ།"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "ཝར་ཊི་གོ།"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "གཅུ་སྒྲིམ།"

@@ -1,0 +1,112 @@
+# Belarusian translation of cheese.
+# Copyright (C) 2009 THE cheese'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the cheese package.
+# Ягор Кур'яновіч <me@sontan.name>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese 2.26\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:30+0200\n"
+"PO-Revision-Date: 2009-04-12 10:25+0300\n"
+"Last-Translator: Ягор Кур'яновіч <me@sontan.name>\n"
+"Language-Team: Belarusian <i18n@mova.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Кавалкі"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "Насычанасьць"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Межы"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Зомбі"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Без эфэктаў"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "Кружэньне галавы"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Ліловасьць"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Чорна-белы"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "Насычанасьць"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Псыхадэлія"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Кружэньне галавы"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Скрыўленьне"

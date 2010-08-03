@@ -1,0 +1,112 @@
+# Ukrainian translation of cheese.
+# Copyright (C) Free Software Foundation
+# This file is distributed under the same license as the cheese package.
+# Maxim Dziumanenko <dziumanenko@gmail.com>, 2008-2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:31+0200\n"
+"PO-Revision-Date: 2010-03-26 00:43+0300\n"
+"Last-Translator: Maxim V. Dziumanenko <dziumanenko@gmail.com>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Шматочки"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "Роздільна здатність"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Межі"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Халк"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Без ефектів"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "Запаморочення"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Рожево-ліловий"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Чорно/біле"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "Насиченість"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Психоделічний"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Запаморочення"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Викривлення"

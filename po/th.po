@@ -1,0 +1,113 @@
+# Thai translation of cheese.
+# Copyright (C) 2008-2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the cheese package.
+# Akom C. <knight2000@gmail.com>, 2008-2009.
+# Theppitak Karoonboonyanan <thep@linux.thai.net, 2008, 2010.
+# Pornpimon Pradabsri <kanom7448@hotmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:31+0200\n"
+"PO-Revision-Date: 2010-06-14 20:31+0700\n"
+"Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "เกล็ดกระจก"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "ความละเอียด"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "ตัดเส้น"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "หน้าเขียว"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "ไม่มีลูกเล่น"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "ภวังค์"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "ย้อมสีม่วง"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "ขาวดำ"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "สีสด"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "จิ๊กโก๋"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "ภวังค์"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "บิดเบี้ยว"

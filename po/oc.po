@@ -1,0 +1,111 @@
+# Cheese Occitan Translation
+# Copyright (C) 2007 daniel g. siegel <dgsiegel@gnome.org>
+# This file is distributed under the same license as cheese
+#
+# Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>, 2007-2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:31+0200\n"
+"PO-Revision-Date: 2008-07-27 11:23+0200\n"
+"Last-Translator: Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>\n"
+"Language-Team: Occitan <ubuntu-l10n-oci@lists.ubuntu.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Dats"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "Saturacion"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Contorn"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Hulk"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Pas d'efièch"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "Vertigo"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Malva"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Negre/Blanc"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "Saturacion"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Shagadelic"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Vertigo"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Desformar"

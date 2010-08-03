@@ -1,0 +1,111 @@
+# Shavian translation for cheese.
+# Copyright (C) 2009 The Gnome Foundation.
+# Thomas Thurman <tthurman@gnome.org>, 2009.
+# Transliterate Cheese as ·𐑗𐑰𐑟
+# Transliterate webcam as 𐑢𐑧𐑚𐑒𐑨𐑥
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:31+0200\n"
+"PO-Revision-Date: 2010-05-19 12:38 -0400\n"
+"Last-Translator: Thomas Thurman <tthurman@gnome.org>\n"
+"Language-Team: Shavian <ubuntu-l10n-en-shaw@launchpad.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "𐑛𐑲𐑕"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "𐑮𐑧𐑟𐑩𐑤𐑵𐑖𐑩𐑯"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "𐑧𐑡"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "𐑣𐑳𐑤𐑒"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "𐑯𐑴 𐑦𐑓𐑧𐑒𐑑"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "𐑝𐑻𐑑𐑦𐑜𐑴"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "𐑥𐑴𐑝"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "𐑯𐑢𐑸/𐑚𐑤𐑪𐑯𐑒"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "𐑕𐑨𐑗𐑻𐑱𐑖𐑩𐑯"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "𐑖𐑨𐑜𐑩𐑛𐑧𐑤𐑦𐑒"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "𐑝𐑻𐑑𐑦𐑜𐑴"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "𐑢𐑪𐑮𐑐"

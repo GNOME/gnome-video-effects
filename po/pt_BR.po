@@ -1,0 +1,119 @@
+# Brazilian Portuguese translation of cheese.
+# Copyright (C) 1999-2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the cheese package.
+# Rodrigo Flores <rodrigomarquesflores@gmail.com>, 2007, 2008.
+# Og Maciel <ogmaciel@gnome.org>, 2008.
+# Luis Motta <luiscpmotta@gmail.com>, 2008.
+# Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2008.
+# Fábio Nogueira <deb-user-ba@ubuntu.com>, 2008.
+# Vladimir Melo <vladimirmelo@foresightlinux.org>, 2008.
+# Daniel S. Koda <danielskoda@gmail.com>, 2009.
+# Djavan Fagundes <dnoway@gmail.com>, 2009.
+# Michel Recondo <michel@recondo.com.br>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:31+0200\n"
+"PO-Revision-Date: 2010-01-29 11:17-0200\n"
+"Last-Translator: Michel Recondo <michel@recondo.com.br>\n"
+"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Despedaçar"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "Resolução"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Borda"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Hulk"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Sem efeitos"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "Vertigem"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Lilás"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Preto e branco"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "Saturação"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Psicodélico"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Vertigem"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Deformar"

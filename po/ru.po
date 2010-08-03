@@ -1,0 +1,114 @@
+# Translation of cheese UI into Russian.
+# Copyright (c) 2008 Free Software Foundation Inc.
+#
+# This file is distributed under the same license as the cheese package.
+# Vasiliy Faronov <qvvx@yandex.ru>, 2008.
+# Alexander Saprykin <xelfium@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese gnome-2-22\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:31+0200\n"
+"PO-Revision-Date: 2010-02-18 02:59+0300\n"
+"Last-Translator: Alexander Saprykin <xelfium@gmail.com>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Кусочки"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "Разрешение"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Границы"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Зомби"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Без эффектов"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "Головокружение"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Лиловость"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Чёрное и белое"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "Насыщенность"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Психоделия"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Головокружение"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Искривление"

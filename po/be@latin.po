@@ -1,0 +1,110 @@
+# Biełaruski pierakład cheese.
+# Copyright (C) Ihar Hrachyshka, 2008.
+# This file is distributed under the same license as the cheese package.
+# Ihar Hrachyshka <booxter@lacinka.org>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese.HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:30+0200\n"
+"PO-Revision-Date: 2008-03-09 16:21+0200\n"
+"Last-Translator: Ihar Hrachyshka <booxter@lacinka.org>\n"
+"Language-Team: Belarusian Latin <i18n@mova.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Kryštalnaść"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "Nasyčanaść"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Kraj"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Vielizarny"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Biez efektaŭ"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "Vertigo"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Ružova-lilovy"
+
+#: ../effects/noir.effect.in.h:1
+msgid "Noir/Blanc"
+msgstr "Čorna-bieły"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Saturation"
+msgstr "Nasyčanaść"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Shagadeličnaść"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Vertigo"
+msgstr "Vertigo"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Kryŭleńnie"

@@ -1,0 +1,114 @@
+# Malay translation for cheese.
+# Copyright (C) 2010 cheese's COPYRIGHT HOLDER
+# This file is distributed under the same license as the cheese package.
+# Umarzuki Bin Mochlis Moktar <umar@umarzuki.org>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 00:31+0200\n"
+"PO-Revision-Date: 2010-04-22 21:37+0730\n"
+"Last-Translator: Umarzuki Bin Mochlis Moktar <umar@umarzuki.com>\n"
+"Language-Team: Malay <ms@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../effects/agingtv.effect.in.h:1
+msgid "Historical"
+msgstr ""
+
+#: ../effects/cartoon.effect.in.h:1
+msgid "Cartoon"
+msgstr ""
+
+#: ../effects/cheguevara.effect.in.h:1
+msgid "Che Guevara"
+msgstr ""
+
+#: ../effects/chrome.effect.in.h:1
+msgid "Chrome"
+msgstr ""
+
+#: ../effects/dicetv.effect.in.h:1
+msgid "Dice"
+msgstr "Dadu"
+
+#: ../effects/distortion.effect.in.h:1
+#, fuzzy
+msgid "Distortion"
+msgstr "Resolusi"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Edge"
+msgstr "Sudut"
+
+#: ../effects/hulk.effect.in.h:1
+msgid "Hulk"
+msgstr "Hulk"
+
+#: ../effects/identity.effect.in.h:1
+msgid "No Effect"
+msgstr "Tiada Kesan"
+
+#: ../effects/invertion.effect.in.h:1
+#, fuzzy
+msgid "Invertion"
+msgstr "Jangar"
+
+#: ../effects/mauve.effect.in.h:1
+msgid "Mauve"
+msgstr "Ungu Muda"
+
+#: ../effects/noir.effect.in.h:1
+#, fuzzy
+msgid "Noir/Blanc"
+msgstr "Suram"
+
+#: ../effects/optv.effect.in.h:1
+msgid "Optical Illusion"
+msgstr ""
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Quark"
+msgstr ""
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Radioactive"
+msgstr ""
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Waveform"
+msgstr ""
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Ripple"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:1
+#, fuzzy
+msgid "Saturation"
+msgstr "Kejenuhan"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Shagadelic"
+msgstr "Shagadelik"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Sobel"
+msgstr ""
+
+#: ../effects/streaktv.effect.in.h:1
+msgid "Kung-Fu"
+msgstr ""
+
+#: ../effects/vertigotv.effect.in.h:1
+#, fuzzy
+msgid "Vertigo"
+msgstr "Jangar"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Warp"
+msgstr "Melengkung"
