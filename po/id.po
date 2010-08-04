@@ -1,14 +1,15 @@
-# Indonesian translation of Cheese
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Indonesian translation of gnome-video-effects
+# Copyright (C) 2010 THE gnome-video-effects' COPYRIGHT HOLDER
 # This file is distributed under the same license as the Cheese package.
 # Andika Triwidada <andika@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cheese master\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2010-04-18 17:38+0700\n"
+"Project-Id-Version: gnome-video-effects master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&component=general\n"
+"POT-Creation-Date: 2010-08-03 22:39+0000\n"
+"PO-Revision-Date: 2010-08-05 00:29+0700\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: GNOME Indonesian Translation Team <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,28 +21,27 @@ msgstr ""
 
 #: ../effects/agingtv.effect.in.h:1
 msgid "Historical"
-msgstr ""
+msgstr "Historis"
 
 #: ../effects/cartoon.effect.in.h:1
 msgid "Cartoon"
-msgstr ""
+msgstr "Kartun"
 
 #: ../effects/cheguevara.effect.in.h:1
 msgid "Che Guevara"
-msgstr ""
+msgstr "Che Guevara"
 
 #: ../effects/chrome.effect.in.h:1
 msgid "Chrome"
-msgstr ""
+msgstr "Chrome"
 
 #: ../effects/dicetv.effect.in.h:1
 msgid "Dice"
 msgstr "Dadu"
 
 #: ../effects/distortion.effect.in.h:1
-#, fuzzy
 msgid "Distortion"
-msgstr "Resolusi"
+msgstr "Distorsi"
 
 #: ../effects/edgetv.effect.in.h:1
 msgid "Edge"
@@ -56,9 +56,8 @@ msgid "No Effect"
 msgstr "Tanpa Efek"
 
 #: ../effects/invertion.effect.in.h:1
-#, fuzzy
 msgid "Invertion"
-msgstr "Vertigo"
+msgstr "Inversi"
 
 #: ../effects/mauve.effect.in.h:1
 msgid "Mauve"
@@ -70,23 +69,23 @@ msgstr "Noir/Blanc"
 
 #: ../effects/optv.effect.in.h:1
 msgid "Optical Illusion"
-msgstr ""
+msgstr "Ilusi Optik"
 
 #: ../effects/quarktv.effect.in.h:1
 msgid "Quark"
-msgstr ""
+msgstr "Quark"
 
 #: ../effects/radioactv.effect.in.h:1
 msgid "Radioactive"
-msgstr ""
+msgstr "Radioaktif"
 
 #: ../effects/revtv.effect.in.h:1
 msgid "Waveform"
-msgstr ""
+msgstr "Bentuk Gelombang"
 
 #: ../effects/ripple.effect.in.h:1
 msgid "Ripple"
-msgstr ""
+msgstr "Riak"
 
 #: ../effects/saturation.effect.in.h:1
 msgid "Saturation"
@@ -98,11 +97,11 @@ msgstr "Shagadelic"
 
 #: ../effects/sobel.effect.in.h:1
 msgid "Sobel"
-msgstr ""
+msgstr "Sobel"
 
 #: ../effects/streaktv.effect.in.h:1
 msgid "Kung-Fu"
-msgstr ""
+msgstr "Kung-Fu"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Vertigo"
