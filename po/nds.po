@@ -1,15 +1,15 @@
 # Low German translation for cheese.
 # Copyright (C) 2009 cheese's COPYRIGHT HOLDER
 # This file is distributed under the same license as the cheese package.
-# Nils-Christoph Fiedler <fiedler@medienkompanie.de>, 2009.
+# Nils-Christoph Fiedler <ncfiedler@gnome.org>, 2009.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese master\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2009-11-30 16:53+0100\n"
-"Last-Translator: Nils-Christoph Fiedler <fiedler@medienkompanie.de>\n"
+"PO-Revision-Date: 2010-08-08 15:21+0100\n"
+"Last-Translator: Nils-Christoph Fiedler <ncfiedler@gnome.org>\n"
 "Language-Team: Low German <nds-lowgerman@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,36 +18,35 @@ msgstr ""
 
 #: ../effects/agingtv.effect.in.h:1
 msgid "Historical"
-msgstr ""
+msgstr "Historisch"
 
 #: ../effects/cartoon.effect.in.h:1
 msgid "Cartoon"
-msgstr ""
+msgstr "Cartoon"
 
 #: ../effects/cheguevara.effect.in.h:1
 msgid "Che Guevara"
-msgstr ""
+msgstr "Che Guevara"
 
 #: ../effects/chrome.effect.in.h:1
 msgid "Chrome"
-msgstr ""
+msgstr "Chrome"
 
 #: ../effects/dicetv.effect.in.h:1
 msgid "Dice"
-msgstr ""
+msgstr "Würfel"
 
 #: ../effects/distortion.effect.in.h:1
-#, fuzzy
 msgid "Distortion"
-msgstr "Oplösen"
+msgstr "Verzerren"
 
 #: ../effects/edgetv.effect.in.h:1
 msgid "Edge"
-msgstr ""
+msgstr "Kant"
 
 #: ../effects/hulk.effect.in.h:1
 msgid "Hulk"
-msgstr ""
+msgstr "Hulk"
 
 #: ../effects/identity.effect.in.h:1
 msgid "No Effect"
@@ -55,11 +54,11 @@ msgstr "Keen Effekt"
 
 #: ../effects/invertion.effect.in.h:1
 msgid "Invertion"
-msgstr ""
+msgstr "Umdreihen"
 
 #: ../effects/mauve.effect.in.h:1
 msgid "Mauve"
-msgstr ""
+msgstr "Lila"
 
 #: ../effects/noir.effect.in.h:1
 msgid "Noir/Blanc"
@@ -67,44 +66,45 @@ msgstr "Schwatt / Blank"
 
 #: ../effects/optv.effect.in.h:1
 msgid "Optical Illusion"
-msgstr ""
+msgstr "Optische Illuschoon"
 
 #: ../effects/quarktv.effect.in.h:1
 msgid "Quark"
-msgstr ""
+msgstr "Quark"
 
 #: ../effects/radioactv.effect.in.h:1
 msgid "Radioactive"
-msgstr ""
+msgstr "Radioaktiv"
 
 #: ../effects/revtv.effect.in.h:1
 msgid "Waveform"
-msgstr ""
+msgstr "Wellenform"
 
 #: ../effects/ripple.effect.in.h:1
 msgid "Ripple"
-msgstr ""
+msgstr "Lütte Wellenform"
 
 #: ../effects/saturation.effect.in.h:1
 msgid "Saturation"
-msgstr ""
+msgstr "Sättigung"
 
 #: ../effects/shagadelictv.effect.in.h:1
 msgid "Shagadelic"
-msgstr ""
+msgstr "Shagadelic"
 
 #: ../effects/sobel.effect.in.h:1
 msgid "Sobel"
-msgstr ""
+msgstr "Sobel"
 
 #: ../effects/streaktv.effect.in.h:1
 msgid "Kung-Fu"
-msgstr ""
+msgstr "Kung-Fu"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Vertigo"
-msgstr ""
+msgstr "Vertigo"
 
 #: ../effects/warptv.effect.in.h:1
 msgid "Warp"
-msgstr ""
+msgstr "Warp"
+
