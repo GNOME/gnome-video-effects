@@ -10,7 +10,6 @@ effects_in_files = \
 	distortion.effect.in \
 	edgetv.effect.in \
 	hulk.effect.in \
-	identity.effect.in \
 	invertion.effect.in \
 	mauve.effect.in \
 	noir.effect.in \

@@ -9,7 +9,6 @@
 [type: gettext/ini]effects/distortion.effect.in
 [type: gettext/ini]effects/edgetv.effect.in
 [type: gettext/ini]effects/hulk.effect.in
-[type: gettext/ini]effects/identity.effect.in
 [type: gettext/ini]effects/invertion.effect.in
 [type: gettext/ini]effects/mauve.effect.in
 [type: gettext/ini]effects/noir.effect.in
