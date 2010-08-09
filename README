@@ -10,11 +10,11 @@ Encoding=UTF-8
 Name=[The human readable effect name]
 Name[LangCode]=[The translated human readable effect name]
 ...
-PipelineDescription=[A valid GStreamer pipeline]
-Category=[The category of your effect, e.g. "Colors".]
 Comment=[Optional Element: Description of the effect]
 Comment[LangCode]=[Optional Element: Translation of the description of the effect]
 ...
+Category=[The category of your effect, e.g. "Colors".]
+PipelineDescription=[A valid GStreamer pipeline]
 
 
 Possible Effect Categories
@@ -37,8 +37,8 @@ Encoding=UTF-8
 Name=The Hulk
 Name[de]=Der Hulk
 Name[it]=Lo Hulk
-PipelineDescription=videobalance saturation=1.5 hue=-0.5
-Category=Color;Fancy;
 Comment=Transform yourself into the amazing Hulk
 Comment[de]=Verwandle dich in den unglaublichen Hulk
 Comment[it]=Trasformati in Hulk
+Category=Color;Fancy;
+PipelineDescription=videobalance saturation=1.5 hue=-0.5

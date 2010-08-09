@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Quark
+_Comment=Dissolves moving objects in the video input
 PipelineDescription=quarktv

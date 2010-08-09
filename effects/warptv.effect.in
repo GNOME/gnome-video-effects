@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Warp
+_Comment=Transform video input into realtime goo'ing
 PipelineDescription=warptv

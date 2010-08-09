@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Vertigo
+_Comment=Add a loopback alpha blending effector with rotating and scaling
 PipelineDescription=vertigotv

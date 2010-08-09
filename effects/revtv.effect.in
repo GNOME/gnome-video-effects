@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Waveform
+_Comment=Transform video input into a waveform monitor
 PipelineDescription=revtv

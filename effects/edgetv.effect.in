@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Edge
+_Comment=Display video input like good old low resolution computer way
 PipelineDescription=edgetv

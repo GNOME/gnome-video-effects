@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Radioactive
+_Comment=Detect radioactivity and show it
 PipelineDescription=radioactv

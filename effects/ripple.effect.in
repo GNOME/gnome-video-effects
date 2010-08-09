@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Ripple
+_Comment=Add the ripple mark effect on the video input
 PipelineDescription=rippletv

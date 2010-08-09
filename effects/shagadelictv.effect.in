@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Shagadelic
+_Comment=Add some hallucination to the video input
 PipelineDescription=shagadelictv

@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Noir/Blanc
+_Comment=Transform video input into grayscale
 PipelineDescription=videobalance saturation=0

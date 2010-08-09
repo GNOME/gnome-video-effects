@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Cartoon
+_Comment=Cartoonify video input
 PipelineDescription=frei0r-filter-cartoon

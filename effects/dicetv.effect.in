@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Dice
+_Comment=Dices the video input into many small squares
 PipelineDescription=dicetv

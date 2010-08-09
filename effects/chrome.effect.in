@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Chrome
+_Comment=Transform video input into a metallic look
 PipelineDescription=frei0r-filter-color-distance

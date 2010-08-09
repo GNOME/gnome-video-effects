@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Saturation
+_Comment=Add more saturation to the video input
 PipelineDescription=videobalance saturation=2

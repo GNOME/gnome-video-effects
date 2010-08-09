@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Che Guevara
+_Comment=Transform video input into typical Che Guevara style
 PipelineDescription=frei0r-filter-twolay0r

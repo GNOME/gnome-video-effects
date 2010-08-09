@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Invertion
+_Comment=Invert colors of the video input
 PipelineDescription=frei0r-filter-invert0r

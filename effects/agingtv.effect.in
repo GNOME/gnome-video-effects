@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Historical
+_Comment=Add age to video input using scratches and dust
 PipelineDescription=agingtv

@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Sobel
+_Comment=Extracts edges in the video input through using the Sobel operator
 PipelineDescription=frei0r-filter-sobel

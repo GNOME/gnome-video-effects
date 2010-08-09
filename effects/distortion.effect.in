@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Distortion
+_Comment=Distort the video input
 PipelineDescription=frei0r-filter-distort0r

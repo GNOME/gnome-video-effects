@@ -1,4 +1,5 @@
 [Effect]
 Encoding=UTF-8
 _Name=Kung-Fu
+_Comment=Transform motions into Kung-Fu style
 PipelineDescription=streaktv
