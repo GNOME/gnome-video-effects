@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://effectv.sourceforge.net/ripple.html
 _Name=Ripple
 _Comment=Add the ripple mark effect on the video input
 PipelineDescription=rippletv

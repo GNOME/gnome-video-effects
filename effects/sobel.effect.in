@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
 _Name=Sobel
 _Comment=Extracts edges in the video input through using the Sobel operator
 PipelineDescription=frei0r-filter-sobel

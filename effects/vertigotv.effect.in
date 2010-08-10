@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://effectv.sourceforge.net/vertigo.html
 _Name=Vertigo
 _Comment=Add a loopback alpha blending effector with rotating and scaling
 PipelineDescription=vertigotv

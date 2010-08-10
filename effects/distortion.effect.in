@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://www.openmovieeditor.org/images/filters/out-distort0r.png
 _Name=Distortion
 _Comment=Distort the video input
 PipelineDescription=frei0r-filter-distort0r

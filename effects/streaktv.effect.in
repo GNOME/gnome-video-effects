@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://effectv.sourceforge.net/streak.html
 _Name=Kung-Fu
 _Comment=Transform motions into Kung-Fu style
 PipelineDescription=streaktv

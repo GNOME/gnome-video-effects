@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://effectv.sourceforge.net/edge.html
 _Name=Edge
 _Comment=Display video input like good old low resolution computer way
 PipelineDescription=edgetv

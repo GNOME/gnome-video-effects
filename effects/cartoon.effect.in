@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
 _Name=Cartoon
 _Comment=Cartoonify video input
 PipelineDescription=frei0r-filter-cartoon
