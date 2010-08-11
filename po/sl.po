@@ -1,3 +1,4 @@
+# Slovenian translations for gnome-video-effects.
 # Copyright (C) 2010 gnome-video-effects's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-video-effects package.
 #
@@ -5,10 +6,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cheese master\n"
+"Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&component=general\n"
-"""POT-Creation-Date: 2010-08-01 11:06+0000\n"
-"PO-Revision-Date: 2010-08-02 13:48+0100\n"
+"POT-Creation-Date: 2010-08-10 18:25+0000\n"
+"PO-Revision-Date: 2010-08-11 13:46+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -18,33 +19,66 @@ msgstr ""
 "X-Poedit-Language: Slovenian\n"
 "X-Poedit-Country: SLOVENIA\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"POT-Creation-Date: \n"
 
 #: ../effects/agingtv.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr "Dodajanje prask in prašnosti vhodnemu videu"
+
+#. Preview: http://effectv.sourceforge.net/aging.html
+#: ../effects/agingtv.effect.in.h:3
 msgid "Historical"
 msgstr "Zgodovinski"
 
-#: ../effects/cartoon.effect.in.h:1
+#. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
+#: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
 msgstr "Risanka"
 
-#: ../effects/cheguevara.effect.in.h:1
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "Dodajanje učinka risanke vhodnemu videu"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
+#: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
 msgstr "Che Guevara"
+
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "Preoblikovanje vhodnega videa v Che Guevara slogu"
 
 #: ../effects/chrome.effect.in.h:1
 msgid "Chrome"
 msgstr "Barve"
 
-#: ../effects/dicetv.effect.in.h:1
+#: ../effects/chrome.effect.in.h:2
+msgid "Transform video input into a metallic look"
+msgstr "Preoblikovanje vhodnega videa v kovinski odsev slike"
+
+#. Preview: http://effectv.sourceforge.net/dice.html
+#: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "Kocke"
 
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr "Preoblikovanje vhodnega videa v kockasto mrežo slike"
+
 #: ../effects/distortion.effect.in.h:1
+msgid "Distort the video input"
+msgstr "Popačenje slike vhodnega videa"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-distort0r.png
+#: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
 msgstr "Popačenje"
 
 #: ../effects/edgetv.effect.in.h:1
+msgid "Display video input like good old low resolution computer way"
+msgstr "Preoblikovanje vhodnega videa z učinkom nizke ločljivosti"
+
+#. Preview: http://effectv.sourceforge.net/edge.html
+#: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Robovi"
 
@@ -52,11 +86,16 @@ msgstr "Robovi"
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/identity.effect.in.h:1
-msgid "No Effect"
-msgstr "Brez učinka"
+#: ../effects/hulk.effect.in.h:2
+msgid "Transform yourself into the amazing Hulk"
+msgstr "Preoblikovanje vhodnega videa z učinkom velikega Hulka"
 
 #: ../effects/invertion.effect.in.h:1
+msgid "Invert colors of the video input"
+msgstr "Preobračanje barv slike vhodnega videa"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-invert0r.png
+#: ../effects/invertion.effect.in.h:3
 msgid "Invertion"
 msgstr "Obrnjeno"
 
@@ -64,51 +103,116 @@ msgstr "Obrnjeno"
 msgid "Mauve"
 msgstr "Mauve"
 
-#: ../effects/noir.effect.in.h:1
+#: ../effects/mauve.effect.in.h:2
+msgid "Transform video input into a mauve color"
+msgstr "Preoblikovanje vhodnega videa z mauve učinkom"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
+#: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
 msgstr "Črno/Belo"
 
-#: ../effects/optv.effect.in.h:1
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "Preoblikovanje vhodnega videa v sivine"
+
+#. Preview: http://effectv.sourceforge.net/op.html
+#: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
 msgstr "Optične prevare"
 
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "Običajno črno-belo animiranje"
+
 #: ../effects/quarktv.effect.in.h:1
+msgid "Dissolves moving objects in the video input"
+msgstr "Preoblikovanje videa z raztapljanjem gibljivih predmetov"
+
+#. Preview: http://effectv.sourceforge.net/quark.html
+#: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
 msgstr "Kvarki"
 
 #: ../effects/radioactv.effect.in.h:1
+msgid "Detect radioactivity and show it"
+msgstr "Preoblikovanje vhodnega videa v učinek radioaktivnega sevanja"
+
+#. Preview: http://effectv.sourceforge.net/radio.html
+#: ../effects/radioactv.effect.in.h:3
 msgid "Radioactive"
 msgstr "Radioaktivno"
 
 #: ../effects/revtv.effect.in.h:1
+msgid "Transform video input into a waveform monitor"
+msgstr "Preoblikovanje vhodnega videa z učinkom valovanja"
+
+#. Preview: http://effectv.sourceforge.net/rev.html
+#: ../effects/revtv.effect.in.h:3
 msgid "Waveform"
 msgstr "Valovanje"
 
 #: ../effects/ripple.effect.in.h:1
+msgid "Add the ripple mark effect on the video input"
+msgstr "Preoblikovanje vhodnega videa z učinkom kodranje"
+
+#. Preview: http://effectv.sourceforge.net/ripple.html
+#: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
 msgstr "Kodranje"
 
 #: ../effects/saturation.effect.in.h:1
+msgid "Add more saturation to the video input"
+msgstr "Preoblikovanje vhodnega videa z nasičenostjo barv"
+
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "Nasičenost"
 
 #: ../effects/shagadelictv.effect.in.h:1
+msgid "Add some hallucination to the video input"
+msgstr "Preoblikovanje vhodnega videa z učinkom haluciniranja"
+
+#. Preview: http://effectv.sourceforge.net/shagadelic.html
+#: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
 msgstr "Žmohtno"
 
 #: ../effects/sobel.effect.in.h:1
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Poudarjanje robov na sliki videa z Sobel učinkom."
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
+#: ../effects/sobel.effect.in.h:3
 msgid "Sobel"
 msgstr "Sobel"
 
-#: ../effects/streaktv.effect.in.h:1
+#. Preview: http://effectv.sourceforge.net/streak.html
+#: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
 msgstr "Kung-Fu"
 
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "Preoblikovanje gibanja v kungfu slogu"
+
 #: ../effects/vertigotv.effect.in.h:1
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "Dodajanje zanke bledenja s kroženjem in spreminjanjem merila"
+
+#. Preview: http://effectv.sourceforge.net/vertigo.html
+#: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "Vertigo"
 
 #: ../effects/warptv.effect.in.h:1
+msgid "Transform video input into realtime goo'ing"
+msgstr "Preoblikovanje vhodnega videa z učinkom gibanja."
+
+#. Preview: http://effectv.sourceforge.net/warp.html
+#: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Warp"
 
+#~ msgid "No Effect"
+#~ msgstr "Brez učinka"
