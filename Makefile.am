@@ -1,4 +1,6 @@
-SUBDIRS = effects po
+SUBDIRS = effects
+
+DIST_SUBDIRS = $(SUBDIRS) po
 
 EXTRA_DIST = \
 	README \
