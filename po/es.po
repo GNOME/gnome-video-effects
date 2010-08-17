@@ -1,5 +1,5 @@
-# translation of cheese.HEAD.po to Español
-# Cheese Spanish translation
+# translation of gnome-video-effects.master.po to Español
+# gnome-video-effects Spanish translation
 # Copyright (C) 2007 daniel g. siegel <dgsiegel@gnome.org>
 # This file is distributed under the same license as cheese
 #
@@ -8,11 +8,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cheese.master\n"
+"Project-Id-Version: gnome-video-effects.master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&component=general\n"
 "POT-Creation-Date: 2010-08-11 18:03+0000\n"
-"PO-Revision-Date: 2010-08-16 23:02+0200\n"
+"PO-Revision-Date: 2010-08-17 08:38+0200\n"
 "Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -130,7 +130,7 @@ msgstr ""
 
 #: ../effects/quarktv.effect.in.h:1
 msgid "Dissolves moving objects in the video input"
-msgstr ""
+msgstr "Disolver los objetos en movimiento en la entrada de vídeo"
 
 #. Preview: http://effectv.sourceforge.net/quark.html
 #: ../effects/quarktv.effect.in.h:3
@@ -166,7 +166,7 @@ msgstr "Rizado"
 
 #: ../effects/saturation.effect.in.h:1
 msgid "Add more saturation to the video input"
-msgstr ""
+msgstr "Añadir más saturación a la entrada de vídeo"
 
 #: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
@@ -174,7 +174,7 @@ msgstr "Saturación"
 
 #: ../effects/shagadelictv.effect.in.h:1
 msgid "Add some hallucination to the video input"
-msgstr ""
+msgstr "Añadir algo de alucinación a la entrada de vídeo"
 
 #. Preview: http://effectv.sourceforge.net/shagadelic.html
 #: ../effects/shagadelictv.effect.in.h:3
@@ -183,7 +183,7 @@ msgstr "Psicodélico"
 
 #: ../effects/sobel.effect.in.h:1
 msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr ""
+msgstr "Extrae los bordes de la entrada de vídeo usando el operador Sobel"
 
 #. Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
 #: ../effects/sobel.effect.in.h:3
@@ -197,7 +197,7 @@ msgstr "Kung-Fu"
 
 #: ../effects/streaktv.effect.in.h:3
 msgid "Transform motions into Kung-Fu style"
-msgstr ""
+msgstr "Transformar movimientos en estilo Kung-fu"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
