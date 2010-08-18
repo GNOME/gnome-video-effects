@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=Time delay
+_Comment=Show what was happening in the past
+PipelineDescription=frei0r-filter-delay0r delaytime=30

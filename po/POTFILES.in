@@ -21,5 +21,6 @@
 [type: gettext/ini]effects/shagadelictv.effect.in
 [type: gettext/ini]effects/sobel.effect.in
 [type: gettext/ini]effects/streaktv.effect.in
+[type: gettext/ini]effects/timedelay.effect.in
 [type: gettext/ini]effects/vertigotv.effect.in
 [type: gettext/ini]effects/warptv.effect.in

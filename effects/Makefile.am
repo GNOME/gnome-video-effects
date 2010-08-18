@@ -22,6 +22,7 @@ effects_in_files = \
 	shagadelictv.effect.in \
 	sobel.effect.in \
 	streaktv.effect.in \
+	timedelay.effect.in \
 	vertigotv.effect.in \
 	warptv.effect.in \
 	$(NULL)
