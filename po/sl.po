@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&component=general\n"
-"POT-Creation-Date: 2010-08-10 18:25+0000\n"
-"PO-Revision-Date: 2010-08-11 13:46+0100\n"
+"POT-Creation-Date: 2010-08-18 12:54+0000\n"
+"PO-Revision-Date: 2010-08-21 08:26+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -196,6 +196,14 @@ msgstr "Kung-Fu"
 msgid "Transform motions into Kung-Fu style"
 msgstr "Preoblikovanje gibanja v kungfu slogu"
 
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "Pokaži dogajanje v preteklosti"
+
+#: ../effects/timedelay.effect.in.h:2
+msgid "Time delay"
+msgstr "Časovni zamik"
+
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr "Dodajanje zanke bledenja s kroženjem in spreminjanjem merila"
@@ -213,6 +221,3 @@ msgstr "Preoblikovanje vhodnega videa z učinkom gibanja."
 #: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Warp"
-
-#~ msgid "No Effect"
-#~ msgstr "Brez učinka"
