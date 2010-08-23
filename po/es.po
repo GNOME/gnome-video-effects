@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: gnome-video-effects.master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&component=general\n"
-"POT-Creation-Date: 2010-08-11 18:03+0000\n"
-"PO-Revision-Date: 2010-08-17 08:38+0200\n"
+"POT-Creation-Date: 2010-08-18 12:54+0000\n"
+"PO-Revision-Date: 2010-08-23 19:45+0200\n"
 "Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +37,7 @@ msgstr "Dibujos animados"
 
 #: ../effects/cartoon.effect.in.h:3
 msgid "Cartoonify video input"
-msgstr ""
+msgstr "Mostrar la entrada como dibujos animados"
 
 #. Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
 #: ../effects/cheguevara.effect.in.h:2
@@ -126,7 +126,7 @@ msgstr "Ilusión óptica"
 
 #: ../effects/optv.effect.in.h:3
 msgid "Traditional black-white optical animation"
-msgstr ""
+msgstr "Animación óptica en blanco y negro tradicional"
 
 #: ../effects/quarktv.effect.in.h:1
 msgid "Dissolves moving objects in the video input"
@@ -198,6 +198,14 @@ msgstr "Kung-Fu"
 #: ../effects/streaktv.effect.in.h:3
 msgid "Transform motions into Kung-Fu style"
 msgstr "Transformar movimientos en estilo Kung-fu"
+
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "Mostrar lo que estaba pasando en el pasado"
+
+#: ../effects/timedelay.effect.in.h:2
+msgid "Time delay"
+msgstr "Retardo de tiempo"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
