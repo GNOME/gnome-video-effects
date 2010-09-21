@@ -8,48 +8,84 @@
 # Fábio Nogueira <deb-user-ba@ubuntu.com>, 2008.
 # Vladimir Melo <vladimirmelo@foresightlinux.org>, 2008.
 # Daniel S. Koda <danielskoda@gmail.com>, 2009.
-# Djavan Fagundes <dnoway@gmail.com>, 2009.
+# Djavan Fagundes <djavanf@gnome.org>, 2009, 2010
 # Michel Recondo <michel@recondo.com.br>, 2010.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2010-01-29 11:17-0200\n"
-"Last-Translator: Michel Recondo <michel@recondo.com.br>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&component=general\n"
+"POT-Creation-Date: 2010-08-18 12:54+0000\n"
+"PO-Revision-Date: 2010-09-21 16:52-0200\n"
+"Last-Translator: Djavan Fagundes <djavanf@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
 
 #: ../effects/agingtv.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr "Adicionar idade para a entrada de vídeo usando raspagem e poeira"
+
+#. Preview: http://effectv.sourceforge.net/aging.html
+#: ../effects/agingtv.effect.in.h:3
 msgid "Historical"
-msgstr ""
+msgstr "Histórico"
 
-#: ../effects/cartoon.effect.in.h:1
+#. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
+#: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
-msgstr ""
+msgstr "Cartoon"
 
-#: ../effects/cheguevara.effect.in.h:1
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "Cartoonificar entrada de vídeo"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
+#: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
-msgstr ""
+msgstr "Che Guevara"
+
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "Transformar entrada de vídeo no estilo típico Che Guevara"
 
 #: ../effects/chrome.effect.in.h:1
 msgid "Chrome"
-msgstr ""
+msgstr "Cromo"
 
-#: ../effects/dicetv.effect.in.h:1
+#: ../effects/chrome.effect.in.h:2
+msgid "Transform video input into a metallic look"
+msgstr "Transformar entrada de vídeo em um visual metálico"
+
+#. Preview: http://effectv.sourceforge.net/dice.html
+#: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "Despedaçar"
 
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr "Despedaçar a entrada de vídeo em muitos quadrados pequenos"
+
 #: ../effects/distortion.effect.in.h:1
-#, fuzzy
+msgid "Distort the video input"
+msgstr "Distorcer a entrada de vídeo"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-distort0r.png
+#: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
-msgstr "Resolução"
+msgstr "Distorção"
 
 #: ../effects/edgetv.effect.in.h:1
+msgid "Display video input like good old low resolution computer way"
+msgstr ""
+"Exibe a entrada de vídeo como um bom computador velho de baixa resolução"
+
+#. Preview: http://effectv.sourceforge.net/edge.html
+#: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Borda"
 
@@ -57,63 +93,143 @@ msgstr "Borda"
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/identity.effect.in.h:1
-msgid "No Effect"
-msgstr "Sem efeitos"
+#: ../effects/hulk.effect.in.h:2
+msgid "Transform yourself into the amazing Hulk"
+msgstr "Transforme-se em no incrível Hulk"
 
 #: ../effects/invertion.effect.in.h:1
-#, fuzzy
+msgid "Invert colors of the video input"
+msgstr "Inverter cores em uma entrada de vídeo"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-invert0r.png
+#: ../effects/invertion.effect.in.h:3
 msgid "Invertion"
-msgstr "Vertigem"
+msgstr "Inversão"
 
 #: ../effects/mauve.effect.in.h:1
 msgid "Mauve"
 msgstr "Lilás"
 
-#: ../effects/noir.effect.in.h:1
+#: ../effects/mauve.effect.in.h:2
+msgid "Transform video input into a mauve color"
+msgstr "Transformar entrada de vídeo em uma cor lilás"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
+#: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
 msgstr "Preto e branco"
 
-#: ../effects/optv.effect.in.h:1
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "Transformar entrada de vídeo em uma escala de cinza "
+
+#. Preview: http://effectv.sourceforge.net/op.html
+#: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
-msgstr ""
+msgstr "Ilusão de ótica"
+
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "Animação de ótica tradicional preto-e-branco"
 
 #: ../effects/quarktv.effect.in.h:1
+msgid "Dissolves moving objects in the video input"
+msgstr "Dissolve objetos em movimento na entrada de vídeo"
+
+#. Preview: http://effectv.sourceforge.net/quark.html
+#: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
-msgstr ""
+msgstr "Dissolver"
 
 #: ../effects/radioactv.effect.in.h:1
+msgid "Detect radioactivity and show it"
+msgstr "Detecta radioatividade e exibe-a"
+
+#. Preview: http://effectv.sourceforge.net/radio.html
+#: ../effects/radioactv.effect.in.h:3
 msgid "Radioactive"
-msgstr ""
+msgstr "Radioatividade"
 
 #: ../effects/revtv.effect.in.h:1
+msgid "Transform video input into a waveform monitor"
+msgstr "Transformar entrada de vídeo em ondas do monitor"
+
+#. Preview: http://effectv.sourceforge.net/rev.html
+#: ../effects/revtv.effect.in.h:3
 msgid "Waveform"
-msgstr ""
+msgstr "Formas de onda"
 
 #: ../effects/ripple.effect.in.h:1
+msgid "Add the ripple mark effect on the video input"
+msgstr "Adiciona um efeito de ondulação na entrada de vídeo"
+
+#. Preview: http://effectv.sourceforge.net/ripple.html
+#: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
-msgstr ""
+msgstr "Ondulação"
 
 #: ../effects/saturation.effect.in.h:1
+msgid "Add more saturation to the video input"
+msgstr "Adiciona mais saturação na entrada de vídeo"
+
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "Saturação"
 
 #: ../effects/shagadelictv.effect.in.h:1
+msgid "Add some hallucination to the video input"
+msgstr "Adiciona alguma alucinação na entrada de vídeo"
+
+#. Preview: http://effectv.sourceforge.net/shagadelic.html
+#: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
 msgstr "Psicodélico"
 
 #: ../effects/sobel.effect.in.h:1
-msgid "Sobel"
-msgstr ""
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Extrai as beirada da entrada de vídeo através do operador Sobel"
 
-#: ../effects/streaktv.effect.in.h:1
+#. Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
+#: ../effects/sobel.effect.in.h:3
+msgid "Sobel"
+msgstr "Sobel"
+
+#. Preview: http://effectv.sourceforge.net/streak.html
+#: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
-msgstr ""
+msgstr "Kung-Fu"
+
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "Transforma os movimentos no estilo Kung-Fu"
+
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "Exibe o que estava acontecendo no passado"
+
+#: ../effects/timedelay.effect.in.h:2
+msgid "Time delay"
+msgstr "Atraso de tempo"
 
 #: ../effects/vertigotv.effect.in.h:1
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+"Adiciona uma combinação efeitos de loop (loopback alpha blending effector) "
+"com rotação e escala."
+
+#. Preview: http://effectv.sourceforge.net/vertigo.html
+#: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "Vertigem"
 
 #: ../effects/warptv.effect.in.h:1
+msgid "Transform video input into realtime goo'ing"
+msgstr "Transforma a entrada de vídeo em uma viagem em tempo real."
+
+#. Preview: http://effectv.sourceforge.net/warp.html
+#: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Deformar"
+
+#~ msgid "No Effect"
+#~ msgstr "Sem efeitos"
