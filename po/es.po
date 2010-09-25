@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&component=general\n"
 "POT-Creation-Date: 2010-08-18 12:54+0000\n"
-"PO-Revision-Date: 2010-08-23 19:45+0200\n"
+"PO-Revision-Date: 2010-09-25 11:44+0200\n"
 "Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr "Forma de onda"
 
 #: ../effects/ripple.effect.in.h:1
 msgid "Add the ripple mark effect on the video input"
-msgstr ""
+msgstr "Añadir un efecto de ondulación en la salida del vídeo"
 
 #. Preview: http://effectv.sourceforge.net/ripple.html
 #: ../effects/ripple.effect.in.h:3
@@ -209,7 +209,7 @@ msgstr "Retardo de tiempo"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr ""
+msgstr "Añadir efecto de bucle de mezcla alfa con rotación y escalado"
 
 #. Preview: http://effectv.sourceforge.net/vertigo.html
 #: ../effects/vertigotv.effect.in.h:3
@@ -219,6 +219,7 @@ msgstr "Vértigo"
 #: ../effects/warptv.effect.in.h:1
 msgid "Transform video input into realtime goo'ing"
 msgstr ""
+"Transformar la entrada de vídeo con una distorsión «goo'ing» en tiempo real"
 
 #. Preview: http://effectv.sourceforge.net/warp.html
 #: ../effects/warptv.effect.in.h:3
