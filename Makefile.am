@@ -11,7 +11,7 @@ CLEANFILES = gnome-video-effects.pc
 DISTCLEANFILES = \
 	gnome-doc-utils.make
 
-pkgconfigdir = $(libdir)/pkgconfig
+pkgconfigdir = $(datadir)/pkgconfig
 pkgconfig_DATA = gnome-video-effects.pc
 
 dist-hook:
