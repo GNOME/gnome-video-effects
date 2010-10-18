@@ -200,7 +200,7 @@ msgstr "Transformă mișcările în stilul Kung-Fu"
 
 #: ../effects/timedelay.effect.in.h:1
 msgid "Show what was happening in the past"
-msgstr "Arăta ceea ce se întâmpla în trecut"
+msgstr "Arată ceea ce se întâmpla în trecut"
 
 #: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
