@@ -5,46 +5,84 @@
 # Athanasios Lefteris <alefteris@gmail.com>, 2007, 2008.
 # Simos Xenitellis <simos@gnome.org>, 2008.
 # Jennie Petoumenou <epetoumenou@gmail.com>, 2009.
+# Georgios Stefanakis <george.stefanakis@gmail.com>, 2010.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2010-03-06 13:34+0200\n"
-"Last-Translator: Kostas Papadimas <pkst@gnome.org>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&component=general\n"
+"POT-Creation-Date: 2010-08-18 12:54+0000\n"
+"PO-Revision-Date: 2010-11-04 22:39+0200\n"
+"Last-Translator: Georgios Stefanakis <george.stefanakis@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: Lokalize 0.2\n"
 
 #: ../effects/agingtv.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr ""
+"Προσθήκη ηλικίας στο Βίντεο εισόδου με την χρήση γρατζουνιών και σκόνης"
+
+#. Preview: http://effectv.sourceforge.net/aging.html
+#: ../effects/agingtv.effect.in.h:3
 msgid "Historical"
-msgstr ""
+msgstr "Ιστορικό"
 
-#: ../effects/cartoon.effect.in.h:1
+#. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
+#: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
-msgstr ""
+msgstr "Κινούμενο σχέδιο (Καρτούν)"
 
-#: ../effects/cheguevara.effect.in.h:1
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "Καρτουνοποίηση του βίντεο εισόδου"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
+#: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
-msgstr ""
+msgstr "Τσε Γκεβάρα"
+
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "Μετατροπή βίντεο εισόδου σε τυπικό στυλ Τσε Γκεβάρα"
 
 #: ../effects/chrome.effect.in.h:1
 msgid "Chrome"
-msgstr ""
+msgstr "Χρώμιο"
 
-#: ../effects/dicetv.effect.in.h:1
+#: ../effects/chrome.effect.in.h:2
+msgid "Transform video input into a metallic look"
+msgstr "Μετατροπή βίντεο εισόδου σε μεταλλική εμφάνιση"
+
+#. Preview: http://effectv.sourceforge.net/dice.html
+#: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
-msgstr "Κύβοι"
+msgstr "Τετράγωνα"
+
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr "Κόβει το βίντεο εισόδου σε πολλά μικρά τετράγωνα"
 
 #: ../effects/distortion.effect.in.h:1
-#, fuzzy
+msgid "Distort the video input"
+msgstr "Παραμόρφωση βίντεο εισόδου"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-distort0r.png
+#: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
-msgstr "Ανάλυση"
+msgstr "Παραμόρφωση"
 
 #: ../effects/edgetv.effect.in.h:1
+msgid "Display video input like good old low resolution computer way"
+msgstr ""
+"Προβολή βίντεο εισόδου όπως την παλαιά καλή χαμηλή ανάλυση των υπολογιστών"
+
+#. Preview: http://effectv.sourceforge.net/edge.html
+#: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Περίγραμμα"
 
@@ -52,63 +90,141 @@ msgstr "Περίγραμμα"
 msgid "Hulk"
 msgstr "Χουλκ"
 
-#: ../effects/identity.effect.in.h:1
-msgid "No Effect"
-msgstr "Δίχως εφέ"
+#: ../effects/hulk.effect.in.h:2
+msgid "Transform yourself into the amazing Hulk"
+msgstr "Μεταμορφώστε τον εαυτό σας στον απίστευτο Χάλκ"
 
 #: ../effects/invertion.effect.in.h:1
-#, fuzzy
+msgid "Invert colors of the video input"
+msgstr "Αναστροφή χρωμάτων στο βίντεο εισόδου"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-invert0r.png
+#: ../effects/invertion.effect.in.h:3
 msgid "Invertion"
-msgstr "Ίλιγγος"
+msgstr "Αναστροφή"
 
 #: ../effects/mauve.effect.in.h:1
 msgid "Mauve"
 msgstr "Μωβ"
 
-#: ../effects/noir.effect.in.h:1
-msgid "Noir/Blanc"
-msgstr "Άσπρο/μαύρο"
+#: ../effects/mauve.effect.in.h:2
+msgid "Transform video input into a mauve color"
+msgstr "Μεταμορφώστε το βίντεο εισόδου σε χρώμα μωβ"
 
-#: ../effects/optv.effect.in.h:1
+#. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
+#: ../effects/noir.effect.in.h:2
+msgid "Noir/Blanc"
+msgstr "Νουάρ/μαύρο"
+
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "Μεταμορφώστε το βίντεο εισόδου σε ασπρόμαυρο"
+
+#. Preview: http://effectv.sourceforge.net/op.html
+#: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
-msgstr ""
+msgstr "Οπτική αυταπάτη"
+
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "Παραδοσιακό οπτικό κινούμενο σχέδιο άσπρο-μαύρο"
 
 #: ../effects/quarktv.effect.in.h:1
+msgid "Dissolves moving objects in the video input"
+msgstr "Διάλυση κινούμενων αντικειμένων στο βίντεο εισόδου"
+
+#. Preview: http://effectv.sourceforge.net/quark.html
+#: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
-msgstr ""
+msgstr "Quark"
 
 #: ../effects/radioactv.effect.in.h:1
+msgid "Detect radioactivity and show it"
+msgstr "Εντοπισμός και εμφάνιση ραδιοακτινοβολίας"
+
+#. Preview: http://effectv.sourceforge.net/radio.html
+#: ../effects/radioactv.effect.in.h:3
 msgid "Radioactive"
-msgstr ""
+msgstr "Ραδιενεργό"
 
 #: ../effects/revtv.effect.in.h:1
+msgid "Transform video input into a waveform monitor"
+msgstr "Μεταμορφώστε το βίντεο εισόδου σε οθόνη κυμματομορφών"
+
+#. Preview: http://effectv.sourceforge.net/rev.html
+#: ../effects/revtv.effect.in.h:3
 msgid "Waveform"
-msgstr ""
+msgstr "Κυματομορφή"
 
 #: ../effects/ripple.effect.in.h:1
+msgid "Add the ripple mark effect on the video input"
+msgstr "Προσθέστε κυματισμό στο βίντεο εισόδου"
+
+#. Preview: http://effectv.sourceforge.net/ripple.html
+#: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
-msgstr ""
+msgstr "Κυματισμός"
 
 #: ../effects/saturation.effect.in.h:1
+msgid "Add more saturation to the video input"
+msgstr "Προθήκη περισσότερου κορεσμού στο βίντεο εισόδου"
+
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "Κορεσμός"
 
 #: ../effects/shagadelictv.effect.in.h:1
+msgid "Add some hallucination to the video input"
+msgstr "Προσθήκη εφέ παραίσθησης στο βίντεο εισόδου"
+
+#. Preview: http://effectv.sourceforge.net/shagadelic.html
+#: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
 msgstr "Ψυχεδέλεια"
 
 #: ../effects/sobel.effect.in.h:1
-msgid "Sobel"
-msgstr ""
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Εξαγωγή ακμών στο βίντεο εισόδου με χρήση του τελεστή Sobel"
 
-#: ../effects/streaktv.effect.in.h:1
+#. Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
+#: ../effects/sobel.effect.in.h:3
+msgid "Sobel"
+msgstr "Sobel"
+
+#. Preview: http://effectv.sourceforge.net/streak.html
+#: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
-msgstr ""
+msgstr "Κουνγκ-φου"
+
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "Μεταμορφώστε τις κινήσεις σε στυλ κουνγκ-φου"
+
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "Δείξε τι συνέβαινε στο παρελθόν"
+
+#: ../effects/timedelay.effect.in.h:2
+msgid "Time delay"
+msgstr "Χρονική καθυστέρηση"
 
 #: ../effects/vertigotv.effect.in.h:1
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/vertigo.html
+#: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "Ίλιγγος"
 
 #: ../effects/warptv.effect.in.h:1
+msgid "Transform video input into realtime goo'ing"
+msgstr "Μετατροπή της εισόδου βίντεο σε ταλάντωση πραγματικού χρόνου"
+
+#. Preview: http://effectv.sourceforge.net/warp.html
+#: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Στρέβλωση"
+
+#~ msgid "No Effect"
+#~ msgstr "Δίχως εφέ"
