@@ -114,7 +114,7 @@ msgstr "Μεταμορφώστε το βίντεο εισόδου σε χρώμ�
 #. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
 #: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
-msgstr "Νουάρ/μαύρο"
+msgstr "Ασπρόμαυρο"
 
 #: ../effects/noir.effect.in.h:3
 msgid "Transform video input into grayscale"
