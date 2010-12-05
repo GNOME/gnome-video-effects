@@ -2,7 +2,6 @@
 
 effectsdir = $(datadir)/gnome-video-effects
 effects_in_files = \
-	agingtv.effect.in \
 	bulge.effect.in \
 	cartoon.effect.in \
 	cheguevara.effect.in \
@@ -11,6 +10,7 @@ effects_in_files = \
 	distortion.effect.in \
 	edgetv.effect.in \
 	heat.effect.in \
+	historical.effect.in \
 	hulk.effect.in \
 	invertion.effect.in \
 	kaleidoscope.effect.in \
