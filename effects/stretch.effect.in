@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+Name=Stretch
+Comment=Stretches the center of the video
+PipelineDescription=stretch

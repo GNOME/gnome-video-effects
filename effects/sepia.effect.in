@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=Sepia
+_Comment=Sepia toning
+PipelineDescription=coloreffects preset=sepia

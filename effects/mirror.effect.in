@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=Mirror
+_Comment=Mirrors the video
+PipelineDescription=mirror

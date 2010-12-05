@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=Square
+_Comment=Makes a square out of the center of the video
+PipelineDescription=square

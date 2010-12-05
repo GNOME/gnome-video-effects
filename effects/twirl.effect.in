@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=Twirl
+_Comment=Twirl the center of the video
+PipelineDescription=twirl

@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=Bulge
+_Comment=Bulges the center of the video
+PipelineDescription=bulge

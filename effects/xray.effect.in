@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=X-Ray
+_Comment=Invert and slightly shade to blue
+PipelineDescription=coloreffects preset=xray

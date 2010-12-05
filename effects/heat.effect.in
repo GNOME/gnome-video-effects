@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=Heat
+_Comment=Fake heat camera toning
+PipelineDescription=coloreffects preset=heat

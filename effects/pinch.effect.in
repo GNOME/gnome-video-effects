@@ -1,0 +1,5 @@
+[Effect]
+Encoding=UTF-8
+_Name=Pinch
+_Comment=Pinches the center of the video
+PipelineDescription=pinch
