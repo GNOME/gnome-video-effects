@@ -1,5 +1,33 @@
 ChangeLog for GNOME Video Effects
 --------------------
 
+version 0.2.0
+  - make the historical effect black and white
+  - decrease the time delay on the timedelay effect to 5 seconds
+  - add new effects by filippo argiolas
+    this commit introduces the new gstreamer effects, which can
+    be found here:
+    http://blogs.gnome.org/fargiolas/2010/08/11/effects-for-everyone/
+  - install the pkgconfig file in $datadir, fixes bug #628502
+  - add timedelay effect
+  - Added/Updated Translations
+    - bg, courtesy of Alexander Shopov
+    - ca, courtesy of Jordi Estrada
+    - ca@valencia, courtesy of Gil Forcada
+    - cs, courtesy of Marek Černocký
+    - de, courtesy of Mario Blättermann
+    - el, courtesy of Georgios Stefanakis
+    - es, courtesy of Jorge González
+    - fr, courtesy of Claude Paroz
+    - he, courtesy of Yaron Shahrabani
+    - pl, courtesy of Piotr Drąg
+    - pt_BR, courtesy of Djavan Fagundes
+    - ro, courtesy of Lucian Adrian Grijincu
+    - sl, courtesy of Matej Urbančič
+    - sr, courtesy of Милош Поповић
+    - sr@latin, courtesy of Miloš Popović
+    - sv, courtesy of Daniel Nylander
+  - Added/Updated Documentation
+
 version 0.1.0:
   - initial version
