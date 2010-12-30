@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-11-21 21:16+0100\n"
+"POT-Creation-Date: 2010-12-30 18:26+0100\n"
 "PO-Revision-Date: 2010-12-30 18:25+0100\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
@@ -16,15 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../effects/agingtv.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "Lägg till ålder till videoinmatningen med repor och damm"
-
-#. Preview: http://effectv.sourceforge.net/aging.html
-#: ../effects/agingtv.effect.in.h:3
-msgid "Historical"
-msgstr "Historisk"
 
 #. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
 #: ../effects/cartoon.effect.in.h:2
@@ -219,6 +210,11 @@ msgstr "Transformera videoinmatningen till gegga i realtid"
 msgid "Warp"
 msgstr "Vrid"
 
+#~ msgid "Add age to video input using scratches and dust"
+#~ msgstr "Lägg till ålder till videoinmatningen med repor och damm"
+
+#~ msgid "Historical"
+#~ msgstr "Historisk"
+
 #~ msgid "No Effect"
 #~ msgstr "Ingen effekt"
-
