@@ -5,15 +5,16 @@
 #
 # Ricardo González Castro <rick@jinlabs.com>, 2007.
 # Jorge González <jorgegonz@svn.gnome.org>, 2007, 2008, 2009, 2010.
+# Daniel Mustieles <daniel.mustieles@gmail.com>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects.master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&component=general\n"
-"POT-Creation-Date: 2010-08-18 12:54+0000\n"
-"PO-Revision-Date: 2010-09-25 11:44+0200\n"
-"Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
+"POT-Creation-Date: 2011-01-04 13:36+0000\n"
+"PO-Revision-Date: 2011-01-16 12:28+0100\n"
+"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,14 +22,13 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "Añadir años a la entrada de vídeo usando arañazos y polvo"
+#: ../effects/bulge.effect.in.h:1
+msgid "Bulge"
+msgstr "Bulto"
 
-#. Preview: http://effectv.sourceforge.net/aging.html
-#: ../effects/agingtv.effect.in.h:3
-msgid "Historical"
-msgstr "Histórico"
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulges the center of the video"
+msgstr "Abulta el centro del vídeo"
 
 #. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
 #: ../effects/cartoon.effect.in.h:2
@@ -85,6 +85,23 @@ msgstr ""
 msgid "Edge"
 msgstr "Contornos"
 
+#: ../effects/heat.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr "Tonalidad de calor de la cámara falsa"
+
+#: ../effects/heat.effect.in.h:2
+msgid "Heat"
+msgstr "Calor"
+
+#: ../effects/historical.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr "Añadir años a la entrada de vídeo usando arañazos y polvo"
+
+#. Preview: http://effectv.sourceforge.net/aging.html
+#: ../effects/historical.effect.in.h:3
+msgid "Historical"
+msgstr "Histórico"
+
 #: ../effects/hulk.effect.in.h:1
 msgid "Hulk"
 msgstr "Hulk"
@@ -102,6 +119,14 @@ msgstr "Invertir los colores de la entrada de vídeo"
 msgid "Invertion"
 msgstr "Inversión"
 
+#: ../effects/kaleidoscope.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr "Un caleidoscopio"
+
+#: ../effects/kaleidoscope.effect.in.h:2
+msgid "Kaleidoscope"
+msgstr "Caleidoscopio"
+
 #: ../effects/mauve.effect.in.h:1
 msgid "Mauve"
 msgstr "Malva"
@@ -109,6 +134,15 @@ msgstr "Malva"
 #: ../effects/mauve.effect.in.h:2
 msgid "Transform video input into a mauve color"
 msgstr "Transformar la entrada de vídeo en un color malva"
+
+#: ../effects/mirror.effect.in.h:1
+msgid "Mirror"
+msgstr "Espejo"
+
+#: ../effects/mirror.effect.in.h:2
+#| msgid "Distort the video input"
+msgid "Mirrors the video"
+msgstr "Refleja el vídeo"
 
 #. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
 #: ../effects/noir.effect.in.h:2
@@ -127,6 +161,15 @@ msgstr "Ilusión óptica"
 #: ../effects/optv.effect.in.h:3
 msgid "Traditional black-white optical animation"
 msgstr "Animación óptica en blanco y negro tradicional"
+
+#: ../effects/pinch.effect.in.h:1
+msgid "Pinch"
+msgstr "Aspiración"
+
+#: ../effects/pinch.effect.in.h:2
+#| msgid "Invert colors of the video input"
+msgid "Pinches the center of the video"
+msgstr "Aspira el centro del vídeo"
 
 #: ../effects/quarktv.effect.in.h:1
 msgid "Dissolves moving objects in the video input"
@@ -172,6 +215,14 @@ msgstr "Añadir más saturación a la entrada de vídeo"
 msgid "Saturation"
 msgstr "Saturación"
 
+#: ../effects/sepia.effect.in.h:1
+msgid "Sepia"
+msgstr "Sepia"
+
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia toning"
+msgstr "Tonalidad sepia"
+
 #: ../effects/shagadelictv.effect.in.h:1
 msgid "Add some hallucination to the video input"
 msgstr "Añadir algo de alucinación a la entrada de vídeo"
@@ -190,6 +241,14 @@ msgstr "Extrae los bordes de la entrada de vídeo usando el operador Sobel"
 msgid "Sobel"
 msgstr "Bordes Sobel"
 
+#: ../effects/square.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr "Crea un cuadrado del centro del vídeo"
+
+#: ../effects/square.effect.in.h:2
+msgid "Square"
+msgstr "Cuadrado"
+
 #. Preview: http://effectv.sourceforge.net/streak.html
 #: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
@@ -206,6 +265,14 @@ msgstr "Mostrar lo que estaba pasando en el pasado"
 #: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
 msgstr "Retardo de tiempo"
+
+#: ../effects/twirl.effect.in.h:1
+msgid "Twirl"
+msgstr "Remolino"
+
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl the center of the video"
+msgstr "Crea un remolino en el centro del vídeo"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
@@ -225,6 +292,14 @@ msgstr ""
 #: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Distorsión"
+
+#: ../effects/xray.effect.in.h:1
+msgid "Invert and slightly shade to blue"
+msgstr "Invertir y sombrear en azul"
+
+#: ../effects/xray.effect.in.h:2
+msgid "X-Ray"
+msgstr "Rayos X"
 
 #~ msgid "No Effect"
 #~ msgstr "Sin efectos"
