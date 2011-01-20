@@ -6,31 +6,31 @@
 # Petr Kovar <pknbe@volny.cz>, 2008, 2010.
 # Kamil Páral <ripper42@gmail.com>, 2008.
 # Lucas Lommer <llommer@svn.gnome.org>, 2009, 2010.
-# Marek Černocký <marek@manet.cz>, 2010.
+# Marek Černocký <marek@manet.cz>, 2010, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-09-22 01:25+0200\n"
-"PO-Revision-Date: 2010-08-28 14:51+0200\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&component=general\n"
+"POT-Creation-Date: 2011-01-04 13:36+0000\n"
+"PO-Revision-Date: 2011-01-20 11:51+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: Czech <gnome-cs-list@gnome.org>\n"
-"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Lokalize 1.0\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "Přidá obrazovému vstupu na létech pomocí škrábanců a prachu"
+#: ../effects/bulge.effect.in.h:1
+msgid "Bulge"
+msgstr "Boule"
 
-#. Preview: http://effectv.sourceforge.net/aging.html
-#: ../effects/agingtv.effect.in.h:3
-msgid "Historical"
-msgstr "Patina"
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulges the center of the video"
+msgstr "Vyboulí střed videa"
 
 #. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
 #: ../effects/cartoon.effect.in.h:2
@@ -87,6 +87,23 @@ msgstr ""
 msgid "Edge"
 msgstr "Hrany"
 
+#: ../effects/heat.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr "Imituje barvy z termokamery"
+
+#: ../effects/heat.effect.in.h:2
+msgid "Heat"
+msgstr "Teplo"
+
+#: ../effects/historical.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr "Přidá obrazovému vstupu na létech pomocí škrábanců a prachu"
+
+#. Preview: http://effectv.sourceforge.net/aging.html
+#: ../effects/historical.effect.in.h:3
+msgid "Historical"
+msgstr "Patina"
+
 #: ../effects/hulk.effect.in.h:1
 msgid "Hulk"
 msgstr "Hulk"
@@ -104,6 +121,14 @@ msgstr "Převrátí barvy obrazového vstupu"
 msgid "Invertion"
 msgstr "Negativ"
 
+#: ../effects/kaleidoscope.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr "Trojúhelníkový kaleidoskop"
+
+#: ../effects/kaleidoscope.effect.in.h:2
+msgid "Kaleidoscope"
+msgstr "Kaleidoskop"
+
 #: ../effects/mauve.effect.in.h:1
 msgid "Mauve"
 msgstr "Lila"
@@ -111,6 +136,15 @@ msgstr "Lila"
 #: ../effects/mauve.effect.in.h:2
 msgid "Transform video input into a mauve color"
 msgstr "Změní obrazový vstup do růžovofialové barvy"
+
+#: ../effects/mirror.effect.in.h:1
+msgid "Mirror"
+msgstr "Zrcadlo"
+
+#: ../effects/mirror.effect.in.h:2
+#| msgid "Distort the video input"
+msgid "Mirrors the video"
+msgstr "Zrcadlí video"
 
 #. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
 #: ../effects/noir.effect.in.h:2
@@ -129,6 +163,15 @@ msgstr "Optická iluze"
 #: ../effects/optv.effect.in.h:3
 msgid "Traditional black-white optical animation"
 msgstr "Tradiční černobílá optická animace"
+
+#: ../effects/pinch.effect.in.h:1
+msgid "Pinch"
+msgstr "Skřipec"
+
+#: ../effects/pinch.effect.in.h:2
+#| msgid "Invert colors of the video input"
+msgid "Pinches the center of the video"
+msgstr "Skřípne střed videa"
 
 #: ../effects/quarktv.effect.in.h:1
 msgid "Dissolves moving objects in the video input"
@@ -174,6 +217,14 @@ msgstr "Přidá obrazovému vstupu více sytosti"
 msgid "Saturation"
 msgstr "Syté barvy"
 
+#: ../effects/sepia.effect.in.h:1
+msgid "Sepia"
+msgstr "Sépiová"
+
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia toning"
+msgstr "Tónování do sépiové"
+
 #: ../effects/shagadelictv.effect.in.h:1
 msgid "Add some hallucination to the video input"
 msgstr "Přidá do obrazového vstupu nějaké ty halucinace"
@@ -192,6 +243,14 @@ msgstr "Zvýrazní v obrazovém vstupu hrany pomocí Sobelova operátoru"
 msgid "Sobel"
 msgstr "Kontury"
 
+#: ../effects/square.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr "Napne střed videa do čtverce"
+
+#: ../effects/square.effect.in.h:2
+msgid "Square"
+msgstr "Čtverec"
+
 #. Preview: http://effectv.sourceforge.net/streak.html
 #: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
@@ -209,6 +268,14 @@ msgstr "Ukazuje, co se událo v minulosti"
 msgid "Time delay"
 msgstr "Časová prodleva"
 
+#: ../effects/twirl.effect.in.h:1
+msgid "Twirl"
+msgstr "Zkroucení"
+
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl the center of the video"
+msgstr "Zkroutí střed videa"
+
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr "Přidá efekt s mícháním průhlednosti ve smyčce s otáčením a škálováním"
@@ -220,12 +287,20 @@ msgstr "Vír"
 
 #: ../effects/warptv.effect.in.h:1
 msgid "Transform video input into realtime goo'ing"
-msgstr "Upraví obrazový vstup jako kdybyste ho skutečně zamíchali"
+msgstr "Upraví obrazový vstup jako kdybyste s ním skutečně zamíchali"
 
 #. Preview: http://effectv.sourceforge.net/warp.html
 #: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Deformace"
+
+#: ../effects/xray.effect.in.h:1
+msgid "Invert and slightly shade to blue"
+msgstr "Provede inverzi a vystínuje lehce do modra"
+
+#: ../effects/xray.effect.in.h:2
+msgid "X-Ray"
+msgstr "Rentgen"
 
 #~ msgid "No Effect"
 #~ msgstr "Bez efektů"
