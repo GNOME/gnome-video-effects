@@ -1,18 +1,19 @@
-# Cheese'i eesti keele tõlge.
-# Estonian translation of Cheese.
+# GNOEM videoefektide eesti keele tõlge.
+# Estonian translation of GNOME vide effects.
 #
-# Copyright (C) 2008-2010 The GNOME Project.
+# Copyright (C) 2008–2011 The GNOME Project.
 # This file is distributed under the same license as the Cheese package.
 #
-# Ivar Smolin <okul linux ee>, 2008-2010.
+# Ivar Smolin <okul linux ee>, 2008–2011.
 # Mattias Põldaru <mahfiaz gmail com>, 2008, 2009.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese MASTER\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2010-07-31 22:18+0300\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&component=general\n"
+"POT-Creation-Date: 2011-01-04 13:36+0000\n"
+"PO-Revision-Date: 2011-01-22 15:31+0200\n"
 "Last-Translator: Ivar Smolin <okul@linux.ee>\n"
 "Language-Team: Estonian <gnome-et@linux.ee>\n"
 "MIME-Version: 1.0\n"
@@ -20,97 +21,212 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Historical"
+msgid "Bulge"
 msgstr ""
 
-#: ../effects/cartoon.effect.in.h:1
+msgid "Bulges the center of the video"
+msgstr ""
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
 msgid "Cartoon"
 msgstr ""
 
-#: ../effects/cheguevara.effect.in.h:1
+msgid "Cartoonify video input"
+msgstr ""
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
 msgid "Che Guevara"
 msgstr ""
 
-#: ../effects/chrome.effect.in.h:1
+msgid "Transform video input into typical Che Guevara style"
+msgstr ""
+
 msgid "Chrome"
 msgstr ""
 
-#: ../effects/dicetv.effect.in.h:1
+msgid "Transform video input into a metallic look"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/dice.html
 msgid "Dice"
-msgstr "Hakitud"
+msgstr ""
 
-#: ../effects/distortion.effect.in.h:1
-#, fuzzy
+msgid "Dices the video input into many small squares"
+msgstr ""
+
+msgid "Distort the video input"
+msgstr ""
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-distort0r.png
 msgid "Distortion"
-msgstr "Lahutus"
+msgstr ""
 
-#: ../effects/edgetv.effect.in.h:1
+msgid "Display video input like good old low resolution computer way"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/edge.html
 msgid "Edge"
-msgstr "Serv"
+msgstr ""
 
-#: ../effects/hulk.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr ""
+
+msgid "Heat"
+msgstr ""
+
+msgid "Add age to video input using scratches and dust"
+msgstr "Videopildile kriimustuste ja prügi lisamine"
+
+#. Preview: http://effectv.sourceforge.net/aging.html
+msgid "Historical"
+msgstr "Ajalooline"
+
 msgid "Hulk"
 msgstr "Rohenägu"
 
-#: ../effects/identity.effect.in.h:1
-#, fuzzy
-msgid "No Effect"
-msgstr "Järgmised efektid"
+msgid "Transform yourself into the amazing Hulk"
+msgstr ""
 
-#: ../effects/invertion.effect.in.h:1
-#, fuzzy
+msgid "Invert colors of the video input"
+msgstr ""
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-invert0r.png
 msgid "Invertion"
-msgstr "Ähmane"
+msgstr ""
 
-#: ../effects/mauve.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr "Kolmnurkne kaleidoskoop"
+
+msgid "Kaleidoscope"
+msgstr "Kaleidoskoop"
+
 msgid "Mauve"
 msgstr "Lillakas"
 
-#: ../effects/noir.effect.in.h:1
+msgid "Transform video input into a mauve color"
+msgstr ""
+
+msgid "Mirror"
+msgstr "Peegel"
+
+msgid "Mirrors the video"
+msgstr ""
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
 msgid "Noir/Blanc"
 msgstr "Sünge"
 
-#: ../effects/optv.effect.in.h:1
+msgid "Transform video input into grayscale"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/op.html
 msgid "Optical Illusion"
 msgstr ""
 
-#: ../effects/quarktv.effect.in.h:1
+msgid "Traditional black-white optical animation"
+msgstr ""
+
+msgid "Pinch"
+msgstr ""
+
+msgid "Pinches the center of the video"
+msgstr ""
+
+msgid "Dissolves moving objects in the video input"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/quark.html
 msgid "Quark"
 msgstr ""
 
-#: ../effects/radioactv.effect.in.h:1
+msgid "Detect radioactivity and show it"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/radio.html
 msgid "Radioactive"
 msgstr ""
 
-#: ../effects/revtv.effect.in.h:1
+msgid "Transform video input into a waveform monitor"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/rev.html
 msgid "Waveform"
 msgstr ""
 
-#: ../effects/ripple.effect.in.h:1
+msgid "Add the ripple mark effect on the video input"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/ripple.html
 msgid "Ripple"
 msgstr ""
 
-#: ../effects/saturation.effect.in.h:1
+msgid "Add more saturation to the video input"
+msgstr ""
+
 msgid "Saturation"
 msgstr "Küllastamine"
 
-#: ../effects/shagadelictv.effect.in.h:1
+msgid "Sepia"
+msgstr ""
+
+msgid "Sepia toning"
+msgstr ""
+
+msgid "Add some hallucination to the video input"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/shagadelic.html
 msgid "Shagadelic"
 msgstr "Pööriseline"
 
-#: ../effects/sobel.effect.in.h:1
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr ""
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
 msgid "Sobel"
 msgstr ""
 
-#: ../effects/streaktv.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/streak.html
 msgid "Kung-Fu"
 msgstr ""
 
-#: ../effects/vertigotv.effect.in.h:1
+msgid "Transform motions into Kung-Fu style"
+msgstr ""
+
+msgid "Show what was happening in the past"
+msgstr ""
+
+msgid "Time delay"
+msgstr ""
+
+msgid "Twirl"
+msgstr ""
+
+msgid "Twirl the center of the video"
+msgstr ""
+
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/vertigo.html
 msgid "Vertigo"
 msgstr "Ähmane"
 
-#: ../effects/warptv.effect.in.h:1
+msgid "Transform video input into realtime goo'ing"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/warp.html
 msgid "Warp"
 msgstr "Kõverpeegel"
+
+msgid "Invert and slightly shade to blue"
+msgstr ""
+
+msgid "X-Ray"
+msgstr ""
