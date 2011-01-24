@@ -3,111 +3,296 @@
 #
 # Amanpreet Singh Alam <apreet.alam@gmail.com>, 2008.
 # Amanpreet Singh Alam <aalam@users.sf.net>, 2008.
-# A S Alam <aalam@users.sf.net>, 2009, 2010.
+# A S Alam <aalam@users.sf.net>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese.HEAD\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2010-03-27 08:25+0530\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
+"cgi?product=gnome-video-effects&component=general\n"
+"POT-Creation-Date: 2011-01-04 13:36+0000\n"
+"PO-Revision-Date: 2011-01-24 07:37+0530\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
 "Language-Team: Punjabi/Panjabi <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: pa\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Historical"
+#: ../effects/bulge.effect.in.h:1
+msgid "Bulge"
 msgstr ""
 
-#: ../effects/cartoon.effect.in.h:1
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulges the center of the video"
+msgstr ""
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
+#: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
+msgstr "ਕਾਰਟੂਨ"
+
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
 msgstr ""
 
-#: ../effects/cheguevara.effect.in.h:1
+#. Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
+#: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
+msgstr "ਚੀ ਗਵੇਰਾ"
+
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
 msgstr ""
 
 #: ../effects/chrome.effect.in.h:1
 msgid "Chrome"
+msgstr "ਕਰੋਮ"
+
+#: ../effects/chrome.effect.in.h:2
+msgid "Transform video input into a metallic look"
 msgstr ""
 
-#: ../effects/dicetv.effect.in.h:1
+#. Preview: http://effectv.sourceforge.net/dice.html
+#: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "ਡਿਸਕ"
 
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr ""
+
 #: ../effects/distortion.effect.in.h:1
-#, fuzzy
+msgid "Distort the video input"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਖਿਲਾਰੋ (distort)"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-distort0r.png
+#: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
-msgstr "ਰੈਜੋਲੂਸ਼ਨ"
+msgstr "ਖਿਲਾਰਨਾ"
 
 #: ../effects/edgetv.effect.in.h:1
+msgid "Display video input like good old low resolution computer way"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/edge.html
+#: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "ਕੋਨਾ"
+
+#: ../effects/heat.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr ""
+
+#: ../effects/heat.effect.in.h:2
+msgid "Heat"
+msgstr "ਗਰਮੀ"
+
+#: ../effects/historical.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/aging.html
+#: ../effects/historical.effect.in.h:3
+msgid "Historical"
+msgstr "ਅਤੀਤ"
 
 #: ../effects/hulk.effect.in.h:1
 msgid "Hulk"
 msgstr "ਹੁਲਕ"
 
-#: ../effects/identity.effect.in.h:1
-msgid "No Effect"
-msgstr "ਕੋਈ ਪਰਭਾਵ ਨਹੀਂ"
+#: ../effects/hulk.effect.in.h:2
+msgid "Transform yourself into the amazing Hulk"
+msgstr ""
 
 #: ../effects/invertion.effect.in.h:1
-#, fuzzy
+msgid "Invert colors of the video input"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਦੇ ਰੰਗ ਆਪਸ 'ਚ ਬਦਲੋ"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-invert0r.png
+#: ../effects/invertion.effect.in.h:3
 msgid "Invertion"
-msgstr "ਵਰਟੀਗੋ"
+msgstr "ਉਲਟ"
+
+#: ../effects/kaleidoscope.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr ""
+
+#: ../effects/kaleidoscope.effect.in.h:2
+msgid "Kaleidoscope"
+msgstr ""
 
 #: ../effects/mauve.effect.in.h:1
 msgid "Mauve"
 msgstr "ਮਾਉਵੀ"
 
-#: ../effects/noir.effect.in.h:1
+#: ../effects/mauve.effect.in.h:2
+msgid "Transform video input into a mauve color"
+msgstr ""
+
+#: ../effects/mirror.effect.in.h:1
+msgid "Mirror"
+msgstr "ਮਿੱਰਰ"
+
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirrors the video"
+msgstr "ਵਿਡੀਓ ਦਾ ਮਿੱਰਰ ਬਣਾਓ"
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
+#: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
 msgstr "ਨੋਈਰ/ਬਲਾਂਕ"
 
-#: ../effects/optv.effect.in.h:1
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਨੂੰ ਗਰੇਸਕੇਲ 'ਚ ਬਦਲੋ"
+
+#. Preview: http://effectv.sourceforge.net/op.html
+#: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
 msgstr ""
 
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr ""
+
+#: ../effects/pinch.effect.in.h:1
+msgid "Pinch"
+msgstr ""
+
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinches the center of the video"
+msgstr "ਵਿਡੀਓ ਦੇ ਸੈਂਟਰ 'ਚ ਇੱਕਠਾ ਕਰੋ"
+
 #: ../effects/quarktv.effect.in.h:1
+msgid "Dissolves moving objects in the video input"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਵਿੱਚ ਹਿਲਦੇ ਆਬਜੈਕਟ ਰਲਾਉ"
+
+#. Preview: http://effectv.sourceforge.net/quark.html
+#: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
 msgstr ""
 
 #: ../effects/radioactv.effect.in.h:1
-msgid "Radioactive"
+msgid "Detect radioactivity and show it"
 msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/radio.html
+#: ../effects/radioactv.effect.in.h:3
+msgid "Radioactive"
+msgstr "ਰੇਡੀਓਐਕਟਿਵ"
 
 #: ../effects/revtv.effect.in.h:1
-msgid "Waveform"
+msgid "Transform video input into a waveform monitor"
 msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/rev.html
+#: ../effects/revtv.effect.in.h:3
+msgid "Waveform"
+msgstr "ਵੇਵਫਾਰਮ"
 
 #: ../effects/ripple.effect.in.h:1
-msgid "Ripple"
+msgid "Add the ripple mark effect on the video input"
 msgstr ""
 
+#. Preview: http://effectv.sourceforge.net/ripple.html
+#: ../effects/ripple.effect.in.h:3
+msgid "Ripple"
+msgstr "ਰਿੱਪਲ"
+
 #: ../effects/saturation.effect.in.h:1
+msgid "Add more saturation to the video input"
+msgstr ""
+
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "ਸੰਤ੍ਰਿਪਤਾ"
 
+#: ../effects/sepia.effect.in.h:1
+msgid "Sepia"
+msgstr ""
+
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia toning"
+msgstr ""
+
 #: ../effects/shagadelictv.effect.in.h:1
+msgid "Add some hallucination to the video input"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/shagadelic.html
+#: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
 msgstr "ਸ਼ਾਗਾਡਿਲੀਕ"
 
 #: ../effects/sobel.effect.in.h:1
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr ""
+
+#. Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
+#: ../effects/sobel.effect.in.h:3
 msgid "Sobel"
 msgstr ""
 
-#: ../effects/streaktv.effect.in.h:1
+#: ../effects/square.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr "ਵਿਡੀਓ ਦੇ ਸੈਂਟਰ 'ਚੋਂ ਚੌਰਸ ਡੱਬਾ (ਵਰਗ) ਬਣਾਓ"
+
+#: ../effects/square.effect.in.h:2
+msgid "Square"
+msgstr "ਵਰਗ"
+
+#. Preview: http://effectv.sourceforge.net/streak.html
+#: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
+msgstr "ਕੁੰਗ-ਫੂ"
+
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr ""
+
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "ਪਿੱਛੇ ਕੀ ਹੋਇਆ ਸੀ, ਉਹ ਵੇਖਾਓ"
+
+#: ../effects/timedelay.effect.in.h:2
+msgid "Time delay"
+msgstr "ਸਮਾਂ ਦੇਰੀ"
+
+#: ../effects/twirl.effect.in.h:1
+msgid "Twirl"
+msgstr ""
+
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl the center of the video"
 msgstr ""
 
 #: ../effects/vertigotv.effect.in.h:1
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/vertigo.html
+#: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "ਵਰਟੀਗੋ"
 
 #: ../effects/warptv.effect.in.h:1
+msgid "Transform video input into realtime goo'ing"
+msgstr ""
+
+#. Preview: http://effectv.sourceforge.net/warp.html
+#: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "ਰੈਪ"
+
+#: ../effects/xray.effect.in.h:1
+msgid "Invert and slightly shade to blue"
+msgstr ""
+
+#: ../effects/xray.effect.in.h:2
+msgid "X-Ray"
+msgstr "ਐਕਸ-ਰੇ"
+
+#~ msgid "No Effect"
+#~ msgstr "ਕੋਈ ਪਰਭਾਵ ਨਹੀਂ"
