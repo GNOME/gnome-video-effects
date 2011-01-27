@@ -19,8 +19,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cheese.master\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-19 13:56+0100\n"
-"PO-Revision-Date: 2011-01-19 14:30+0100\n"
+"POT-Creation-Date: 2011-01-27 03:28+0100\n"
+"PO-Revision-Date: 2011-01-24 23:44+0100\n"
 "Last-Translator: Fran Diéguez <frandieguez@ubuntu.com>\n"
 "Language-Team: Galician <gnome-gl-list@gnome.org>\n"
 "Language: gl\n"
@@ -114,7 +114,7 @@ msgstr "Hulk"
 
 #: ../effects/hulk.effect.in.h:2
 msgid "Transform yourself into the amazing Hulk"
-msgstr "Transfórmese no increíble Hulk"
+msgstr "Transfórmese no increíbel Hulk"
 
 #: ../effects/invertion.effect.in.h:1
 msgid "Invert colors of the video input"
