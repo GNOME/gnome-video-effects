@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
 _Name=Square
 _Comment=Makes a square out of the center of the video
 PipelineDescription=square

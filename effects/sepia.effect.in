@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 _Name=Sepia
 _Comment=Sepia toning
 PipelineDescription=coloreffects preset=sepia

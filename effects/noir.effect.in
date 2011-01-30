@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
 _Name=Noir/Blanc
 _Comment=Transform video input into grayscale
 PipelineDescription=videobalance saturation=0

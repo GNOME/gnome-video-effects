@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
-Name=Stretch
-Comment=Stretches the center of the video
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+_Name=Stretch
+_Comment=Stretches the center of the video
 PipelineDescription=stretch

@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
 _Name=Heat
 _Comment=Fake heat camera toning
 PipelineDescription=coloreffects preset=heat

@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
 _Name=Che Guevara
 _Comment=Transform video input into typical Che Guevara style
 PipelineDescription=frei0r-filter-twolay0r

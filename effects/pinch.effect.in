@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
 _Name=Pinch
 _Comment=Pinches the center of the video
 PipelineDescription=pinch

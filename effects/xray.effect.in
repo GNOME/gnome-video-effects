@@ -1,5 +1,6 @@
 [Effect]
 Encoding=UTF-8
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
 _Name=X-Ray
 _Comment=Invert and slightly shade to blue
 PipelineDescription=coloreffects preset=xray

@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://effectv.sourceforge.net/op.html
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
 _Name=Optical Illusion
 _Comment=Traditional black-white optical animation
 PipelineDescription=optv

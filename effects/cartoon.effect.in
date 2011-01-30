@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
 _Name=Cartoon
 _Comment=Cartoonify video input
 PipelineDescription=frei0r-filter-cartoon

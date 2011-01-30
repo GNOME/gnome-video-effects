@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://www.openmovieeditor.org/images/filters/out-invert0r.png
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
 _Name=Invertion
 _Comment=Invert colors of the video input
 PipelineDescription=frei0r-filter-invert0r
