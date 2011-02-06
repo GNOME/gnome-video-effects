@@ -13,11 +13,8 @@ PKG_NAME="gnome-video-effects"
 }
 
 which gnome-autogen.sh || {
-    echo "You need to install gnome-common from the GNOME CVS"
+    echo "You need to install gnome-common from the GNOME git"
     exit 1
 }
 
-REQUIRED_AUTOCONF_VERSION=2.57
-REQUIRED_AUTOMAKE_VERSION=1.7
-REQUIRED_PKG_CONFIG_VERSION=0.16.0
-USE_GNOME2_MACROS=1 USE_COMMON_DOC_BUILD=yes . gnome-autogen.sh
+. gnome-autogen.sh
