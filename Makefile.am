@@ -18,7 +18,10 @@ EXTRA_DIST = \
 	README \
 	$(NULL)
 
-CLEANFILES = gnome-video-effects.pc
+CLEANFILES = \
+	$(effects_DATA) \
+	gnome-video-effects.pc \
+	$(NULL)
 
 DISTCLEANFILES = \
 	$(effects_DATA) \
