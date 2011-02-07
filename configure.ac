@@ -13,13 +13,15 @@ AM_SILENT_RULES([yes])
 
 #*******************************************************************************
 # Internationalization
-# #*******************************************************************************
+#*******************************************************************************
+AM_GNU_GETTEXT([external])
+AM_GNU_GETTEXT_VERSION([0.17])
+
 GETTEXT_PACKAGE=gnome-video-effects
 AC_SUBST(GETTEXT_PACKAGE)
 AC_DEFINE_UNQUOTED(GETTEXT_PACKAGE,"$GETTEXT_PACKAGE", [GETTEXT package name])
 
 IT_PROG_INTLTOOL([0.40.0])
-AM_GLIB_GNU_GETTEXT
 
 AC_PROG_LN_S
 
