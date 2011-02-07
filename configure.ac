@@ -6,7 +6,8 @@ AC_INIT([gnome-video-effects],
 	[gnome-video-effects],
 	[http://live.gnome.org/GnomeVideoEffects])
 
-AM_INIT_AUTOMAKE([1.11.1 -Wall])
+AM_INIT_AUTOMAKE([1.11.1 -Wall subdir-objects])
+
 m4_ifdef([AM_SILENT_RULES],[AM_SILENT_RULES([yes])])
 
 AC_SUBST(VERSION)
