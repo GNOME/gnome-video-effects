@@ -11,6 +11,8 @@ effects_in_files = $(wildcard effects/*.effect.in) \
 
 effects_DATA = $(effects_in_files:.effect.in=.effect)
 
+dist_noinst_SCRIPTS = autogen.sh
+
 EXTRA_DIST = \
 	$(effects_in_files) \
 	README \
