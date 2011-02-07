@@ -1,3 +1,5 @@
+ACLOCAL_AMFLAGS = -I m4 ${ACLOCAL_FLAGS}
+
 DIST_SUBDIRS = $(SUBDIRS) po
 
 pkgconfigdir = $(datadir)/pkgconfig

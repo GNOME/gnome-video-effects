@@ -8,10 +8,8 @@ AC_INIT([gnome-video-effects],
 
 AM_INIT_AUTOMAKE([1.11.1 -Wall subdir-objects])
 
-m4_ifdef([AM_SILENT_RULES],[AM_SILENT_RULES([yes])])
+AM_SILENT_RULES([yes])
 
-AC_SUBST(VERSION)
-ACLOCAL_AMFLAGS = ${ACLOCAL_FLAGS}
 
 #*******************************************************************************
 # Internationalization
