@@ -1,18 +1,27 @@
-SUBDIRS = effects
-
 DIST_SUBDIRS = $(SUBDIRS) po
 
+pkgconfigdir = $(datadir)/pkgconfig
+pkgconfig_DATA = gnome-video-effects.pc
+
+%.effect: %.effect.in $(INTLTOOL_MERGE) $(wildcard $(top_srcdir)/po/*.po) ; LC_ALL=C $(INTLTOOL_MERGE) -d -u -c $(top_builddir)/po/.intltool-merge-cache $(top_srcdir)/po $< $@
+
+effectsdir = $(datadir)/gnome-video-effects
+effects_in_files = $(wildcard effects/*.effect.in) \
+	$(NULL)
+
+effects_DATA = $(effects_in_files:.effect.in=.effect)
+
 EXTRA_DIST = \
+	$(effects_in_files) \
 	README \
 	$(NULL)
 
 CLEANFILES = gnome-video-effects.pc
 
 DISTCLEANFILES = \
-	gnome-doc-utils.make
-
-pkgconfigdir = $(datadir)/pkgconfig
-pkgconfig_DATA = gnome-video-effects.pc
+	$(effects_DATA) \
+	gnome-doc-utils.make \
+	$(NULL)
 
 dist-hook:
 	@if test -d "$(srcdir)/.git"; \

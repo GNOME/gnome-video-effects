@@ -27,7 +27,6 @@ AC_PROG_LN_S
 AC_CONFIG_FILES([
 Makefile
 gnome-video-effects.pc
-effects/Makefile
 po/Makefile.in
 ])
 AC_OUTPUT
