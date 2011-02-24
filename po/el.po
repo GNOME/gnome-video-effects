@@ -1,38 +1,37 @@
 # translation of cheese to Greek
 # Copyright (C) 2007-2008 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the cheese package.
-#
 # Athanasios Lefteris <alefteris@gmail.com>, 2007, 2008.
-# Simos Xenitellis <simos@gnome.org>, 2008.
 # Jennie Petoumenou <epetoumenou@gmail.com>, 2009.
 # Georgios Stefanakis <george.stefanakis@gmail.com>, 2010.
+# Michael Kotsarinis <mk73628@gmail.com>, 2011.
+# Simos Xenitellis <simos@gnome.org>, 2008., 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2010-08-18 12:54+0000\n"
-"PO-Revision-Date: 2010-11-04 22:39+0200\n"
-"Last-Translator: Georgios Stefanakis <george.stefanakis@gmail.com>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 12:05+0200\n"
+"PO-Revision-Date: 2011-02-24 12:07+0200\n"
+"Last-Translator: Simos Xenitellis <simos@gnome.org>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Lokalize 0.2\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Virtaal 0.6.1\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr ""
-"Προσθήκη ηλικίας στο Βίντεο εισόδου με την χρήση γρατζουνιών και σκόνης"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulge"
+msgstr "Διόγκωση"
 
-#. Preview: http://effectv.sourceforge.net/aging.html
-#: ../effects/agingtv.effect.in.h:3
-msgid "Historical"
-msgstr "Ιστορικό"
+#: ../effects/bulge.effect.in.h:3
+msgid "Bulges the center of the video"
+msgstr "Διογκώνει το κέντρο του βίντεο"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
 #: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
 msgstr "Κινούμενο σχέδιο (Καρτούν)"
@@ -41,7 +40,7 @@ msgstr "Κινούμενο σχέδιο (Καρτούν)"
 msgid "Cartoonify video input"
 msgstr "Καρτουνοποίηση του βίντεο εισόδου"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
 #: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
 msgstr "Τσε Γκεβάρα"
@@ -50,15 +49,16 @@ msgstr "Τσε Γκεβάρα"
 msgid "Transform video input into typical Che Guevara style"
 msgstr "Μετατροπή βίντεο εισόδου σε τυπικό στυλ Τσε Γκεβάρα"
 
-#: ../effects/chrome.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#: ../effects/chrome.effect.in.h:2
 msgid "Chrome"
 msgstr "Χρώμιο"
 
-#: ../effects/chrome.effect.in.h:2
+#: ../effects/chrome.effect.in.h:3
 msgid "Transform video input into a metallic look"
 msgstr "Μετατροπή βίντεο εισόδου σε μεταλλική εμφάνιση"
 
-#. Preview: http://effectv.sourceforge.net/dice.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "Τετράγωνα"
@@ -71,7 +71,7 @@ msgstr "Κόβει το βίντεο εισόδου σε πολλά μικρά �
 msgid "Distort the video input"
 msgstr "Παραμόρφωση βίντεο εισόδου"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-distort0r.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
 #: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
 msgstr "Παραμόρφωση"
@@ -81,16 +81,36 @@ msgid "Display video input like good old low resolution computer way"
 msgstr ""
 "Προβολή βίντεο εισόδου όπως την παλαιά καλή χαμηλή ανάλυση των υπολογιστών"
 
-#. Preview: http://effectv.sourceforge.net/edge.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Περίγραμμα"
 
-#: ../effects/hulk.effect.in.h:1
+#: ../effects/heat.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr "Ψεύτικος τονισμός θερμικής κάμερας"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:3
+msgid "Heat"
+msgstr "Θερμικό"
+
+#: ../effects/historical.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr ""
+"Προσθήκη ηλικίας στο Βίντεο εισόδου με την χρήση γρατζουνιών και σκόνης"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#: ../effects/historical.effect.in.h:3
+msgid "Historical"
+msgstr "Ιστορικό"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
 msgid "Hulk"
 msgstr "Χουλκ"
 
-#: ../effects/hulk.effect.in.h:2
+#: ../effects/hulk.effect.in.h:3
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Μεταμορφώστε τον εαυτό σας στον απίστευτο Χάλκ"
 
@@ -98,20 +118,39 @@ msgstr "Μεταμορφώστε τον εαυτό σας στον απίστε�
 msgid "Invert colors of the video input"
 msgstr "Αναστροφή χρωμάτων στο βίντεο εισόδου"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-invert0r.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
 #: ../effects/invertion.effect.in.h:3
 msgid "Invertion"
 msgstr "Αναστροφή"
 
-#: ../effects/mauve.effect.in.h:1
+#: ../effects/kaleidoscope.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr "Τριγωνικό καλειδοσκόπιο"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "Kaleidoscope"
+msgstr "Καλειδοσκόπιο"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#: ../effects/mauve.effect.in.h:2
 msgid "Mauve"
 msgstr "Μωβ"
 
-#: ../effects/mauve.effect.in.h:2
+#: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
 msgstr "Μεταμορφώστε το βίντεο εισόδου σε χρώμα μωβ"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirror"
+msgstr "Καθρέπτης"
+
+#: ../effects/mirror.effect.in.h:3
+msgid "Mirrors the video"
+msgstr "Καθρεπτίζει το βίντεο"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
 #: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
 msgstr "Ασπρόμαυρο"
@@ -120,7 +159,7 @@ msgstr "Ασπρόμαυρο"
 msgid "Transform video input into grayscale"
 msgstr "Μεταμορφώστε το βίντεο εισόδου σε ασπρόμαυρο"
 
-#. Preview: http://effectv.sourceforge.net/op.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
 #: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
 msgstr "Οπτική αυταπάτη"
@@ -129,11 +168,20 @@ msgstr "Οπτική αυταπάτη"
 msgid "Traditional black-white optical animation"
 msgstr "Παραδοσιακό οπτικό κινούμενο σχέδιο άσπρο-μαύρο"
 
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinch"
+msgstr "\"Τσίμπημα\""
+
+#: ../effects/pinch.effect.in.h:3
+msgid "Pinches the center of the video"
+msgstr "\"Τσιμπάει\" το κέντρο του βίντεο"
+
 #: ../effects/quarktv.effect.in.h:1
 msgid "Dissolves moving objects in the video input"
 msgstr "Διάλυση κινούμενων αντικειμένων στο βίντεο εισόδου"
 
-#. Preview: http://effectv.sourceforge.net/quark.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
 #: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
 msgstr "Quark"
@@ -142,7 +190,7 @@ msgstr "Quark"
 msgid "Detect radioactivity and show it"
 msgstr "Εντοπισμός και εμφάνιση ραδιοακτινοβολίας"
 
-#. Preview: http://effectv.sourceforge.net/radio.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:3
 msgid "Radioactive"
 msgstr "Ραδιενεργό"
@@ -151,7 +199,7 @@ msgstr "Ραδιενεργό"
 msgid "Transform video input into a waveform monitor"
 msgstr "Μεταμορφώστε το βίντεο εισόδου σε οθόνη κυμματομορφών"
 
-#. Preview: http://effectv.sourceforge.net/rev.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
 #: ../effects/revtv.effect.in.h:3
 msgid "Waveform"
 msgstr "Κυματομορφή"
@@ -160,7 +208,7 @@ msgstr "Κυματομορφή"
 msgid "Add the ripple mark effect on the video input"
 msgstr "Προσθέστε κυματισμό στο βίντεο εισόδου"
 
-#. Preview: http://effectv.sourceforge.net/ripple.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
 #: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
 msgstr "Κυματισμός"
@@ -169,15 +217,25 @@ msgstr "Κυματισμός"
 msgid "Add more saturation to the video input"
 msgstr "Προθήκη περισσότερου κορεσμού στο βίντεο εισόδου"
 
-#: ../effects/saturation.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:3
 msgid "Saturation"
 msgstr "Κορεσμός"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia"
+msgstr "Σέπια"
+
+#: ../effects/sepia.effect.in.h:3
+msgid "Sepia toning"
+msgstr "Αποχρώσεις σέπια"
 
 #: ../effects/shagadelictv.effect.in.h:1
 msgid "Add some hallucination to the video input"
 msgstr "Προσθήκη εφέ παραίσθησης στο βίντεο εισόδου"
 
-#. Preview: http://effectv.sourceforge.net/shagadelic.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
 #: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
 msgstr "Ψυχεδέλεια"
@@ -186,12 +244,21 @@ msgstr "Ψυχεδέλεια"
 msgid "Extracts edges in the video input through using the Sobel operator"
 msgstr "Εξαγωγή ακμών στο βίντεο εισόδου με χρήση του τελεστή Sobel"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
 #: ../effects/sobel.effect.in.h:3
 msgid "Sobel"
 msgstr "Sobel"
 
-#. Preview: http://effectv.sourceforge.net/streak.html
+#: ../effects/square.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr "Δημιουργεί ένα τετράγωνο από το κέντρο του βίντεο"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:3
+msgid "Square"
+msgstr "Τετράγωνο"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
 msgstr "Κουνγκ-φου"
@@ -200,19 +267,40 @@ msgstr "Κουνγκ-φου"
 msgid "Transform motions into Kung-Fu style"
 msgstr "Μεταμορφώστε τις κινήσεις σε στυλ κουνγκ-φου"
 
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "Τσίμπημα"
+
+#: ../effects/stretch.effect.in.h:3
+msgid "Stretches the center of the video"
+msgstr "«Τσιμπάει» το κέντρο του βίντεο"
+
 #: ../effects/timedelay.effect.in.h:1
 msgid "Show what was happening in the past"
 msgstr "Δείξε τι συνέβαινε στο παρελθόν"
 
-#: ../effects/timedelay.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:3
 msgid "Time delay"
 msgstr "Χρονική καθυστέρηση"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl"
+msgstr "Περιδίνηση"
+
+#: ../effects/twirl.effect.in.h:3
+msgid "Twirl the center of the video"
+msgstr "Περιστρέφει το κέντρο του βίντεο"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr ""
+"Προσθήκη έναν ανατροφοδοτούμενο συντελεστή άλφα ανάμειξης με περιστροφή και "
+"κλιμάκωση"
 
-#. Preview: http://effectv.sourceforge.net/vertigo.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
 #: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "Ίλιγγος"
@@ -221,10 +309,19 @@ msgstr "Ίλιγγος"
 msgid "Transform video input into realtime goo'ing"
 msgstr "Μετατροπή της εισόδου βίντεο σε ταλάντωση πραγματικού χρόνου"
 
-#. Preview: http://effectv.sourceforge.net/warp.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Στρέβλωση"
+
+#: ../effects/xray.effect.in.h:1
+msgid "Invert and slightly shade to blue"
+msgstr "Αναστροφή και ελαφρά σκίαση στο μπλε"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:3
+msgid "X-Ray"
+msgstr "Ακτίνες X"
 
 #~ msgid "No Effect"
 #~ msgstr "Δίχως εφέ"
