@@ -2,111 +2,321 @@
 # Copyright (C) Free Software Foundation
 # This file is distributed under the same license as the cheese package.
 # Maxim Dziumanenko <dziumanenko@gmail.com>, 2008-2009.
-#
+# Korostil Daniel <ted.korostiled@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2010-03-26 00:43+0300\n"
-"Last-Translator: Maxim V. Dziumanenko <dziumanenko@gmail.com>\n"
-"Language-Team: Ukrainian <uk@li.org>\n"
+"POT-Creation-Date: 2011-03-01 17:47+0200\n"
+"PO-Revision-Date: 2011-03-01 18:53+0300\n"
+"Last-Translator: Korostil Daniel <ted.korostiled@gmail.com>\n"
+"Language-Team: translation@linux.org.ua\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Virtaal 0.6.1\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Historical"
-msgstr ""
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulge"
+msgstr "Випуклість"
 
-#: ../effects/cartoon.effect.in.h:1
+#: ../effects/bulge.effect.in.h:3
+msgid "Bulges the center of the video"
+msgstr "Випинає центр відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+#: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
-msgstr ""
+msgstr "Мультяшність"
 
-#: ../effects/cheguevara.effect.in.h:1
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "Одитячує відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
+#: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
-msgstr ""
+msgstr "Че Ґевара"
 
-#: ../effects/chrome.effect.in.h:1
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "Перетворює відео в стилі Че Ґевара"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#: ../effects/chrome.effect.in.h:2
 msgid "Chrome"
-msgstr ""
+msgstr "Хром"
 
-#: ../effects/dicetv.effect.in.h:1
+#: ../effects/chrome.effect.in.h:3
+msgid "Transform video input into a metallic look"
+msgstr "Перетворює відео у металевий вигляд"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+#: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "Шматочки"
 
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr "Шматує відео на маленькі квадратики"
+
 #: ../effects/distortion.effect.in.h:1
-#, fuzzy
+msgid "Distort the video input"
+msgstr "Спотворює відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+#: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
-msgstr "Роздільна здатність"
+msgstr "Спотворення"
 
 #: ../effects/edgetv.effect.in.h:1
+msgid "Display video input like good old low resolution computer way"
+msgstr ""
+"Показувати відео в стилі добрих старих, повільних з маленькою роздільністю "
+"комп'ютерів"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
-msgstr "Межі"
+msgstr "Край"
 
-#: ../effects/hulk.effect.in.h:1
+#: ../effects/heat.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr "Фальшиві теплі тони камери"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:3
+msgid "Heat"
+msgstr "Теплота"
+
+#: ../effects/historical.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr "Вкорочує вік до відео за допомогою пилу та подряпин"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#: ../effects/historical.effect.in.h:3
+msgid "Historical"
+msgstr "Історичність"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
 msgid "Hulk"
-msgstr "Халк"
+msgstr "Зеленка"
 
-#: ../effects/identity.effect.in.h:1
-msgid "No Effect"
-msgstr "Без ефектів"
+#: ../effects/hulk.effect.in.h:3
+msgid "Transform yourself into the amazing Hulk"
+msgstr "Перетворює вас у великого зеленого чоловічка"
 
 #: ../effects/invertion.effect.in.h:1
-#, fuzzy
-msgid "Invertion"
-msgstr "Запаморочення"
+msgid "Invert colors of the video input"
+msgstr "Інвертує кольори у відео"
 
-#: ../effects/mauve.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
+#: ../effects/invertion.effect.in.h:3
+msgid "Invertion"
+msgstr "Інвертація"
+
+#: ../effects/kaleidoscope.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr "Трикутник калейдескопа"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "Kaleidoscope"
+msgstr "Калейдоскоп"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#: ../effects/mauve.effect.in.h:2
 msgid "Mauve"
 msgstr "Рожево-ліловий"
 
-#: ../effects/noir.effect.in.h:1
+#: ../effects/mauve.effect.in.h:3
+msgid "Transform video input into a mauve color"
+msgstr "Перетворю є відео в рожево-лілові колір"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirror"
+msgstr "Відзеркалля"
+
+#: ../effects/mirror.effect.in.h:3
+msgid "Mirrors the video"
+msgstr "Відзеркалює відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
+#: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
 msgstr "Чорно/біле"
 
-#: ../effects/optv.effect.in.h:1
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "Перетворює відео у сірі тони"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
+#: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
-msgstr ""
+msgstr "Оптична ілюзія"
+
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "Традиційна чорно-біла оптична анімація"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinch"
+msgstr "Пучка"
+
+#: ../effects/pinch.effect.in.h:3
+msgid "Pinches the center of the video"
+msgstr "Стискає центр відео"
 
 #: ../effects/quarktv.effect.in.h:1
+msgid "Dissolves moving objects in the video input"
+msgstr "Розчиняє рухомі об'єкти у відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+#: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
-msgstr ""
+msgstr "Кварк"
 
 #: ../effects/radioactv.effect.in.h:1
+msgid "Detect radioactivity and show it"
+msgstr "Виявляє радіоактивність і показує її"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+#: ../effects/radioactv.effect.in.h:3
 msgid "Radioactive"
-msgstr ""
+msgstr "Радіоактивність"
 
 #: ../effects/revtv.effect.in.h:1
+msgid "Transform video input into a waveform monitor"
+msgstr "Перетворює відео у хвилястій формі монітора"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+#: ../effects/revtv.effect.in.h:3
 msgid "Waveform"
-msgstr ""
+msgstr "Мерехтіння"
 
 #: ../effects/ripple.effect.in.h:1
+msgid "Add the ripple mark effect on the video input"
+msgstr "Додає хвильовий ефект на відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+#: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
-msgstr ""
+msgstr "Хвилі"
 
 #: ../effects/saturation.effect.in.h:1
+msgid "Add more saturation to the video input"
+msgstr "Додає насиченості у відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:3
 msgid "Saturation"
 msgstr "Насиченість"
 
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia"
+msgstr "Сепія"
+
+#: ../effects/sepia.effect.in.h:3
+msgid "Sepia toning"
+msgstr "Фарбування у темно-коричневий "
+
 #: ../effects/shagadelictv.effect.in.h:1
+msgid "Add some hallucination to the video input"
+msgstr "Додає трохи галюцинацій у відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
+#: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
-msgstr "Психоделічний"
+msgstr "Психоделічність"
 
 #: ../effects/sobel.effect.in.h:1
-msgid "Sobel"
-msgstr ""
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Витягує краї у відео через оператор Собеля"
 
-#: ../effects/streaktv.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
+#: ../effects/sobel.effect.in.h:3
+msgid "Sobel"
+msgstr "Собель"
+
+#: ../effects/square.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr "Відкидає площу з центру відео"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:3
+msgid "Square"
+msgstr "Площа"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+#: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
-msgstr ""
+msgstr "Кунг-фу"
+
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "Перетворює рухи в стилі кунг-фу"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "Розтягнення"
+
+#: ../effects/stretch.effect.in.h:3
+msgid "Stretches the center of the video"
+msgstr "Розтягує центр відео"
+
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "Показує, що сталось у минулому"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:3
+msgid "Time delay"
+msgstr "Затримка в часі"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl"
+msgstr "Вертіння"
+
+#: ../effects/twirl.effect.in.h:3
+msgid "Twirl the center of the video"
+msgstr "Вертить центр відео"
 
 #: ../effects/vertigotv.effect.in.h:1
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "Додати петлю змішування з поворотами і масштабуванням"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+#: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "Запаморочення"
 
 #: ../effects/warptv.effect.in.h:1
+msgid "Transform video input into realtime goo'ing"
+msgstr "Перетворює відео в стан реального часу"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
+#: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Викривлення"
+
+#: ../effects/xray.effect.in.h:1
+msgid "Invert and slightly shade to blue"
+msgstr "Інвертує і кидає трохи тіні на блакитний"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:3
+msgid "X-Ray"
+msgstr "Рентгенне випромінювання"
+
+#~ msgid "No Effect"
+#~ msgstr "Без ефектів"
