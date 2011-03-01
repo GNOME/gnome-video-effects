@@ -118,7 +118,7 @@ msgstr "Інвертує кольори у відео"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
 #: ../effects/invertion.effect.in.h:3
 msgid "Invertion"
-msgstr "Інвертація"
+msgstr "Інвертування"
 
 #: ../effects/kaleidoscope.effect.in.h:1
 msgid "A triangle Kaleidoscope"
@@ -235,7 +235,7 @@ msgstr "Додає трохи галюцинацій у відео"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
 #: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
-msgstr "Психоделічність"
+msgstr "Психоделія"
 
 #: ../effects/sobel.effect.in.h:1
 msgid "Extracts edges in the video input through using the Sobel operator"
