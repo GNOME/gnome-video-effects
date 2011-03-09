@@ -1,7 +1,7 @@
 ChangeLog for GNOME Video Effects
 --------------------
 
-version 
+version 0.3.0
   - Use upstream gettext instead the glib one
   - remove built effect files on make clean
   - use subdir-objects flag for automake
