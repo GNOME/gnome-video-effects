@@ -1,7 +1,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_INIT([gnome-video-effects],
-	[0.2.0],
+	[0.3.0],
 	[http://bugzilla.gnome.org/enter_bug.cgi?],
 	[gnome-video-effects],
 	[http://live.gnome.org/GnomeVideoEffects])
