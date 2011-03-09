@@ -1,6 +1,47 @@
 ChangeLog for GNOME Video Effects
 --------------------
 
+version 
+  - Use upstream gettext instead the glib one
+  - remove built effect files on make clean
+  - use subdir-objects flag for automake
+    this will create objects in sub directories, following the
+    same structure the sources are in.
+  - include autogen.sh script in make dist/distcheck
+  - use non-recursive automake
+    this reduces the automake setup to a single Makefile.am file
+    in top_srcdir. for more information see
+    http://www.flameeyes.eu/autotools-mythbuster/automake/nonrecursive.html
+    http://www.openismus.com/documents/linux/automake/automake.shtml
+  - use wildcards for effect files in autotools config
+    this way effects can be simply added, without forgetting to
+    add the to Makefile.am too
+  - modernize autotools build system
+    see http://live.gnome.org/GnomeGoals/ModernAutotools for
+    more information
+  - add preview links to each of the effects
+  - add a small tool to generate previews for all effects
+  - Added/Updated Translations
+    - bg, courtesy of Krasimir Chonov
+    - cs, courtesy of Marek Černocký
+    - el, courtesy of Simos Xenitellis
+    - en_GB, courtesy of Bruce Cowan
+    - es, courtesy of Daniel Mustieles
+    - et, courtesy of Mattias Põldaru
+    - fr, courtesy of Bruno Brouard
+    - gl, courtesy of Fran Diéguez
+    - he, courtesy of Yaron Shahrabani
+    - ko, courtesy of Changwoo Ryu
+    - nb, courtesy of Kjartan Maraas
+    - pa, courtesy of A S Alam
+    - sl, courtesy of Matej Urbančič
+    - sv, courtesy of Daniel Nylander
+    - uk, courtesy of Korostil Daniel
+    - zh_CN, courtesy of zhang ping
+    - zh_HK, courtesy of Chao-Hsiung Liao
+    - zh_TW, courtesy of Chao-Hsiung Liao
+  - Added/Updated Documentation
+
 version 0.2.0
   - make the historical effect black and white
   - decrease the time delay on the timedelay effect to 5 seconds
