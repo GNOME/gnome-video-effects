@@ -13,10 +13,15 @@ effects_in_files = $(wildcard effects/*.effect.in) \
 
 effects_DATA = $(effects_in_files:.effect.in=.effect)
 
+pixmapsdir = $(datadir)/gnome-video-effects/pixmaps
+pixmaps_DATA = $(wildcard pixmaps/*.svg) \
+	$(NULL)
+
 dist_noinst_SCRIPTS = autogen.sh
 
 EXTRA_DIST = \
 	$(effects_in_files) \
+	$(pixmaps_DATA) \
 	README \
 	$(NULL)
 
