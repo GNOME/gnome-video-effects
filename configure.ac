@@ -25,13 +25,9 @@ IT_PROG_INTLTOOL([0.40.0])
 
 AC_PROG_LN_S
 
-m4_include([m4/ax_define_dir.m4])
-AX_DEFINE_DIR([PIXMAPSDIR], [datarootdir/gnome-video-effects/pixmaps], [Path to SVG files, used in overlay effects.])
-
 AC_CONFIG_FILES([
 Makefile
 gnome-video-effects.pc
 po/Makefile.in
-effects/rsvgoverlay.effect.in
 ])
 AC_OUTPUT

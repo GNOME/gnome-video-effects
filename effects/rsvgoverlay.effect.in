@@ -1,6 +1,0 @@
-[Effect]
-Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#rsvgoverlay
-_Name=Image Overlay
-_Comment=Displays an SVG image over the video
-PipelineDescription=rsvgoverlay location="/home/laura/00_code/opt/gnome/share/gnome-video-effects/pixmaps/frame_kiss.svg" fit-to-frame=TRUE
