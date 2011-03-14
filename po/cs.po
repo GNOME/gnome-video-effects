@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-04 13:36+0000\n"
-"PO-Revision-Date: 2011-01-20 11:51+0100\n"
+"POT-Creation-Date: 2011-01-30 18:11+0000\n"
+"PO-Revision-Date: 2011-03-14 22:59+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: Czech <gnome-cs-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,15 +24,16 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Lokalize 1.0\n"
 
-#: ../effects/bulge.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
 msgid "Bulge"
 msgstr "Boule"
 
-#: ../effects/bulge.effect.in.h:2
+#: ../effects/bulge.effect.in.h:3
 msgid "Bulges the center of the video"
 msgstr "Vyboulí střed videa"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-cartoon.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
 #: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
 msgstr "Kresba"
@@ -41,7 +42,7 @@ msgstr "Kresba"
 msgid "Cartoonify video input"
 msgstr "Upraví obrazový vstup do komiksového stylu"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-twolay0r.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
 #: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
 msgstr "Che Guevara"
@@ -50,15 +51,16 @@ msgstr "Che Guevara"
 msgid "Transform video input into typical Che Guevara style"
 msgstr "Převede obrazový vstup na charakteristický styl Che Guevara"
 
-#: ../effects/chrome.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#: ../effects/chrome.effect.in.h:2
 msgid "Chrome"
 msgstr "Chrom"
 
-#: ../effects/chrome.effect.in.h:2
+#: ../effects/chrome.effect.in.h:3
 msgid "Transform video input into a metallic look"
 msgstr "Upraví vstupní obraz do kovového vzhledu"
 
-#. Preview: http://effectv.sourceforge.net/dice.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "Kostičky"
@@ -71,7 +73,7 @@ msgstr "Rozkostičkuje obrazový vstup na malé čtverečky"
 msgid "Distort the video input"
 msgstr "Pokřiví obrazový vstup"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-distort0r.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
 #: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
 msgstr "Pokřivení"
@@ -82,7 +84,7 @@ msgstr ""
 "Zobrazí vstupní obraz podobným způsobem, jako starý počítač s nízkým "
 "rozlišením"
 
-#. Preview: http://effectv.sourceforge.net/edge.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Hrany"
@@ -91,7 +93,8 @@ msgstr "Hrany"
 msgid "Fake heat camera toning"
 msgstr "Imituje barvy z termokamery"
 
-#: ../effects/heat.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:3
 msgid "Heat"
 msgstr "Teplo"
 
@@ -99,16 +102,17 @@ msgstr "Teplo"
 msgid "Add age to video input using scratches and dust"
 msgstr "Přidá obrazovému vstupu na létech pomocí škrábanců a prachu"
 
-#. Preview: http://effectv.sourceforge.net/aging.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
 #: ../effects/historical.effect.in.h:3
 msgid "Historical"
 msgstr "Patina"
 
-#: ../effects/hulk.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/hulk.effect.in.h:2
+#: ../effects/hulk.effect.in.h:3
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Transformuje se na úžasného zeleného Hulka"
 
@@ -116,7 +120,7 @@ msgstr "Transformuje se na úžasného zeleného Hulka"
 msgid "Invert colors of the video input"
 msgstr "Převrátí barvy obrazového vstupu"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-invert0r.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
 #: ../effects/invertion.effect.in.h:3
 msgid "Invertion"
 msgstr "Negativ"
@@ -125,28 +129,30 @@ msgstr "Negativ"
 msgid "A triangle Kaleidoscope"
 msgstr "Trojúhelníkový kaleidoskop"
 
-#: ../effects/kaleidoscope.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:3
 msgid "Kaleidoscope"
 msgstr "Kaleidoskop"
 
-#: ../effects/mauve.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#: ../effects/mauve.effect.in.h:2
 msgid "Mauve"
 msgstr "Lila"
 
-#: ../effects/mauve.effect.in.h:2
+#: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
 msgstr "Změní obrazový vstup do růžovofialové barvy"
 
-#: ../effects/mirror.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
 msgid "Mirror"
 msgstr "Zrcadlo"
 
-#: ../effects/mirror.effect.in.h:2
-#| msgid "Distort the video input"
+#: ../effects/mirror.effect.in.h:3
 msgid "Mirrors the video"
 msgstr "Zrcadlí video"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-bw0r.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
 #: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
 msgstr "Černá a bílá"
@@ -155,7 +161,7 @@ msgstr "Černá a bílá"
 msgid "Transform video input into grayscale"
 msgstr "Převede obrazový vstup do odstínů šedi"
 
-#. Preview: http://effectv.sourceforge.net/op.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
 #: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
 msgstr "Optická iluze"
@@ -164,12 +170,12 @@ msgstr "Optická iluze"
 msgid "Traditional black-white optical animation"
 msgstr "Tradiční černobílá optická animace"
 
-#: ../effects/pinch.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
 msgid "Pinch"
 msgstr "Skřipec"
 
-#: ../effects/pinch.effect.in.h:2
-#| msgid "Invert colors of the video input"
+#: ../effects/pinch.effect.in.h:3
 msgid "Pinches the center of the video"
 msgstr "Skřípne střed videa"
 
@@ -177,7 +183,7 @@ msgstr "Skřípne střed videa"
 msgid "Dissolves moving objects in the video input"
 msgstr "Rozprskne v obrazovém vstupu pohybující se objekty"
 
-#. Preview: http://effectv.sourceforge.net/quark.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
 #: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
 msgstr "Kvark"
@@ -186,7 +192,7 @@ msgstr "Kvark"
 msgid "Detect radioactivity and show it"
 msgstr "Detekuje radioaktivitu a zobrazí ji"
 
-#. Preview: http://effectv.sourceforge.net/radio.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:3
 msgid "Radioactive"
 msgstr "Radioaktivita"
@@ -195,7 +201,7 @@ msgstr "Radioaktivita"
 msgid "Transform video input into a waveform monitor"
 msgstr "Přemění vstupní obraz do podoby signálu na osciloskopu"
 
-#. Preview: http://effectv.sourceforge.net/rev.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
 #: ../effects/revtv.effect.in.h:3
 msgid "Waveform"
 msgstr "Osciloskop"
@@ -204,7 +210,7 @@ msgstr "Osciloskop"
 msgid "Add the ripple mark effect on the video input"
 msgstr "Přidá obrazovému vstupu efekt rozčeření"
 
-#. Preview: http://effectv.sourceforge.net/ripple.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
 #: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
 msgstr "Vlnky"
@@ -213,15 +219,17 @@ msgstr "Vlnky"
 msgid "Add more saturation to the video input"
 msgstr "Přidá obrazovému vstupu více sytosti"
 
-#: ../effects/saturation.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:3
 msgid "Saturation"
 msgstr "Syté barvy"
 
-#: ../effects/sepia.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
 msgid "Sepia"
 msgstr "Sépiová"
 
-#: ../effects/sepia.effect.in.h:2
+#: ../effects/sepia.effect.in.h:3
 msgid "Sepia toning"
 msgstr "Tónování do sépiové"
 
@@ -229,7 +237,7 @@ msgstr "Tónování do sépiové"
 msgid "Add some hallucination to the video input"
 msgstr "Přidá do obrazového vstupu nějaké ty halucinace"
 
-#. Preview: http://effectv.sourceforge.net/shagadelic.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
 #: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
 msgstr "Shagadelic"
@@ -238,7 +246,7 @@ msgstr "Shagadelic"
 msgid "Extracts edges in the video input through using the Sobel operator"
 msgstr "Zvýrazní v obrazovém vstupu hrany pomocí Sobelova operátoru"
 
-#. Preview: http://www.openmovieeditor.org/images/filters/out-sobel.png
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
 #: ../effects/sobel.effect.in.h:3
 msgid "Sobel"
 msgstr "Kontury"
@@ -247,11 +255,12 @@ msgstr "Kontury"
 msgid "Makes a square out of the center of the video"
 msgstr "Napne střed videa do čtverce"
 
-#: ../effects/square.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:3
 msgid "Square"
 msgstr "Čtverec"
 
-#. Preview: http://effectv.sourceforge.net/streak.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
 msgstr "Kung-Fu"
@@ -260,19 +269,31 @@ msgstr "Kung-Fu"
 msgid "Transform motions into Kung-Fu style"
 msgstr "Upraví pohyb do stylu Kung-Fu"
 
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "Roztažení"
+
+#: ../effects/stretch.effect.in.h:3
+#| msgid "Pinches the center of the video"
+msgid "Stretches the center of the video"
+msgstr "Roztáhne střed videa"
+
 #: ../effects/timedelay.effect.in.h:1
 msgid "Show what was happening in the past"
 msgstr "Ukazuje, co se událo v minulosti"
 
-#: ../effects/timedelay.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:3
 msgid "Time delay"
 msgstr "Časová prodleva"
 
-#: ../effects/twirl.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
 msgid "Twirl"
 msgstr "Zkroucení"
 
-#: ../effects/twirl.effect.in.h:2
+#: ../effects/twirl.effect.in.h:3
 msgid "Twirl the center of the video"
 msgstr "Zkroutí střed videa"
 
@@ -280,7 +301,7 @@ msgstr "Zkroutí střed videa"
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr "Přidá efekt s mícháním průhlednosti ve smyčce s otáčením a škálováním"
 
-#. Preview: http://effectv.sourceforge.net/vertigo.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
 #: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "Vír"
@@ -289,7 +310,7 @@ msgstr "Vír"
 msgid "Transform video input into realtime goo'ing"
 msgstr "Upraví obrazový vstup jako kdybyste s ním skutečně zamíchali"
 
-#. Preview: http://effectv.sourceforge.net/warp.html
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:3
 msgid "Warp"
 msgstr "Deformace"
@@ -298,7 +319,8 @@ msgstr "Deformace"
 msgid "Invert and slightly shade to blue"
 msgstr "Provede inverzi a vystínuje lehce do modra"
 
-#: ../effects/xray.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:3
 msgid "X-Ray"
 msgstr "Rentgen"
 
