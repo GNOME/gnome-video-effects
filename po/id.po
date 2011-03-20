@@ -1,204 +1,326 @@
 # Indonesian translation of gnome-video-effects
 # Copyright (C) 2010 THE gnome-video-effects' COPYRIGHT HOLDER
 # This file is distributed under the same license as the Cheese package.
-# Andika Triwidada <andika@gmail.com>, 2010.
 #
+# Andika Triwidada <andika@gmail.com>, 2010.
+# Dirgita <dirgitadevina@yahoo.co.id>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2010-08-09 22:55+0000\n"
-"PO-Revision-Date: 2010-08-10 23:03+0700\n"
-"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-12 15:55+0000\n"
+"PO-Revision-Date: 2011-03-05 11:14+0700\n"
+"Last-Translator: Dirgita <dirgitadevina@yahoo.co.id>\n"
 "Language-Team: GNOME Indonesian Translation Team <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-Language: Indonesian\n"
 "X-Poedit-Country: Indonesia\n"
 "X-Poedit-Basepath: /S/gnome\n"
+"X-Generator: Lokalize 1.1\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "Buat masukan video tampak tua dengan goresan dan debu"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulge"
+msgstr "Kembung"
 
-#: ../effects/agingtv.effect.in.h:2
-msgid "Historical"
-msgstr "Historis"
+#: ../effects/bulge.effect.in.h:3
+msgid "Bulges the center of the video"
+msgstr "Mengembungkan bagian tengah video"
 
-#: ../effects/cartoon.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+#: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
 msgstr "Kartun"
 
-#: ../effects/cartoon.effect.in.h:2
+#: ../effects/cartoon.effect.in.h:3
 msgid "Cartoonify video input"
-msgstr "Kartunkan masukan video"
+msgstr "Membuat efek kartun pada video"
 
-#: ../effects/cheguevara.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
+#: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
 msgstr "Che Guevara"
 
-#: ../effects/cheguevara.effect.in.h:2
+#: ../effects/cheguevara.effect.in.h:3
 msgid "Transform video input into typical Che Guevara style"
-msgstr "Transformasikan masukan video ke gaya Che Guevara"
+msgstr "Memberikan gaya Che Guevara pada video"
 
-#: ../effects/chrome.effect.in.h:1
-msgid "Chrome"
-msgstr "Chrome"
-
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
 #: ../effects/chrome.effect.in.h:2
-msgid "Transform video input into a metallic look"
-msgstr "Transformasikan masukan video ke tampilan metalik"
+msgid "Chrome"
+msgstr "Khrom"
 
-#: ../effects/dicetv.effect.in.h:1
+#: ../effects/chrome.effect.in.h:3
+msgid "Transform video input into a metallic look"
+msgstr "Memberikan efek metal pada video"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+#: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "Dadu"
 
-#: ../effects/dicetv.effect.in.h:2
+#: ../effects/dicetv.effect.in.h:3
 msgid "Dices the video input into many small squares"
-msgstr "Pecah masukan video ke banyak bujur sangkar kecil"
+msgstr "Memecah video menjadi potongan-potongan kecil bujur sangkar"
 
 #: ../effects/distortion.effect.in.h:1
-#| msgid "Distortion"
 msgid "Distort the video input"
-msgstr "Distorsikan masukan video"
+msgstr "Memberikan distorsi pada video"
 
-#: ../effects/distortion.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+#: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
 msgstr "Distorsi"
 
 #: ../effects/edgetv.effect.in.h:1
 msgid "Display video input like good old low resolution computer way"
-msgstr ""
-"Tampilkan masukan video secara komputer resolusi rendah yang tua dan bagus"
+msgstr "Membuat video seperti diputar pada komputer beresolusi rendah"
 
-#: ../effects/edgetv.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
-msgstr "Tepi"
+msgstr "Gerigi"
 
-#: ../effects/hulk.effect.in.h:1
+#: ../effects/heat.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr "Memberikan efek kamera panas"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:3
+msgid "Heat"
+msgstr "Panas"
+
+#: ../effects/historical.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr "Memberikan efek lawas pada video seperti goresan dan debu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#: ../effects/historical.effect.in.h:3
+msgid "Historical"
+msgstr "Historis"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/hulk.effect.in.h:2
+#: ../effects/hulk.effect.in.h:3
 msgid "Transform yourself into the amazing Hulk"
-msgstr "Transformasikan dirimu sendiri menjadi Hulk yang hebat"
+msgstr "Mengubah Anda menjadi Hulk"
 
 #: ../effects/invertion.effect.in.h:1
 msgid "Invert colors of the video input"
-msgstr "Balikkan warna dari masukan video"
+msgstr "Membalikkan warna pada video"
 
-#: ../effects/invertion.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
+#: ../effects/invertion.effect.in.h:3
 msgid "Invertion"
 msgstr "Inversi"
 
-#: ../effects/mauve.effect.in.h:1
-msgid "Mauve"
-msgstr "Mauve"
+#: ../effects/kaleidoscope.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr "Keleidoskop segitiga"
 
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "Kaleidoscope"
+msgstr "Keleidoskop"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
+msgid "Mauve"
+msgstr "Lembayung"
+
+#: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
-msgstr "Transformasikan masukan video ke warna mauve"
+msgstr "Mengubah warna video menjadi lembayung muda"
 
-#: ../effects/noir.effect.in.h:1
-msgid "Noir/Blanc"
-msgstr "Noir/Blanc"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirror"
+msgstr "Cermin"
 
+#: ../effects/mirror.effect.in.h:3
+msgid "Mirrors the video"
+msgstr "Memberi efek cermin pada video"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
 #: ../effects/noir.effect.in.h:2
-msgid "Transform video input into grayscale"
-msgstr "Transformasikan masukan video ke skala abu-abu"
+msgid "Noir/Blanc"
+msgstr "Abu"
 
-#: ../effects/optv.effect.in.h:1
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "Mengubah warna video menjadi abu-abu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
+#: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
 msgstr "Ilusi Optik"
 
-#: ../effects/optv.effect.in.h:2
+#: ../effects/optv.effect.in.h:3
 msgid "Traditional black-white optical animation"
 msgstr "Animasi optik hitam-putih tradisional"
 
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinch"
+msgstr "Cubit"
+
+#: ../effects/pinch.effect.in.h:3
+msgid "Pinches the center of the video"
+msgstr "Memberi efek cubitan pada bagian tengah video"
+
 #: ../effects/quarktv.effect.in.h:1
+#, fuzzy
 msgid "Dissolves moving objects in the video input"
 msgstr "Larutkan objek bergerak dalam masukan video"
 
-#: ../effects/quarktv.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+#: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
 msgstr "Quark"
 
 #: ../effects/radioactv.effect.in.h:1
+#, fuzzy
 msgid "Detect radioactivity and show it"
 msgstr "Deteksi keradioaktifan dan tampilkan"
 
-#: ../effects/radioactv.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+#: ../effects/radioactv.effect.in.h:3
 msgid "Radioactive"
 msgstr "Radioaktif"
 
 #: ../effects/revtv.effect.in.h:1
 msgid "Transform video input into a waveform monitor"
-msgstr "Transformasikan masukan video ke dalam pemantau bentuk gelombang"
+msgstr "Mengubah tampilan video menjadi alur-alur gelombang"
 
-#: ../effects/revtv.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+#: ../effects/revtv.effect.in.h:3
 msgid "Waveform"
-msgstr "Bentuk Gelombang"
+msgstr "Gelombang"
 
 #: ../effects/ripple.effect.in.h:1
 msgid "Add the ripple mark effect on the video input"
-msgstr "Tambahkan efek riak ke masukan video"
+msgstr "Menambahkan efek riak-riak air pada video"
 
-#: ../effects/ripple.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+#: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
 msgstr "Riak"
 
 #: ../effects/saturation.effect.in.h:1
 msgid "Add more saturation to the video input"
-msgstr "Tambahkan saturasi ke masukan video"
+msgstr "Menambahkan saturasi pada video"
 
-#: ../effects/saturation.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:3
 msgid "Saturation"
 msgstr "Saturasi"
 
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia"
+msgstr "Sefia"
+
+#: ../effects/sepia.effect.in.h:3
+msgid "Sepia toning"
+msgstr "Memberikan efek sefia"
+
 #: ../effects/shagadelictv.effect.in.h:1
 msgid "Add some hallucination to the video input"
-msgstr "Tambahkan halunisasi ke masukan video"
+msgstr "Menambahkan efek halusinasi pada video"
 
-#: ../effects/shagadelictv.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
+#: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
-msgstr "Shagadelic"
+msgstr ""
 
 #: ../effects/sobel.effect.in.h:1
 msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "Ekstrak tepi di masukan video melalui operator Sobel"
+msgstr "Mengekstrak tepian gambar pada video memakai operator Sobel"
 
-#: ../effects/sobel.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
+#: ../effects/sobel.effect.in.h:3
 msgid "Sobel"
 msgstr "Sobel"
 
-#: ../effects/streaktv.effect.in.h:1
+#: ../effects/square.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr "Memberikan efek kotak di tengah video"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:3
+msgid "Square"
+msgstr "Kotak"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+#: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
 msgstr "Kung-Fu"
 
-#: ../effects/streaktv.effect.in.h:2
+#: ../effects/streaktv.effect.in.h:3
 msgid "Transform motions into Kung-Fu style"
-msgstr "Transformasikan gerakan ke gaya Kung-Fu"
+msgstr "Membuat efek gerakan Kung-Fu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "Tarik"
+
+#: ../effects/stretch.effect.in.h:3
+msgid "Stretches the center of the video"
+msgstr "Menarik bagian tengah video"
+
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "Menampilkan yang terjadi di masa lalu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:3
+msgid "Time delay"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl"
+msgstr "Pelintir"
+
+#: ../effects/twirl.effect.in.h:3
+msgid "Twirl the center of the video"
+msgstr "Memelintir bagian tengah video"
 
 #: ../effects/vertigotv.effect.in.h:1
+#, fuzzy
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr ""
 "Tambahkan suatu pemberi efek peramuan alfa loopback dengan pemutaran dan "
 "penskalaan"
 
-#: ../effects/vertigotv.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+#: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "Vertigo"
 
 #: ../effects/warptv.effect.in.h:1
 msgid "Transform video input into realtime goo'ing"
-msgstr "Transformasikan masukan video ke goo realtime"
+msgstr ""
 
-#: ../effects/warptv.effect.in.h:2
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
+#: ../effects/warptv.effect.in.h:3
 msgid "Warp"
-msgstr "Warp"
+msgstr ""
 
-#~ msgid "No Effect"
-#~ msgstr "Tanpa Efek"
+#: ../effects/xray.effect.in.h:1
+msgid "Invert and slightly shade to blue"
+msgstr "Membalikkan warna video dan menambahinya dengan sepuhan biru"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:3
+msgid "X-Ray"
+msgstr "Sinar X"
