@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects 2.31.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-02-02 19:52+0100\n"
-"PO-Revision-Date: 2011-02-02 19:55+0100\n"
+"POT-Creation-Date: 2011-03-22 11:02+0100\n"
+"PO-Revision-Date: 2011-03-22 11:06+0100\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norsk bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: \n"
@@ -72,7 +72,7 @@ msgstr "Forvrenging"
 
 #: ../effects/edgetv.effect.in.h:1
 msgid "Display video input like good old low resolution computer way"
-msgstr ""
+msgstr "Vis videoinndata som en gammel datamaskin med lav oppløsing"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
 #: ../effects/edgetv.effect.in.h:3
@@ -131,7 +131,7 @@ msgstr "Mauve"
 
 #: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
-msgstr ""
+msgstr "Transformer videoinndata til en mauve-farge"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
 #: ../effects/mirror.effect.in.h:2
@@ -189,7 +189,7 @@ msgstr "Radioaktiv"
 
 #: ../effects/revtv.effect.in.h:1
 msgid "Transform video input into a waveform monitor"
-msgstr ""
+msgstr "Transformer videoinndata til en bølgeformskjerm"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
 #: ../effects/revtv.effect.in.h:3
@@ -198,16 +198,16 @@ msgstr "Bølgeform"
 
 #: ../effects/ripple.effect.in.h:1
 msgid "Add the ripple mark effect on the video input"
-msgstr ""
+msgstr "Legg til krusning på videoinndata"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
 #: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
-msgstr "Bølge"
+msgstr "Krusning"
 
 #: ../effects/saturation.effect.in.h:1
 msgid "Add more saturation to the video input"
-msgstr ""
+msgstr "Legg til mer metning i videoinndata"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
 #: ../effects/saturation.effect.in.h:3
@@ -221,11 +221,11 @@ msgstr "Sepia"
 
 #: ../effects/sepia.effect.in.h:3
 msgid "Sepia toning"
-msgstr ""
+msgstr "Sepia-toning"
 
 #: ../effects/shagadelictv.effect.in.h:1
 msgid "Add some hallucination to the video input"
-msgstr ""
+msgstr "Legg til hallusinasjoner i videoinndata"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
 #: ../effects/shagadelictv.effect.in.h:3
@@ -234,7 +234,7 @@ msgstr "Shagadelic"
 
 #: ../effects/sobel.effect.in.h:1
 msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr ""
+msgstr "Henter ut kanger i videoinndata gjennom bruk av Sobel-operator"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
 #: ../effects/sobel.effect.in.h:3
@@ -243,7 +243,7 @@ msgstr "Sobel"
 
 #: ../effects/square.effect.in.h:1
 msgid "Makes a square out of the center of the video"
-msgstr ""
+msgstr "Lager en firkant av senter av videoen"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
 #: ../effects/square.effect.in.h:3
@@ -280,15 +280,15 @@ msgstr "Tidsforsinkelse"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
 msgid "Twirl"
-msgstr ""
+msgstr "Snurr"
 
 #: ../effects/twirl.effect.in.h:3
 msgid "Twirl the center of the video"
-msgstr ""
+msgstr "Snurr senter av videoen"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr ""
+msgstr "Alpha-blending i løkke med rotering og skalering"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
 #: ../effects/vertigotv.effect.in.h:3
@@ -297,7 +297,7 @@ msgstr "Vertigo"
 
 #: ../effects/warptv.effect.in.h:1
 msgid "Transform video input into realtime goo'ing"
-msgstr ""
+msgstr "Transformerer videoinndata til «goo'ing» i sanntid"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:3
@@ -306,7 +306,7 @@ msgstr "Warp"
 
 #: ../effects/xray.effect.in.h:1
 msgid "Invert and slightly shade to blue"
-msgstr ""
+msgstr "Snu om og skyggelegg med blått"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
 #: ../effects/xray.effect.in.h:3
