@@ -9,10 +9,10 @@ msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2011-03-12 15:55+0000\n"
-"PO-Revision-Date: 2011-03-05 11:14+0700\n"
+"POT-Creation-Date: 2011-03-24 12:03+0000\n"
+"PO-Revision-Date: 2011-03-27 13:20+0700\n"
 "Last-Translator: Dirgita <dirgitadevina@yahoo.co.id>\n"
-"Language-Team: GNOME Indonesian Translation Team <gnome@i15n.org>\n"
+"Language-Team: Indonesian <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -177,9 +177,8 @@ msgid "Pinches the center of the video"
 msgstr "Memberi efek cubitan pada bagian tengah video"
 
 #: ../effects/quarktv.effect.in.h:1
-#, fuzzy
 msgid "Dissolves moving objects in the video input"
-msgstr "Larutkan objek bergerak dalam masukan video"
+msgstr "Membuat objek yang bergerak pada video seperti terlarut"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
 #: ../effects/quarktv.effect.in.h:3
@@ -187,9 +186,8 @@ msgid "Quark"
 msgstr "Quark"
 
 #: ../effects/radioactv.effect.in.h:1
-#, fuzzy
 msgid "Detect radioactivity and show it"
-msgstr "Deteksi keradioaktifan dan tampilkan"
+msgstr "Mendeteksi keradioaktifan dan menampilkannya"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:3
@@ -296,11 +294,9 @@ msgid "Twirl the center of the video"
 msgstr "Memelintir bagian tengah video"
 
 #: ../effects/vertigotv.effect.in.h:1
-#, fuzzy
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr ""
-"Tambahkan suatu pemberi efek peramuan alfa loopback dengan pemutaran dan "
-"penskalaan"
+"Menambahkan efek campuran alfa dengan teknik manipulasi putaran dan skala"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
 #: ../effects/vertigotv.effect.in.h:3
