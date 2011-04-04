@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cheese 2.29.90\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-02-23 19:25+0800\n"
-"PO-Revision-Date: 2011-02-23 19:25+0800\n"
+"POT-Creation-Date: 2011-04-05 06:42+0800\n"
+"PO-Revision-Date: 2011-04-05 06:43+0800\n"
 "Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
 "Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
 "Language: \n"
@@ -38,11 +38,11 @@ msgstr "將視像輸入卡通化"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
 #: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
-msgstr ""
+msgstr "切·格瓦拉"
 
 #: ../effects/cheguevara.effect.in.h:3
 msgid "Transform video input into typical Che Guevara style"
-msgstr ""
+msgstr "將視像輸入轉換為典型的切·格瓦拉造型"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
 #: ../effects/chrome.effect.in.h:2
@@ -298,12 +298,12 @@ msgstr "暈眩"
 
 #: ../effects/warptv.effect.in.h:1
 msgid "Transform video input into realtime goo'ing"
-msgstr ""
+msgstr "將視像輸入轉換為即時"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:3
 msgid "Warp"
-msgstr "Warp"
+msgstr "扭曲"
 
 #: ../effects/xray.effect.in.h:1
 msgid "Invert and slightly shade to blue"
