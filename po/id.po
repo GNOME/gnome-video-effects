@@ -2,16 +2,15 @@
 # Copyright (C) 2010 THE gnome-video-effects' COPYRIGHT HOLDER
 # This file is distributed under the same license as the Cheese package.
 #
-# Andika Triwidada <andika@gmail.com>, 2010.
+# Andika Triwidada <andika@gmail.com>, 2010, 2011.
 # Dirgita <dirgitadevina@yahoo.co.id>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2011-03-24 12:03+0000\n"
-"PO-Revision-Date: 2011-03-27 13:20+0700\n"
-"Last-Translator: Dirgita <dirgitadevina@yahoo.co.id>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-29 15:21+0000\n"
+"PO-Revision-Date: 2011-08-18 16:35+0700\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -237,7 +236,7 @@ msgstr "Menambahkan efek halusinasi pada video"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
 #: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
-msgstr ""
+msgstr "Shagadelic"
 
 #: ../effects/sobel.effect.in.h:1
 msgid "Extracts edges in the video input through using the Sobel operator"
@@ -282,7 +281,7 @@ msgstr "Menampilkan yang terjadi di masa lalu"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
 #: ../effects/timedelay.effect.in.h:3
 msgid "Time delay"
-msgstr ""
+msgstr "Tundaan waktu"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -295,8 +294,7 @@ msgstr "Memelintir bagian tengah video"
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr ""
-"Menambahkan efek campuran alfa dengan teknik manipulasi putaran dan skala"
+msgstr "Menambahkan efek campuran alfa dengan teknik manipulasi putaran dan skala"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
 #: ../effects/vertigotv.effect.in.h:3
@@ -305,12 +303,12 @@ msgstr "Vertigo"
 
 #: ../effects/warptv.effect.in.h:1
 msgid "Transform video input into realtime goo'ing"
-msgstr ""
+msgstr "Mengubah masukan video ke dalam goo waktu nyata"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:3
 msgid "Warp"
-msgstr ""
+msgstr "Warp"
 
 #: ../effects/xray.effect.in.h:1
 msgid "Invert and slightly shade to blue"
@@ -320,3 +318,4 @@ msgstr "Membalikkan warna video dan menambahinya dengan sepuhan biru"
 #: ../effects/xray.effect.in.h:3
 msgid "X-Ray"
 msgstr "Sinar X"
+
