@@ -4,23 +4,23 @@
 # This file is distributed under the same license as cheese
 #
 # Ricardo González Castro <rick@jinlabs.com>, 2007.
-# Jorge González <jorgegonz@svn.gnome.org>, 2007, 2008, 2009, 2010.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2011.
+# Jorge González <jorgegonz@svn.gnome.org>, 2007, 2008, 2009, 2010, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects.master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-30 18:11+0000\n"
-"PO-Revision-Date: 2011-01-31 13:38+0100\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: Español <gnome-es-list@gnome.org>\n"
+"POT-Creation-Date: 2011-01-31 18:36+0000\n"
+"PO-Revision-Date: 2011-09-11 10:35+0200\n"
+"Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
+"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -29,7 +29,7 @@ msgstr "Bulto"
 
 #: ../effects/bulge.effect.in.h:3
 msgid "Bulges the center of the video"
-msgstr "Abulta el centro del vídeo"
+msgstr "Abulta el centro del vídeo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
 #: ../effects/cartoon.effect.in.h:2
@@ -56,7 +56,7 @@ msgstr "Cromo"
 
 #: ../effects/chrome.effect.in.h:3
 msgid "Transform video input into a metallic look"
-msgstr "Transformar la entrada de vídeo en una apariencia metálica"
+msgstr "Transformar la entrada de vídeo en una apariencia metálica"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
@@ -273,7 +273,6 @@ msgid "Stretch"
 msgstr "Estirar"
 
 #: ../effects/stretch.effect.in.h:3
-#| msgid "Pinches the center of the video"
 msgid "Stretches the center of the video"
 msgstr "Estira el centro del vídeo"
 
