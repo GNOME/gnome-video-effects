@@ -2,15 +2,16 @@
 # Copyright (C) 2008-2010 Free Software Foundation, Inc.
 # This file is distributed under the same license as the cheese package.
 # Akom C. <knight2000@gmail.com>, 2008-2009.
-# Theppitak Karoonboonyanan <thep@linux.thai.net, 2008, 2010.
+# Theppitak Karoonboonyanan <thep@linux.thai.net, 2008, 2010-2011.
 # Pornpimon Pradabsri <kanom7448@hotmail.com>, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2010-06-14 20:31+0700\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&component=general\n"
+"POT-Creation-Date: 2011-01-30 18:11+0000\n"
+"PO-Revision-Date: 2011-09-26 12:16+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -18,96 +19,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Historical"
-msgstr ""
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulge"
+msgstr "ปูด"
 
-#: ../effects/cartoon.effect.in.h:1
+#: ../effects/bulge.effect.in.h:3
+msgid "Bulges the center of the video"
+msgstr "ปูดภาพตรงกลางจอ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+#: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
-msgstr ""
+msgstr "การ์ตูน"
 
-#: ../effects/cheguevara.effect.in.h:1
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "แปลงภาพวีดิทัศน์ให้เป็นการ์ตูน"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
+#: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
-msgstr ""
+msgstr "เช กูวารา"
 
-#: ../effects/chrome.effect.in.h:1
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "แปลงวีดิทัศน์ให้เป็นภาพสไตล์ เช กูวารา"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#: ../effects/chrome.effect.in.h:2
 msgid "Chrome"
-msgstr ""
+msgstr "โครเมียม"
 
-#: ../effects/dicetv.effect.in.h:1
+#: ../effects/chrome.effect.in.h:3
+msgid "Transform video input into a metallic look"
+msgstr "แปลงวีดิทัศน์ให้ดูคล้ายโลหะ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+#: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "เกล็ดกระจก"
 
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr "แบ่งภาพวีดิทัศน์เป็นเกล็ดสี่เหลี่ยมเล็กๆ"
+
 #: ../effects/distortion.effect.in.h:1
-#, fuzzy
+msgid "Distort the video input"
+msgstr "ดึงภาพวีดิทัศน์ให้บิดเบี้ยว"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+#: ../effects/distortion.effect.in.h:3
 msgid "Distortion"
-msgstr "ความละเอียด"
+msgstr "บิดเบี้ยว"
 
 #: ../effects/edgetv.effect.in.h:1
+msgid "Display video input like good old low resolution computer way"
+msgstr "แสดงภาพวีดิทัศน์ด้วยเส้นขอบภาพความละเอียดต่ำเหมือนจอภาพคอมพิวเตอร์สมัยก่อน"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "ตัดเส้น"
 
-#: ../effects/hulk.effect.in.h:1
+#: ../effects/heat.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr "จำลองกล้องตรวจจับความร้อน"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:3
+msgid "Heat"
+msgstr "ความร้อน"
+
+#: ../effects/historical.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr "ทำภาพวีดิทัศน์ให้ดูเก่าโดยเพิ่มรอยขีดข่วนและฝุ่น"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#: ../effects/historical.effect.in.h:3
+msgid "Historical"
+msgstr "สมัยเก่า"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
 msgid "Hulk"
 msgstr "หน้าเขียว"
 
-#: ../effects/identity.effect.in.h:1
-msgid "No Effect"
-msgstr "ไม่มีลูกเล่น"
+#: ../effects/hulk.effect.in.h:3
+msgid "Transform yourself into the amazing Hulk"
+msgstr "แปลงร่างเป็นฮัคยักษ์สีเขียว"
 
 #: ../effects/invertion.effect.in.h:1
-#, fuzzy
-msgid "Invertion"
-msgstr "ภวังค์"
+msgid "Invert colors of the video input"
+msgstr "กลับสีภาพวีดิทัศน์"
 
-#: ../effects/mauve.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
+#: ../effects/invertion.effect.in.h:3
+msgid "Invertion"
+msgstr "กลับสี"
+
+#: ../effects/kaleidoscope.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr "กล้องคาไลโดสโคปสามเหลี่ยม"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "Kaleidoscope"
+msgstr "คาไลโดสโคป"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#: ../effects/mauve.effect.in.h:2
 msgid "Mauve"
 msgstr "ย้อมสีม่วง"
 
-#: ../effects/noir.effect.in.h:1
+#: ../effects/mauve.effect.in.h:3
+msgid "Transform video input into a mauve color"
+msgstr "แปลงภาพวีดิทัศน์เป็นโทนสีม่วง"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirror"
+msgstr "กระจกเงา"
+
+#: ../effects/mirror.effect.in.h:3
+msgid "Mirrors the video"
+msgstr "สะท้อนภาพวีดิทัศน์ที่ขอบกระจกเงา"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
+#: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
 msgstr "ขาวดำ"
 
-#: ../effects/optv.effect.in.h:1
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "แปลงภาพวีดิทัศน์เป็นภาพขาวดำ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
+#: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
-msgstr ""
+msgstr "ภาพลวงตา"
+
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "ภาพเคลื่อนไหวลวงตาขาวดำแบบดั้งเดิม"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinch"
+msgstr "หยิกเล็บ"
+
+#: ../effects/pinch.effect.in.h:3
+msgid "Pinches the center of the video"
+msgstr "หยิกจอภาพที่กึ่งกลางด้วยเล็บ"
 
 #: ../effects/quarktv.effect.in.h:1
+msgid "Dissolves moving objects in the video input"
+msgstr "สลายวัตถุที่เคลื่อนไหวในวีดิทัศน์ให้เป็นฝุ่นควาร์ก"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+#: ../effects/quarktv.effect.in.h:3
 msgid "Quark"
-msgstr ""
+msgstr "ควาร์ก"
 
 #: ../effects/radioactv.effect.in.h:1
+msgid "Detect radioactivity and show it"
+msgstr "ตรวจหารังสีและแสดงออกมา"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+#: ../effects/radioactv.effect.in.h:3
 msgid "Radioactive"
-msgstr ""
+msgstr "รังสี"
 
 #: ../effects/revtv.effect.in.h:1
+msgid "Transform video input into a waveform monitor"
+msgstr "แปลงวีดิทัศน์เป็นจอข้อมูลแบบคลื่น"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+#: ../effects/revtv.effect.in.h:3
 msgid "Waveform"
-msgstr ""
+msgstr "รูปคลื่น"
 
 #: ../effects/ripple.effect.in.h:1
+msgid "Add the ripple mark effect on the video input"
+msgstr "เพิ่มลูกเล่นน้ำกระเพื่อมในวีดิทัศน์"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+#: ../effects/ripple.effect.in.h:3
 msgid "Ripple"
-msgstr ""
+msgstr "น้ำกระเพื่อม"
 
 #: ../effects/saturation.effect.in.h:1
+msgid "Add more saturation to the video input"
+msgstr "เพิ่มความสดของสีให้กับภาพวีดิทัศน์"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:3
 msgid "Saturation"
 msgstr "สีสด"
 
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia"
+msgstr "ซีเปีย"
+
+#: ../effects/sepia.effect.in.h:3
+msgid "Sepia toning"
+msgstr "ใช้โทนสีซีเปีย"
+
 #: ../effects/shagadelictv.effect.in.h:1
+msgid "Add some hallucination to the video input"
+msgstr "เพิ่มความหลอนให้กับภาพวีดิทัศน์"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
+#: ../effects/shagadelictv.effect.in.h:3
 msgid "Shagadelic"
 msgstr "จิ๊กโก๋"
 
 #: ../effects/sobel.effect.in.h:1
-msgid "Sobel"
-msgstr ""
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "ตัดเส้นขอบภาพในวีดิทัศน์โดยใช้การกระทำโซเบล"
 
-#: ../effects/streaktv.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
+#: ../effects/sobel.effect.in.h:3
+msgid "Sobel"
+msgstr "โซเบล"
+
+#: ../effects/square.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr "ปูดภาพวีดิทัศน์ตรงกลางจอเป็นรูปสี่เหลี่ยมจัตุรัส"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:3
+msgid "Square"
+msgstr "จัตุรัสนูน"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+#: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
-msgstr ""
+msgstr "กังฟู"
+
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "แสดงความเคลื่อนไหวในแบบกังฟู"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "ขยุ้ม"
+
+#: ../effects/stretch.effect.in.h:3
+msgid "Stretches the center of the video"
+msgstr "ขยุ้มจอภาพตรงกลางแล้วดึงให้ตึง"
+
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "แสดงภาพแบบหน่วงเวลา"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:3
+msgid "Time delay"
+msgstr "หน่วงเวลา"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl"
+msgstr "บิดเกลียว"
+
+#: ../effects/twirl.effect.in.h:3
+msgid "Twirl the center of the video"
+msgstr "บิดกลางภาพเป็นเกลียว"
 
 #: ../effects/vertigotv.effect.in.h:1
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "เพิ่มลูกเล่นเกลี่ยช่องอัลฟาพร้อมกับหมุนและย่อ-ขยาย"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+#: ../effects/vertigotv.effect.in.h:3
 msgid "Vertigo"
 msgstr "ภวังค์"
 
 #: ../effects/warptv.effect.in.h:1
+msgid "Transform video input into realtime goo'ing"
+msgstr "แปลงภาพวีดิทัศน์ให้มีความหนืด"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
+#: ../effects/warptv.effect.in.h:3
 msgid "Warp"
-msgstr "บิดเบี้ยว"
+msgstr "จอหนืด"
+
+#: ../effects/xray.effect.in.h:1
+msgid "Invert and slightly shade to blue"
+msgstr "กลับสีภาพและเพิ่มโทนสีฟ้าเล็กน้อย"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:3
+msgid "X-Ray"
+msgstr "เอ็กซ์เรย์"
+
+#~ msgid "No Effect"
+#~ msgstr "ไม่มีลูกเล่น"
