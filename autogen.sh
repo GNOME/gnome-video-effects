@@ -6,7 +6,7 @@ test -z "$srcdir" && srcdir=.
 
 PKG_NAME="gnome-video-effects"
 
-(test -f $srcdir/configure.ac) || {
+(test -f $srcdir/gnome-video-effects.pc.in) || {
     echo -n "**Error**: Directory "\`$srcdir\'" does not look like the"
     echo " top-level $PKG_NAME directory"
     exit 1
@@ -16,5 +16,7 @@ which gnome-autogen.sh || {
     echo "You need to install gnome-common from the GNOME git"
     exit 1
 }
+
+mkdir -p build-aux
 
 . gnome-autogen.sh
