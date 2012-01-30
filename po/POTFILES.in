@@ -8,6 +8,7 @@
 [type: gettext/ini]effects/dicetv.effect.in
 [type: gettext/ini]effects/distortion.effect.in
 [type: gettext/ini]effects/edgetv.effect.in
+[type: gettext/ini]effects/flip.effect.in
 [type: gettext/ini]effects/heat.effect.in
 [type: gettext/ini]effects/historical.effect.in
 [type: gettext/ini]effects/hulk.effect.in

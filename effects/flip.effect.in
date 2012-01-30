@@ -1,0 +1,6 @@
+[Effect]
+Encoding=UTF-8
+_Name=Flip
+_Comment=Flip the image, as if looking at a mirror
+Category=Geometry;
+PipelineDescription=videoflip method=horizontal-flip
