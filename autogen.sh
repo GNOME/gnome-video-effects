@@ -17,6 +17,6 @@ which gnome-autogen.sh || {
     exit 1
 }
 
-mkdir -p build-aux
+mkdir -p build-aux m4
 
 . gnome-autogen.sh
