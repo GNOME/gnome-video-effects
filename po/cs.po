@@ -6,15 +6,15 @@
 # Petr Kovar <pknbe@volny.cz>, 2008, 2010.
 # Kamil Páral <ripper42@gmail.com>, 2008.
 # Lucas Lommer <llommer@svn.gnome.org>, 2009, 2010.
-# Marek Černocký <marek@manet.cz>, 2010, 2011.
+# Marek Černocký <marek@manet.cz>, 2010, 2011, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-30 18:11+0000\n"
-"PO-Revision-Date: 2011-03-14 22:59+0100\n"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-01-31 14:48+0000\n"
+"PO-Revision-Date: 2012-02-20 11:03+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: Czech <gnome-cs-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -89,6 +89,14 @@ msgstr ""
 msgid "Edge"
 msgstr "Hrany"
 
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Překlopení"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Překlopí obrázek, jako když se díváte do zrcadla"
+
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
 msgstr "Imituje barvy z termokamery"
@@ -146,7 +154,7 @@ msgstr "Změní obrazový vstup do růžovofialové barvy"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
 #: ../effects/mirror.effect.in.h:2
 msgid "Mirror"
-msgstr "Zrcadlo"
+msgstr "Zrcadlení"
 
 #: ../effects/mirror.effect.in.h:3
 msgid "Mirrors the video"
@@ -275,7 +283,6 @@ msgid "Stretch"
 msgstr "Roztažení"
 
 #: ../effects/stretch.effect.in.h:3
-#| msgid "Pinches the center of the video"
 msgid "Stretches the center of the video"
 msgstr "Roztáhne střed videa"
 
@@ -323,6 +330,3 @@ msgstr "Provede inverzi a vystínuje lehce do modra"
 #: ../effects/xray.effect.in.h:3
 msgid "X-Ray"
 msgstr "Rentgen"
-
-#~ msgid "No Effect"
-#~ msgstr "Bez efektů"
