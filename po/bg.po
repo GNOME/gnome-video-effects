@@ -1,16 +1,16 @@
 # Bulgarian translation of gnome-video-effects po-file.
-# Copyright (C) 2010 Free Software Foundation, Inc.
+# Copyright (C) 2010, 2011, 2012 Free Software Foundation, Inc.
 # Copyright (C) 2011 Krasimir "Bfaf" Chonov <mk2616@abv.bg>.
 # This file is distributed under the same license as the gnome-video-effects package.
-# Alexander Shopov <ash@kambanaria.org>, 2010, 2011.
+# Alexander Shopov <ash@kambanaria.org>, 2010, 2011, 2012.
 # Krasimir Chonov <mk2616@abv.bg>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-02-05 10:00+0200\n"
-"PO-Revision-Date: 2011-02-05 10:00+0200\n"
+"POT-Creation-Date: 2012-02-22 19:53+0200\n"
+"PO-Revision-Date: 2012-02-22 19:53+0200\n"
 "Last-Translator: Krasimir Chonov <mk2616@abv.bg>\n"
 "Language-Team: Bulgarian <dict@fsa-bg.org>\n"
 "Language: bg\n"
@@ -84,6 +84,14 @@ msgstr "Изображение като от стар монитор с ниск
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Наръбване"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Обръщане"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Обръщане като от огледало"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
