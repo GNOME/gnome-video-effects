@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2012-02-20 10:04+0000\n"
-"PO-Revision-Date: 2012-02-22 12:55+0200\n"
+"PO-Revision-Date: 2012-02-22 18:16+0200\n"
 "Last-Translator: Mattias Põldaru <mahfiaz@gmail.com>\n"
 "Language-Team: Estonian <>\n"
 "Language: et\n"
@@ -75,7 +75,7 @@ msgid "Flip"
 msgstr "Peegeldamine"
 
 msgid "Flip the image, as if looking at a mirror"
-msgstr "Pildi pööramine peeglisse"
+msgstr "Pildi pööramine, nagu vaataks seda peeglist"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
 msgid "Heat"
