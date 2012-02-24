@@ -7,10 +7,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese gnome-2-22\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-30 18:11+0000\n"
-"PO-Revision-Date: 2011-03-21 22:34+0400\n"
-"Last-Translator: Yuri Myaseodov <omerta13@yandex.ru>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-01-31 14:48+0000\n"
+"PO-Revision-Date: 2012-02-24 16:11+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,6 +80,14 @@ msgstr "Старый добрый стиль низкого разрешения
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Границы"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Переворот"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Перевернуть изображение, как будто вы смотрите в зеркало"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
