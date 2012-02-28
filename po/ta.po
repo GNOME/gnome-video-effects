@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cheese.master.ta\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-04-01 12:13+0530\n"
+"POT-Creation-Date: 2011-04-01 13:04+0530\n"
 "PO-Revision-Date: 2011-04-01 12:15+0530\n"
 "Last-Translator: \n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -23,8 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\\n"
-"\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\\n\n"
 "\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
@@ -101,8 +100,7 @@ msgstr "சூடு"
 
 #: ../effects/historical.effect.in.h:1
 msgid "Add age to video input using scratches and dust"
-msgstr ""
-"விடியோ உள்ளீட்டுக்கு கீறல்களும் தூசியும் சேர்த்து பழையது போல் ஆக்கு"
+msgstr "விடியோ உள்ளீட்டுக்கு கீறல்களும் தூசியும் சேர்த்து பழையது போல் ஆக்கு"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
 #: ../effects/historical.effect.in.h:3
@@ -300,8 +298,7 @@ msgstr "விடியோவின் நடுப்பகுதியை ச�
 
 #: ../effects/vertigotv.effect.in.h:1
 msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr ""
-"பின்வாங்கும் ஆல்பா கலப்பு செயலுடன் சுழற்சியும் அளவு மாற்றத்தையும் சேர்"
+msgstr "பின்வாங்கும் ஆல்பா கலப்பு செயலுடன் சுழற்சியும் அளவு மாற்றத்தையும் சேர்"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
 #: ../effects/vertigotv.effect.in.h:3
