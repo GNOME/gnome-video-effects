@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-09 22:09+0100\n"
-"PO-Revision-Date: 2011-03-09 22:10+0100\n"
+"POT-Creation-Date: 2012-03-04 00:45+0100\n"
+"PO-Revision-Date: 2012-03-04 00:46+0100\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <gnomepl@aviary.pl>\n"
 "Language: pl\n"
@@ -85,6 +85,14 @@ msgstr ""
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Krawędź"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Obrót"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Obraca obraz jak w lustrze"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
