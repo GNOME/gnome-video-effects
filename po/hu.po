@@ -1,18 +1,18 @@
 # Translation of gnome-video-effects to Hungarian
-# Copyright (C) 2008, 2009, 2010, 2011 Free Software Foundation, Inc.
+# Copyright (C) 2008, 2009, 2010, 2011, 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-video-effects package.
 #
 # Adam Pongracz <pongadam at gmail dot com>, 2008.
 # Mate Ory <orymate at gmail dot com>, 2008.
-# Gabor Kelemen <kelemeng at gnome dot hu>, 2008, 2009, 2010, 2011.
+# Gabor Kelemen <kelemeng at gnome dot hu>, 2008, 2009, 2010, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-14 01:48+0100\n"
-"PO-Revision-Date: 2011-03-14 01:45+0100\n"
+"POT-Creation-Date: 2012-03-03 15:03+0100\n"
+"PO-Revision-Date: 2012-03-03 15:04+0100\n"
 "Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
-"Language-Team: Hungarian <gnome at fsf dot hu>\n"
+"Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -84,6 +84,14 @@ msgstr ""
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Élek"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Tükrözés"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Kép tükrözése, mint ha tükör előtt állna"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
@@ -320,3 +328,4 @@ msgstr "Invertálás és enyhe kék árnyalás"
 #: ../effects/xray.effect.in.h:3
 msgid "X-Ray"
 msgstr "Röntgen"
+
