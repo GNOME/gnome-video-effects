@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cheese 2.29.90\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-04-05 06:42+0800\n"
-"PO-Revision-Date: 2011-04-05 06:41+0800\n"
+"POT-Creation-Date: 2012-03-05 21:14+0800\n"
+"PO-Revision-Date: 2012-02-25 11:30+0800\n"
 "Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
 "Language-Team: Chinese/Traditional <zh-l10n@lists.linux.org.tw>\n"
 "Language: \n"
@@ -79,6 +79,14 @@ msgstr "將視訊輸入用類以老舊、低解析度電腦的方式顯示"
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "邊緣"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "翻轉"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "翻轉圖片，讓它看起來像鏡像"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
