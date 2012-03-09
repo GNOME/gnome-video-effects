@@ -1,11 +1,11 @@
 # French translation of gnome-video-effects
-# Copyright (C) 2007-2011 Listed translators
+# Copyright (C) 2007-2012 Listed translators
 # This file is distributed under the same license as gnome-video-effects
 #
 # Pierre Slamich <pierre.slamich@gmail.com>, 2007.
 # Robert-André Mauchin <zebob.m@pengzone.org>, 2007-2008.
 # Stéphane Raimbault <stephane.raimbault@gmail.com>, 2008.
-# Bruno Brouard <annoa.b@gmail.com>, 2008,2011.
+# Bruno Brouard <annoa.b@gmail.com>, 2008,2011-12.
 # Jonathan Ernst <jonathan@ernstfamily.ch>, 2009.
 # Nicolas Repentin <nicolas@shivaserv.fr>, 2009-2010.
 # Pablo Martin-Gomez <pablo.martin-gomez@laposte.net>, 2010.
@@ -15,9 +15,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2011-03-01 17:03+0000\n"
-"PO-Revision-Date: 2011-03-03 15:29+0200\n"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-01-30 17:13+0000\n"
+"PO-Revision-Date: 2012-03-09 23:52+0100\n"
 "Last-Translator: Bruno Brouard <annoa.b@gmail.com>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
@@ -87,6 +87,14 @@ msgstr "Affiche la vidéo comme sur les anciens écrans à faible résolution"
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Contours"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Retourner"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Retourne l'image comme si elle était regardée dans un miroir"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
