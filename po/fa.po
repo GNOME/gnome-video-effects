@@ -1,14 +1,14 @@
 # Persian translation for gnome-video-effects.
 # Copyright (C) 2011 gnome-video-effects's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-video-effects package.
-# Arash Mousavi <mousavi.arash@gmail.com>, 2011.
+# Arash Mousavi <mousavi.arash@gmail.com>, 2011, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2011-08-18 14:38+0000\n"
-"PO-Revision-Date: 2011-08-23 23:13+0330\n"
+"POT-Creation-Date: 2012-01-31 14:48+0000\n"
+"PO-Revision-Date: 2012-03-10 15:00+0330\n"
 "Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -80,6 +80,14 @@ msgstr "ویدئو ورودی را مانند رایانه‌های قدیمی �
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "لبه‌ها"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "برگردان"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "برگردان کردن عکس، مثل اینکه در آینه نگاه می‌کنید"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
