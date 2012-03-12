@@ -2,14 +2,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Amitakhya Phukan <aphukan@fedoraproject.org>, 2009.
-# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: as\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2011-08-18 14:38+0000\n"
-"PO-Revision-Date: 2011-08-19 13:05+0530\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
+"cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-01-31 14:48+0000\n"
+"PO-Revision-Date: 2012-03-12 12:22+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -80,6 +80,14 @@ msgstr "ভিডিঅ' ইনপুটক পুৰনি নিম্ন ব�
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "প্ৰান্ত"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "উলোটা কৰক"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "ছবিক উলোটা কৰক, যেন আইনাত চোৱা হৈ আছে"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
