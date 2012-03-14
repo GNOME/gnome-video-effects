@@ -10,11 +10,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-30 18:11+0000\n"
-"PO-Revision-Date: 2011-03-11 00:27+0200\n"
-"Last-Translator: Rudolfs <rudolfs.mazurs@gmail.com>\n"
-"Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-01-31 14:48+0000\n"
+"PO-Revision-Date: 2012-03-09 23:04+0200\n"
+"Last-Translator: Anita Reitere <nitalynx@gmail.com>\n"
+"Language-Team: Latviešu <lata-l10n@goglegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -85,6 +85,14 @@ msgstr "Attēlot video ievadi ar veco labo zemas izšķirtspējas datoru veidu"
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Kontūras"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Apmest"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Apmest attēlu otrādi, kā spogulī"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
