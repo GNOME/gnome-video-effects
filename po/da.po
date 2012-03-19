@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-13 12:18+0100\n"
-"PO-Revision-Date: 2011-02-27 20:27+0100\n"
+"POT-Creation-Date: 2012-03-19 09:52+0100\n"
+"PO-Revision-Date: 2012-03-18 17:16+0100\n"
 "Last-Translator: Nicky Thomassen <nicky441@gmail.com>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "Language: da\n"
@@ -79,6 +79,14 @@ msgstr "Vis videoen som en god gammeldags lavopløslig computervideo"
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "Kant"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Vend"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Vend billedet som om man kigger på et spejl"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
