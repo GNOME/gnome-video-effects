@@ -3,14 +3,14 @@
 #
 # Amanpreet Singh Alam <apreet.alam@gmail.com>, 2008.
 # Amanpreet Singh Alam <aalam@users.sf.net>, 2008.
-# A S Alam <aalam@users.sf.net>, 2009, 2010, 2011.
+# A S Alam <aalam@users.sf.net>, 2009, 2010, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese.HEAD\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-30 18:11+0000\n"
-"PO-Revision-Date: 2011-09-18 09:21+0530\n"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-01-31 14:48+0000\n"
+"PO-Revision-Date: 2012-03-20 18:22+0530\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
 "Language-Team: Punjabi/Panjabi <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -83,6 +83,14 @@ msgstr ""
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "ਕੋਨਾ"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "ਪਲਟੋ"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "ਚਿੱਤਰ ਨੂੰ ਪਲਟੋ, ਜਿਵੇਂ ਕਿ ਦਰਪਨ ਵਿੱਚ ਵੇਖਾਈ ਦਿੰਦਾ ਹੈ"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
@@ -270,7 +278,6 @@ msgid "Stretch"
 msgstr "ਖਿੱਚੋ"
 
 #: ../effects/stretch.effect.in.h:3
-#| msgid "Pinches the center of the video"
 msgid "Stretches the center of the video"
 msgstr "ਵਿਡੀਓ ਨੂੰ ਸੈਂਟਰ ਵਿੱਚੋਂ ਖਿੱਚੋ"
 
