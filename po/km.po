@@ -1,0 +1,319 @@
+# translation of gnome-video-effects.master.po to Khmer
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2012.
+# Morn Met <mornmet@khmeros.info>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-video-effects.master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-12-11 14:38+0000\n"
+"PO-Revision-Date: 2012-03-09 10:28+0700\n"
+"Last-Translator: Morn Met <mornmet@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: WordForge 0.8 RC1\n"
+"X-Language: km-KH\n"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulge"
+msgstr "ធ្វើឲ្យ​ប៉ោង"
+
+#: ../effects/bulge.effect.in.h:3
+msgid "Bulges the center of the video"
+msgstr "ធ្វើឲ្យ​ចំណុចកណ្ដាល​របស់​វីដេអូ​ប៉ោង"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+#: ../effects/cartoon.effect.in.h:2
+msgid "Cartoon"
+msgstr "គំនូរ​ជីវចល"
+
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "ធ្វើឲ្យ​ទិន្នន័យ​វីដេអូ​មាន​ចលនា"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
+#: ../effects/cheguevara.effect.in.h:2
+msgid "Che Guevara"
+msgstr "Che Guevara"
+
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "បម្លែង​ទិន្នន័យ​វីដេអូ​ទៅជា​រចនាប័ទ្ម Che Guevara ទូទៅ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#: ../effects/chrome.effect.in.h:2
+msgid "Chrome"
+msgstr "ក្រូម"
+
+#: ../effects/chrome.effect.in.h:3
+msgid "Transform video input into a metallic look"
+msgstr "បម្លែង​ទិន្នន័យ​វីដេអូទៅជា​រាង​លោហ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+#: ../effects/dicetv.effect.in.h:2
+msgid "Dice"
+msgstr "កូន​ឡុកឡាក់"
+
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr "ធ្វើឲ្យ​ទិន្នន័យ​វីដេអូ​ទៅជា​រាង​ការ៉េ​ជាច្រើន"
+
+#: ../effects/distortion.effect.in.h:1
+msgid "Distort the video input"
+msgstr "បង្ខូច​ទិន្នន័យ​វីដេអូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+#: ../effects/distortion.effect.in.h:3
+msgid "Distortion"
+msgstr "បង្ខូច​ទ្រង់ទ្រាយ"
+
+#: ../effects/edgetv.effect.in.h:1
+msgid "Display video input like good old low resolution computer way"
+msgstr "បង្ហាញ​ទិន្នន័យ​វីដេអូ​ដូច​កុំព្យូទ័រ​ដែល​មាន​គុណភាព​បង្ហាញ​ទាប​បំផុត"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#: ../effects/edgetv.effect.in.h:3
+msgid "Edge"
+msgstr "គែម"
+
+#: ../effects/heat.effect.in.h:1
+msgid "Fake heat camera toning"
+msgstr "ក្លែង​ធ្វើ​ម៉ាស៊ីន​ថត​ដែល​មាន​កម្ដៅ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:3
+msgid "Heat"
+msgstr "កម្ដៅ"
+
+#: ../effects/historical.effect.in.h:1
+msgid "Add age to video input using scratches and dust"
+msgstr "បន្ថែម​អាយុកាល​ទៅ​កាន់​ទិន្នន័យ​វីដេអូដោយប្រើកាត​កោស"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#: ../effects/historical.effect.in.h:3
+msgid "Historical"
+msgstr "ជា​ប្រវត្តិសាស្ត្រ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
+msgid "Hulk"
+msgstr "គ្រោង"
+
+#: ../effects/hulk.effect.in.h:3
+msgid "Transform yourself into the amazing Hulk"
+msgstr "បម្លែង​ខ្លួន​អ្នក​ទៅជា​មនុស្ស​ធំ​ជង្គ្រោង"
+
+#: ../effects/invertion.effect.in.h:1
+msgid "Invert colors of the video input"
+msgstr "បម្លែង​ពណ៌​របស់​ទិន្នន័យ​វីដេអូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
+#: ../effects/invertion.effect.in.h:3
+msgid "Invertion"
+msgstr "ការ​បម្លែង"
+
+#: ../effects/kaleidoscope.effect.in.h:1
+msgid "A triangle Kaleidoscope"
+msgstr "ភាព​ប្រែប្រួល​នៃ​ចតុកោណកែង"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "Kaleidoscope"
+msgstr "ភាព​ប្រែប្រួល"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#: ../effects/mauve.effect.in.h:2
+msgid "Mauve"
+msgstr "ពណ៌​ផ្កា​ត្របែក​ព្រៃ"
+
+#: ../effects/mauve.effect.in.h:3
+msgid "Transform video input into a mauve color"
+msgstr "បម្លែង​ទិន្នន័យ​វីដេអូ​ទៅ​ជា​ពណ៌​ផ្កា​ត្របែក​ព្រៃ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirror"
+msgstr "កញ្ចក់"
+
+#: ../effects/mirror.effect.in.h:3
+msgid "Mirrors the video"
+msgstr "បញ្ចាំង​វីដេអូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
+#: ../effects/noir.effect.in.h:2
+msgid "Noir/Blanc"
+msgstr "ស/ខ្មៅ"
+
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "បម្លែង​ទិន្នន័យ​វីដេអូ​ទៅជា​មាត្រដ្ឋាន​ប្រផេះ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
+#: ../effects/optv.effect.in.h:2
+msgid "Optical Illusion"
+msgstr "រូបភាព​បន្លំ​បែប​អុបទិច"
+
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "គំនូរ​ជីវចល​បែប​អុបទិច​ស​ខ្មៅ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinch"
+msgstr "ខ្ចឹប"
+
+#: ../effects/pinch.effect.in.h:3
+msgid "Pinches the center of the video"
+msgstr "ខ្ចឹបចំណុច​កណ្ដាល​របស់​វីដេអូ"
+
+#: ../effects/quarktv.effect.in.h:1
+msgid "Dissolves moving objects in the video input"
+msgstr "រំលាយ​វត្ថុ​ផ្លាស់ទី​នៅ​ក្នុង​ទិន្នន័យ​វីដេអូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+#: ../effects/quarktv.effect.in.h:3
+msgid "Quark"
+msgstr "Quark"
+
+#: ../effects/radioactv.effect.in.h:1
+msgid "Detect radioactivity and show it"
+msgstr "រកភាពវិទ្យុសកម្ម និង​បង្ហាញ​វា"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+#: ../effects/radioactv.effect.in.h:3
+msgid "Radioactive"
+msgstr "វិទ្យុ​សកម្ម"
+
+#: ../effects/revtv.effect.in.h:1
+msgid "Transform video input into a waveform monitor"
+msgstr "បម្លែង​ទិន្នន័យ​វីដេអូ​ទៅជាកម្មវិធី​ត្រួតពិនិត្យ​ទម្រង់​រលក"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+#: ../effects/revtv.effect.in.h:3
+msgid "Waveform"
+msgstr "ទម្រង់​រលក"
+
+#: ../effects/ripple.effect.in.h:1
+msgid "Add the ripple mark effect on the video input"
+msgstr "បន្ថែម​បែបផែន​ស្នាម​ជ្រួញ​នៅ​លើ​ទិន្នន័យ​វីដេអូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+#: ../effects/ripple.effect.in.h:3
+msgid "Ripple"
+msgstr "ស្នាម​ជ្រួញ"
+
+#: ../effects/saturation.effect.in.h:1
+msgid "Add more saturation to the video input"
+msgstr "បន្ថែម​តិត្ថិភាព​បន្ថែម​ទៅ​កាន់​ទិន្នន័យ​វីដេអូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:3
+msgid "Saturation"
+msgstr "តិត្ថិភាព"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia"
+msgstr "ពណ៌​សូកូឡា"
+
+#: ../effects/sepia.effect.in.h:3
+msgid "Sepia toning"
+msgstr "កម្រិត​ពណ៌​សូកូឡា"
+
+#: ../effects/shagadelictv.effect.in.h:1
+msgid "Add some hallucination to the video input"
+msgstr "បន្ថែមភាព​វិលវល់​ទៅកាន់​ទិន្នន័យ​វីដេអូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Shagadelic"
+msgstr "Shagadelic"
+
+#: ../effects/sobel.effect.in.h:1
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "ស្រង់យក​គែម​នៅ​ក្នុង​ទិន្នន័យ​វីដេអូ​ដោយ​ប្រើ​សញ្ញា​ប្រមាណ​វិធី Sobel"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
+#: ../effects/sobel.effect.in.h:3
+msgid "Sobel"
+msgstr "Sobel"
+
+#: ../effects/square.effect.in.h:1
+msgid "Makes a square out of the center of the video"
+msgstr "បង្កើត​រាង​ការេ​ចេញ​ពី​ចំណុច​កណ្ដាល​របស់​វីដេអូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:3
+msgid "Square"
+msgstr "ការេ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+#: ../effects/streaktv.effect.in.h:2
+msgid "Kung-Fu"
+msgstr "កុងហ៊្វូ"
+
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "បម្លែង​ចលនា​ទៅជា​រចនាប័ទ្ម​កុងហ៊្វូ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "ទាញ​ឲ្យវែង"
+
+#: ../effects/stretch.effect.in.h:3
+msgid "Stretches the center of the video"
+msgstr "ទាញ​ចំណុច​កណ្ដាល​រ​បស់​វីដេអូ​ឲ្យ​វែង"
+
+#: ../effects/timedelay.effect.in.h:1
+msgid "Show what was happening in the past"
+msgstr "បង្ហាញ​អ្វី​ដែល​បាន​កើតឡើង​ពីមុន"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:3
+msgid "Time delay"
+msgstr "ការ​ពន្យារ​ពេល"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl"
+msgstr "បង្វិល"
+
+#: ../effects/twirl.effect.in.h:3
+msgid "Twirl the center of the video"
+msgstr "បង្វិល​ចំណុច​កណ្ដាល​របស់​វីដេអូ"
+
+#: ../effects/vertigotv.effect.in.h:1
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+"បន្ថែម​អាល់ហ្វា​រង្វិល​ជុំ​ថយក្រោយដោយ​ផ្សំ​ជាមួយ​ការ​បង្វិល "
+"និង​ការ​ធ្វើ​មាត្រដ្ឋាន"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Vertigo"
+msgstr "ដំណើរ​ទ្រេតទ្រោត"
+
+#: ../effects/warptv.effect.in.h:1
+msgid "Transform video input into realtime goo'ing"
+msgstr "បម្លែង​ទិន្នន័យ​វីដេអូ​ទៅជាពេលវេលា​ពិត"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
+#: ../effects/warptv.effect.in.h:3
+msgid "Warp"
+msgstr "កោង"
+
+#: ../effects/xray.effect.in.h:1
+msgid "Invert and slightly shade to blue"
+msgstr "ដាក់បញ្ច្រាស និង​ធ្វើឲ្យ​មាន​ស្រមោល​ខៀវបន្តិច"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:3
+msgid "X-Ray"
+msgstr "កាំរស្មី X"
+
