@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of cheese.
-# Copyright (C) 1999-2007 Free Software Foundation, Inc.
+# Copyright (C) 1999-2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the cheese package.
 # Rodrigo Flores <rodrigomarquesflores@gmail.com>, 2007, 2008.
 # Og Maciel <ogmaciel@gnome.org>, 2008.
@@ -11,14 +11,15 @@
 # Djavan Fagundes <djavanf@gnome.org>, 2009, 2010
 # Michel Recondo <michel@recondo.com.br>, 2010.
 # Djavan Fagundes <djavan@comum.org>, 2011.
+# Enrico Nicoletto <liverig@gmail.com>, 2012.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-30 18:11+0000\n"
-"PO-Revision-Date: 2011-03-24 08:55-0200\n"
-"Last-Translator: Djavan Fagundes <djavan@comum.org>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-21 14:59-0300\n"
+"PO-Revision-Date: 2012-03-21 09:44-0300\n"
+"Last-Translator: Enrico Nicoletto <liverig@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -91,6 +92,14 @@ msgstr ""
 msgid "Edge"
 msgstr "Borda"
 
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Inverter"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Inverte a imagem como se estivesse olhando em um espelho"
+
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
 msgstr "Tom de aquecimento falso da câmera"
@@ -151,7 +160,6 @@ msgid "Mirror"
 msgstr "Espelho"
 
 #: ../effects/mirror.effect.in.h:3
-#| msgid "Distort the video input"
 msgid "Mirrors the video"
 msgstr "Espelha o vídeo"
 
@@ -179,7 +187,6 @@ msgid "Pinch"
 msgstr "Espremer"
 
 #: ../effects/pinch.effect.in.h:3
-#| msgid "Invert colors of the video input"
 msgid "Pinches the center of the video"
 msgstr "Espreme o centro do vídeo"
 
