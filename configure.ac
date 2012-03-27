@@ -1,7 +1,7 @@
 # Process this file with autoconf to produce a configure script.
 AC_PREREQ([2.64])
 AC_INIT([gnome-video-effects],
-	[0.3.0],
+	[0.4.0],
 	[https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects],
 	[gnome-video-effects],
 	[http://live.gnome.org/GnomeVideoEffects])
