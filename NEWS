@@ -1,6 +1,69 @@
 ChangeLog for GNOME Video Effects
 --------------------
 
+version 0.4.0
+  - Pre-release version bump to 0.4.0
+  - autogen.sh: create m4/ directory
+    https://bugzilla.gnome.org/show_bug.cgi?id=669715
+  - Add horizontal flip effect, fixes bug 666930
+  - Overhaul build system
+    Update .gitignore. Simplify Makefile.am. Update configure.ac, and do not
+    use AM_GNU_GETTEXT with IT_PROG_INTLTOOL. Create an empty build-aux
+    directory in autogen.sh.
+  - Add David King as a maintainer
+    Additionally, update the Bugzilla location. Remove obsolete MAINTAINERS.
+  - Added/Updated Translations
+    - af, courtesy of F Wolff
+    - as, courtesy of Nilamdyuti Goswami
+    - be, courtesy of Ihar Hrachyshka
+    - bg, courtesy of Krasimir Chonov
+    - ca, courtesy of Jordi Estrada
+    - ca@valencia, courtesy of Jordi Estrada
+    - cs, courtesy of Marek Černocký
+    - da, courtesy of Nicky Thomassen
+    - de, courtesy of Mario Blättermann
+    - en_GB, courtesy of Bruce Cowan
+    - eo, courtesy of Kristjan SCHMIDT
+    - es, courtesy of Daniel Mustieles
+    - et, courtesy of Mattias Põldaru
+    - eu, courtesy of Iñaki Larrañaga Murgoitio
+    - fa, courtesy of Arash Mousavi
+    - fi, courtesy of Tommi Vainikainen
+    - fr, courtesy of Bruno Brouard
+    - gl, courtesy of Fran Dieguez
+    - he, courtesy of Yaron Shahrabani
+    - hi, courtesy of "Last-Translator: Rajesh Ranjan\n"
+    - hu, courtesy of Gabor Kelemen
+    - id, courtesy of Andika Triwidada
+    - it, courtesy of Claudio Arseni
+    - ja, courtesy of Hideki Yamane
+    - km, courtesy of Morn Met
+    - ko, courtesy of Changwoo Ryu
+    - lt, courtesy of Aurimas Černius
+    - lv, courtesy of Anita Reitere
+    - nb, courtesy of Kjartan Maraas
+    - pa, courtesy of A S Alam
+    - pl, courtesy of Piotr Drąg
+    - pt_BR, courtesy of Enrico Nicoletto
+    - pt, courtesy of Duarte Loreto
+    - ro, courtesy of Lucian Adrian Grijincu
+    - ru, courtesy of Yuri Myasoedov
+    - sk, courtesy of Stanislav Petrek
+    - sl, courtesy of Matej Urbančič
+    - sr, courtesy of Мирослав Николић
+    - sr@latin, courtesy of Miroslav Nikolić
+    - sv, courtesy of Daniel Nylander
+    - ta, courtesy of Dr.T.Vasudevan
+    - te, courtesy of Sasi Bhushan Boddepalli
+    - th, courtesy of Theppitak Karoonboonyanan
+    - tr, courtesy of Muhammet Kara
+    - ug, courtesy of Temkin
+    - uk, courtesy of Korostil Daniel
+    - vi, courtesy of Clytie Siddall
+    - zh_CN, courtesy of tuhaihe
+    - zh_HK, courtesy of Chao-Hsiung Liao
+    - zh_TW, courtesy of Chao-Hsiung Liao
+
 version 0.3.0
   - Use upstream gettext instead the glib one
   - remove built effect files on make clean
