@@ -25,9 +25,9 @@ for i in $(ls $effectsdir/*.$suffix); do
   if [ ! -e "$previewdir/$name.jpg" ]; then
     if [[ ! "$ignore_effects" =~ "${name}" ]]; then
       echo -e "\n\nCreating preview for $name"
-      gst-launch filesrc location=$previewdir/normal.jpg ! jpegdec ! ffmpegcolorspace ! \
+      gst-launch-1.0 filesrc location=$previewdir/normal.jpg ! decodebin ! videoconvert ! \
       $(grep PipelineDescription "$i" | sed "s/^PipelineDescription=//") ! \
-      ffmpegcolorspace ! jpegenc !  filesink location="$previewdir/$name.jpg"
+      videoconvert ! jpegenc !  filesink location="$previewdir/$name.jpg"
     fi
   fi
 done
