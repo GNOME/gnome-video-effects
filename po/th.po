@@ -1,17 +1,17 @@
 # Thai translation of cheese.
-# Copyright (C) 2008-2010 Free Software Foundation, Inc.
+# Copyright (C) 2008-2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the cheese package.
 # Akom C. <knight2000@gmail.com>, 2008-2009.
-# Theppitak Karoonboonyanan <thep@linux.thai.net, 2008, 2010-2011.
+# Theppitak Karoonboonyanan <thep@linux.thai.net, 2008, 2010-2012.
 # Pornpimon Pradabsri <kanom7448@hotmail.com>, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-30 18:11+0000\n"
-"PO-Revision-Date: 2011-09-26 12:16+0700\n"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-01-31 14:48+0000\n"
+"PO-Revision-Date: 2012-09-06 19:51+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -81,6 +81,14 @@ msgstr "แสดงภาพวีดิทัศน์ด้วยเส้น
 #: ../effects/edgetv.effect.in.h:3
 msgid "Edge"
 msgstr "ตัดเส้น"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "พลิก"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "พลิกภาพ เสมือนหนึ่งอยู่หน้ากระจกเงา"
 
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
