@@ -17,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2012-01-30 17:13+0000\n"
-"PO-Revision-Date: 2012-03-09 23:52+0100\n"
+"PO-Revision-Date: 2012-09-24 13:26+0200\n"
 "Last-Translator: Bruno Brouard <annoa.b@gmail.com>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgstr "Déformation"
 
 #: ../effects/edgetv.effect.in.h:1
 msgid "Display video input like good old low resolution computer way"
-msgstr "Affiche la vidéo comme sur les anciens écrans à faible résolution"
+msgstr "Affiche la vidéo comme sur les anciens écrans à faible définition"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
 #: ../effects/edgetv.effect.in.h:3
