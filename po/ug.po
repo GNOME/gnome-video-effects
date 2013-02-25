@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Sahran <sahran@live.com>, 2010-08-29.
 # Temkin <temkin119@gmail.com>,2011
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-utils\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-utils&component=general\n"
-"POT-Creation-Date: 2011-02-21 22:03+0000\n"
-"PO-Revision-Date: 2010-08-29 17:50+0000\n"
-"Last-Translator: Temkin <temkin119@gmail.com>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-01-31 14:48+0000\n"
+"PO-Revision-Date: 2013-02-25 18:54+0900\n"
+"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
 "Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
 msgid "Bulge"
-msgstr ""
+msgstr "چوقچاي"
 
 #: ../effects/bulge.effect.in.h:3
 msgid "Bulges the center of the video"
@@ -56,7 +56,7 @@ msgstr ""
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
-msgstr ""
+msgstr "ئۇرۇق(شىشىخال)"
 
 #: ../effects/dicetv.effect.in.h:3
 msgid "Dices the video input into many small squares"
@@ -80,6 +80,14 @@ msgstr ""
 msgid "Edge"
 msgstr "گىرۋەك"
 
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Flip"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr ""
+
 #: ../effects/heat.effect.in.h:1
 msgid "Fake heat camera toning"
 msgstr ""
@@ -96,7 +104,7 @@ msgstr ""
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
 #: ../effects/historical.effect.in.h:3
 msgid "Historical"
-msgstr ""
+msgstr "تارىخىي"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -150,7 +158,7 @@ msgstr ""
 
 #: ../effects/noir.effect.in.h:3
 msgid "Transform video input into grayscale"
-msgstr "كىرگەن سىننى رەڭسىز سىنغا ئايلاندۇرۇش"
+msgstr "كىرگەن سىننى رەڭسىز سىنغا ئۆزگەرتىش"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
 #: ../effects/optv.effect.in.h:2
@@ -218,7 +226,7 @@ msgstr "تويۇنۇش"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
 msgid "Sepia"
-msgstr ""
+msgstr "رەڭ ئال"
 
 #: ../effects/sepia.effect.in.h:3
 msgid "Sepia toning"
@@ -271,7 +279,7 @@ msgstr ""
 
 #: ../effects/timedelay.effect.in.h:1
 msgid "Show what was happening in the past"
-msgstr "بۇرۇن نېمە ئىش بولغانلىىنى كۆرسىتىدۇ"
+msgstr "بۇرۇن نېمە ئىش بولغانلىقىنى كۆرسىتىدۇ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
 #: ../effects/timedelay.effect.in.h:3
@@ -303,7 +311,7 @@ msgstr ""
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:3
 msgid "Warp"
-msgstr ""
+msgstr "قارا ئۆڭكۈر"
 
 #: ../effects/xray.effect.in.h:1
 msgid "Invert and slightly shade to blue"
