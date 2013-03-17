@@ -1,15 +1,15 @@
 # gnome-video-effects's Portuguese translation
-# Copyright © 2007, 2008, 2009, 2010, 2012 gnome-video-effects
+# Copyright © 2007, 2008, 2009, 2010, 2012, 2013 gnome-video-effects
 # This file is distributed under the same license as the gnome-video-effects package
 # Miguel Rosa <miguelpires@gmail.com>, 2007.
-# Duarte Loreto <happyguy_pt@hotmail.com>, 2008, 2009, 2010, 2011, 2012.
-#
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2008, 2009, 2010, 2011, 2012, 2013.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: 3.4\n"
+"Project-Id-Version: 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-16 01:02+0000\n"
-"PO-Revision-Date: 2012-03-16 01:05+0100\n"
+"POT-Creation-Date: 2013-03-17 00:48+0000\n"
+"PO-Revision-Date: 2013-03-17 00:50+0100\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "Language: pt\n"
@@ -34,7 +34,7 @@ msgstr "Banda Desenhada"
 
 #: ../effects/cartoon.effect.in.h:3
 msgid "Cartoonify video input"
-msgstr "Dá um aspecto de banda desenhada ao vídeo"
+msgstr "Dá um aspeto de banda desenhada ao vídeo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
 #: ../effects/cheguevara.effect.in.h:2
@@ -52,7 +52,7 @@ msgstr "Cromado"
 
 #: ../effects/chrome.effect.in.h:3
 msgid "Transform video input into a metallic look"
-msgstr "Transforma o vídeo num aspecto cromado"
+msgstr "Transforma o vídeo num aspeto cromado"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
@@ -164,11 +164,11 @@ msgstr "Transforma o vídeo em escalas de cinza"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
 #: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
-msgstr "Ilusão de Óptica"
+msgstr "Ilusão de Ótica"
 
 #: ../effects/optv.effect.in.h:3
 msgid "Traditional black-white optical animation"
-msgstr "Animação óptica tradicional a preto e branco"
+msgstr "Animação ótica tradicional a preto e branco"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
 #: ../effects/pinch.effect.in.h:2
@@ -186,16 +186,16 @@ msgstr "Quark"
 
 #: ../effects/quarktv.effect.in.h:3
 msgid "Dissolves moving objects in the video input"
-msgstr "Dissolve objectos em movimento no vídeo"
+msgstr "Dissolve objetos em movimento no vídeo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
-msgstr "Radioactividade"
+msgstr "Radioatividade"
 
 #: ../effects/radioactv.effect.in.h:3
 msgid "Detect radioactivity and show it"
-msgstr "Detecta e apresenta radioactividade"
+msgstr "Deteta e apresenta radioatividade"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
 #: ../effects/revtv.effect.in.h:2
