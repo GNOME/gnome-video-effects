@@ -3,4 +3,4 @@ Encoding=UTF-8
 # Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
 _Name=Time delay
 _Comment=Show what was happening in the past
-PipelineDescription=frei0r-filter-delay0r delaytime=5
+PipelineDescription=frei0r-filter-delay0r delaytime=1
