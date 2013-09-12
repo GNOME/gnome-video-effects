@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh -e
 # small script to generate previews of all effects. to generate them,
 # you need a folder "preview" in $srcdir with a file "normal.jpg" in it.
 
@@ -19,16 +19,22 @@ PKG_NAME="gnome-video-effects"
     exit 1
 }
 
+test -d "$previewdir" || mkdir "$previewdir"
+test -f "$previewdir"/normal.jpg || exit 1
+
 for i in $(ls $effectsdir/*.$suffix); do
   name=$(basename ${i%.$suffix})
 
   if [ ! -e "$previewdir/$name.jpg" ]; then
-    if [[ ! "$ignore_effects" =~ "${name}" ]]; then
-      echo -e "\n\nCreating preview for $name"
-      gst-launch-1.0 filesrc location=$previewdir/normal.jpg ! decodebin ! videoconvert ! \
-      $(grep PipelineDescription "$i" | sed "s/^PipelineDescription=//") ! \
-      videoconvert ! jpegenc !  filesink location="$previewdir/$name.jpg"
-    fi
+    case $ignore_effects in
+      *$name*) continue ;;
+      *)
+        echo -e "\n\nCreating preview for $name"
+        gst-launch-1.0 filesrc location=$previewdir/normal.jpg ! decodebin ! \
+          videoconvert ! \
+          $(grep PipelineDescription "$i" | sed "s/^PipelineDescription=//") ! \
+          videoconvert ! jpegenc !  filesink location="$previewdir/$name.jpg"
+    esac
   fi
 done
 
@@ -48,10 +54,12 @@ for i in $(ls $effectsdir/*.$suffix); do
   echo "== $(grep Name "$i" | sed "s/^_Name=//") ($name.effect) =="
   echo "$(grep Comment "$i" | sed "s/^_Comment=//")"
   echo
-  if [[ ! "$ignore_effects" =~ "${name}" ]]; then
-    echo "{{attachment:$name.jpg}}"
-  else
-    echo "see [[http://effectv.sourceforge.net/$(echo $name | sed "s/actv//" | sed "s/tv$//").html]]"
-  fi
+  case $ignore_effects in
+    *$name*)
+      echo "see [[http://effectv.sourceforge.net/$(echo $name | sed "s/actv//" | sed "s/tv$//").html]]"
+      continue ;;
+    *)
+      echo "{{attachment:$name.jpg}}"
+  esac
   echo
 done
