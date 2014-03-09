@@ -27,4 +27,5 @@ Makefile.in*
 /configure
 /gnome-video-effects.pc
 /gnome-video-effects-*.tar.*
+/INSTALL
 /intltool*.in
