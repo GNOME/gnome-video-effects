@@ -1,6 +1,33 @@
 ChangeLog for GNOME Video Effects
 --------------------
 
+version 0.4.1
+  - Remove INSTALL from git
+  - Update homepage location
+  - Change timedelay effect to use 1 second delay
+    The frei0r delay0r filter has a maximum delay of 1 second. Partially
+    fixes bug 688818.
+  - Port create_effects_preview.sh to GStreamer 1.0
+    Fixes bug 681090.
+  - Added/Updated Translations
+    - de, courtesy of Viktor Nyberg
+    - el, courtesy of Tom Tryfonidis
+    - fr, courtesy of Bruno Brouard
+    - fur, courtesy of TmTFx
+    - ga, courtesy of Seán de Búrca
+    - hi, courtesy of chandankumar
+    - id, courtesy of Dirgita
+    - lv, courtesy of Rūdolfs Mazurs
+    - ml, courtesy of Anish A
+    - pl, courtesy of Piotr Drąg
+    - pt_BR, courtesy of Enrico Nicoletto
+    - pt, courtesy of Duarte Loreto
+    - sk, courtesy of Marián Čavojský
+    - tg, courtesy of Victor Ibragimov
+    - th, courtesy of Theppitak Karoonboonyanan
+    - tr, courtesy of Muhammet Kara
+    - ug, courtesy of Gheyret Kenji
+
 version 0.4.0
   - Pre-release version bump to 0.4.0
   - autogen.sh: create m4/ directory
