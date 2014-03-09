@@ -4,7 +4,7 @@ AC_INIT([gnome-video-effects],
 	[0.4.0],
 	[https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects],
 	[gnome-video-effects],
-	[http://live.gnome.org/GnomeVideoEffects])
+	[https://wiki.gnome.org/Projects/GnomeVideoEffects])
 
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_SRCDIR([gnome-video-effects.pc.in])
