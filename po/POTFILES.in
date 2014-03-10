@@ -12,7 +12,7 @@
 [type: gettext/ini]effects/heat.effect.in
 [type: gettext/ini]effects/historical.effect.in
 [type: gettext/ini]effects/hulk.effect.in
-[type: gettext/ini]effects/invertion.effect.in
+[type: gettext/ini]effects/inversion.effect.in
 [type: gettext/ini]effects/kaleidoscope.effect.in
 [type: gettext/ini]effects/mauve.effect.in
 [type: gettext/ini]effects/mirror.effect.in
