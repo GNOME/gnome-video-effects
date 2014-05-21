@@ -1,6 +1,6 @@
-# Brazilian Portuguese translation of cheese.
-# Copyright (C) 1999-2012 Free Software Foundation, Inc.
-# This file is distributed under the same license as the cheese package.
+# Brazilian Portuguese translation of gnome-video-effects.
+# Copyright (C) 1999-2014 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-video-effects package.
 # Rodrigo Flores <rodrigomarquesflores@gmail.com>, 2007, 2008.
 # Og Maciel <ogmaciel@gnome.org>, 2008.
 # Luis Motta <luiscpmotta@gmail.com>, 2008.
@@ -11,15 +11,15 @@
 # Djavan Fagundes <djavanf@gnome.org>, 2009, 2010
 # Michel Recondo <michel@recondo.com.br>, 2010.
 # Djavan Fagundes <djavan@comum.org>, 2011.
-# Enrico Nicoletto <liverig@gmail.com>, 2012.
+# Enrico Nicoletto <liverig@gmail.com>, 2012, 2014.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cheese\n"
+"Project-Id-Version: gnome-video-effects\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2013-09-06 19:15+0000\n"
-"PO-Revision-Date: 2013-10-30 15:59-0300\n"
+"POT-Creation-Date: 2014-05-21 07:51+0000\n"
+"PO-Revision-Date: 2014-05-21 14:56-0300\n"
 "Last-Translator: Enrico Nicoletto <liverig@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.6.5\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -128,12 +128,13 @@ msgstr "Hulk"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Transforme-se em no incrível Hulk"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+#| msgid "Invertion"
+msgid "Inversion"
 msgstr "Inversão"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Inverter cores em uma entrada de vídeo"
 
