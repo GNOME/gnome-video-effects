@@ -7,16 +7,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese gnome-2-22\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-01-31 14:48+0000\n"
-"PO-Revision-Date: 2012-02-24 16:11+0300\n"
-"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-07-05 08:19+0000\n"
+"PO-Revision-Date: 2014-07-05 18:50+0400\n"
+"Last-Translator: Yuri Myasoedov <ymyasoedov@yandex.ru>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.5\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -63,23 +66,23 @@ msgstr "Кусочки"
 msgid "Dices the video input into many small squares"
 msgstr "Разбивает видео на множество кусочков"
 
-#: ../effects/distortion.effect.in.h:1
-msgid "Distort the video input"
-msgstr "Исказить видеопоток"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:3
+#: ../effects/distortion.effect.in.h:2
 msgid "Distortion"
 msgstr "Искажение"
 
-#: ../effects/edgetv.effect.in.h:1
-msgid "Display video input like good old low resolution computer way"
-msgstr "Старый добрый стиль низкого разрешения"
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "Исказить видеопоток"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:3
+#: ../effects/edgetv.effect.in.h:2
 msgid "Edge"
 msgstr "Границы"
+
+#: ../effects/edgetv.effect.in.h:3
+msgid "Display video input like good old low resolution computer way"
+msgstr "Старый добрый стиль низкого разрешения"
 
 #: ../effects/flip.effect.in.h:1
 msgid "Flip"
@@ -89,23 +92,23 @@ msgstr "Переворот"
 msgid "Flip the image, as if looking at a mirror"
 msgstr "Перевернуть изображение, как будто вы смотрите в зеркало"
 
-#: ../effects/heat.effect.in.h:1
-msgid "Fake heat camera toning"
-msgstr "Температурное фиктивное тонирование"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:3
+#: ../effects/heat.effect.in.h:2
 msgid "Heat"
 msgstr "Температура"
 
-#: ../effects/historical.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "Добавить возраст с помощью царапин и пыли"
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr "Температурное фиктивное тонирование"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:3
+#: ../effects/historical.effect.in.h:2
 msgid "Historical"
 msgstr "Исторический"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr "Добавить возраст с помощью царапин и пыли"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -116,23 +119,24 @@ msgstr "Зомби"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Превращение в изумительного зомби."
 
-#: ../effects/invertion.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+#| msgid "Invertion"
+msgid "Inversion"
+msgstr "Инверсия"
+
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Инвертировать цвета"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:3
-msgid "Invertion"
-msgstr "Инверсия"
-
-#: ../effects/kaleidoscope.effect.in.h:1
-msgid "A triangle Kaleidoscope"
-msgstr "Треугольный калейдоскоп"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:3
+#: ../effects/kaleidoscope.effect.in.h:2
 msgid "Kaleidoscope"
 msgstr "Калейдоскоп"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "Треугольный калейдоскоп"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
@@ -179,50 +183,50 @@ msgstr "Щепок"
 msgid "Pinches the center of the video"
 msgstr "Защипнуть видео по центру"
 
-#: ../effects/quarktv.effect.in.h:1
-msgid "Dissolves moving objects in the video input"
-msgstr "Растворить движущиеся объекты"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:3
+#: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
 msgstr "Кварк"
 
-#: ../effects/radioactv.effect.in.h:1
-msgid "Detect radioactivity and show it"
-msgstr "Обнаружение радиоактивности"
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr "Растворить движущиеся объекты"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:3
+#: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
 msgstr "Излучение"
 
-#: ../effects/revtv.effect.in.h:1
-msgid "Transform video input into a waveform monitor"
-msgstr "Преобразовать видео в колебания"
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "Обнаружение радиоактивности"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:3
+#: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
 msgstr "Колебания"
 
-#: ../effects/ripple.effect.in.h:1
-msgid "Add the ripple mark effect on the video input"
-msgstr "Добавить эффект ряби"
+#: ../effects/revtv.effect.in.h:3
+msgid "Transform video input into a waveform monitor"
+msgstr "Преобразовать видео в колебания"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:3
+#: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
 msgstr "Рябь"
 
-#: ../effects/saturation.effect.in.h:1
-msgid "Add more saturation to the video input"
-msgstr "Увеличить насыщенность"
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr "Добавить эффект ряби"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:3
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "Насыщенность"
+
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr "Увеличить насыщенность"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
@@ -233,32 +237,32 @@ msgstr "Сепия"
 msgid "Sepia toning"
 msgstr "Сепия"
 
-#: ../effects/shagadelictv.effect.in.h:1
-msgid "Add some hallucination to the video input"
-msgstr "Добавить галлюцинации"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:3
+#: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
 msgstr "Психоделия"
 
-#: ../effects/sobel.effect.in.h:1
-msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "Выделить границы с помощью оператора Собеля"
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr "Добавить галлюцинации"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:3
+#: ../effects/sobel.effect.in.h:2
 msgid "Sobel"
 msgstr "Собель"
 
-#: ../effects/square.effect.in.h:1
-msgid "Makes a square out of the center of the video"
-msgstr "Выделяет по центру  квадрат"
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Выделить границы с помощью оператора Собеля"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:3
+#: ../effects/square.effect.in.h:2
 msgid "Square"
 msgstr "Квадрат"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "Выделяет по центру  квадрат"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
@@ -278,14 +282,14 @@ msgstr "Растянуть"
 msgid "Stretches the center of the video"
 msgstr "Растягивает центр видео"
 
-#: ../effects/timedelay.effect.in.h:1
-msgid "Show what was happening in the past"
-msgstr "Показать, что случилось в прошлом"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:3
+#: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
 msgstr "Задержка времени"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "Показать, что случилось в прошлом"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -296,30 +300,30 @@ msgstr "Вихрь"
 msgid "Twirl the center of the video"
 msgstr "Закрутить центр видео"
 
-#: ../effects/vertigotv.effect.in.h:1
-msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr "Добавить петлевой эффект альфа-смешивания с вращением и масштабированием"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:3
+#: ../effects/vertigotv.effect.in.h:2
 msgid "Vertigo"
 msgstr "Головокружение"
 
-#: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
-msgstr "Вязкое видео"
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+"Добавить петлевой эффект альфа-смешивания с вращением и масштабированием"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:3
+#: ../effects/warptv.effect.in.h:2
 msgid "Warp"
 msgstr "Искривление"
 
-#: ../effects/xray.effect.in.h:1
-msgid "Invert and slightly shade to blue"
-msgstr "Инвертировать и добавить синего"
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo'ing"
+msgstr "Вязкое видео"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:3
+#: ../effects/xray.effect.in.h:2
 msgid "X-Ray"
 msgstr "Рентген"
 
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "Инвертировать и добавить синего"
