@@ -1,13 +1,13 @@
 # Norwegian bokmål translation of gnome-video-effects
 # This file is distributed under the same license as the gnome-video-effects package.
-# Kjartan Maraas <kmaraas@gnome.org>, 2005-2012.
+# Kjartan Maraas <kmaraas@gnome.org>, 2005-2014.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-video-effects 0.3.x\n"
+"Project-Id-Version: gnome-video-effects 0.4.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-02 18:46+0100\n"
-"PO-Revision-Date: 2012-02-02 18:46+0100\n"
+"POT-Creation-Date: 2014-07-23 14:45+0200\n"
+"PO-Revision-Date: 2014-07-23 14:45+0200\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norsk bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: \n"
@@ -114,12 +114,12 @@ msgstr "Hulk"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Transformer deg selv til den fantastiske Hulk"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
 msgstr "Inversjon"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Snu om på fargene i videoen"
 
