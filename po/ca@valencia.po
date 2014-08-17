@@ -1,21 +1,21 @@
 # Traducció del gnome-video-effects al Català
 # Copyright (C) 2010 Free Software Foundation, Inc.
 # This file is distributed under the same license as the Cheese package.
-# Gil Forcada <gilforcada@guifi.net>, 2008, 2009, 2010.
+# Gil Forcada <gilforcada@guifi.net>, 2008, 2009, 2010, 2014.
 # Jordi Estrada <jordi.estrada@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-15 23:26+0100\n"
-"PO-Revision-Date: 2012-03-10 17:56+0100\n"
-"Last-Translator: Jordi Estrada <jordi.estrada@gmail.com>\n"
+"POT-Creation-Date: 2014-08-17 13:01+0200\n"
+"PO-Revision-Date: 2014-08-17 12:59+0200\n"
+"Last-Translator: Gil Forcada <gilforcada@guifi.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "Language: ca-XV\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bits\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
@@ -118,12 +118,12 @@ msgstr "Hulk"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Transformeu-vos en l'increïble Hulk"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
 msgstr "Inversió"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Inverteix els colors de l'entrada de vídeo"
 
