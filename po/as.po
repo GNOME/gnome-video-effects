@@ -2,21 +2,22 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Amitakhya Phukan <aphukan@fedoraproject.org>, 2009.
-# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011, 2012.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011, 2012, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: as\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
-"cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-01-31 14:48+0000\n"
-"PO-Revision-Date: 2012-03-12 12:22+0530\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-08-19 08:16+0000\n"
+"PO-Revision-Date: 2014-08-19 16:16+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
-"Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
+"Language-Team: Assamese <kde-i18n-doc@kde.org>\n"
+"Language: as\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -63,23 +64,23 @@ msgstr "ডাইচ"
 msgid "Dices the video input into many small squares"
 msgstr "ভিডিঅ' ইনপুটক বহুতো সৰু বৰ্গত বিভাজন কৰে"
 
-#: ../effects/distortion.effect.in.h:1
-msgid "Distort the video input"
-msgstr "ভিডিঅ' ইনপুট বিকৃত কৰক"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:3
+#: ../effects/distortion.effect.in.h:2
 msgid "Distortion"
 msgstr "বিকৃতকৰণ"
 
-#: ../effects/edgetv.effect.in.h:1
-msgid "Display video input like good old low resolution computer way"
-msgstr "ভিডিঅ' ইনপুটক পুৰনি নিম্ন বিভেদন কমপিউটাৰ পদ্ধতিৰে প্ৰদৰ্শন কৰক"
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "ভিডিঅ' ইনপুট বিকৃত কৰক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:3
+#: ../effects/edgetv.effect.in.h:2
 msgid "Edge"
 msgstr "প্ৰান্ত"
+
+#: ../effects/edgetv.effect.in.h:3
+msgid "Display video input like good old low resolution computer way"
+msgstr "ভিডিঅ' ইনপুটক পুৰনি নিম্ন বিভেদন কমপিউটাৰ পদ্ধতিৰে প্ৰদৰ্শন কৰক"
 
 #: ../effects/flip.effect.in.h:1
 msgid "Flip"
@@ -89,23 +90,23 @@ msgstr "উলোটা কৰক"
 msgid "Flip the image, as if looking at a mirror"
 msgstr "ছবিক উলোটা কৰক, যেন আইনাত চোৱা হৈ আছে"
 
-#: ../effects/heat.effect.in.h:1
-msgid "Fake heat camera toning"
-msgstr "মিছা তাপ কেমেৰা টনিং"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:3
+#: ../effects/heat.effect.in.h:2
 msgid "Heat"
 msgstr "তাপ"
 
-#: ../effects/historical.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "স্ক্ৰেচ আৰু ধূলি ব্যৱহাৰ কৰি ভিডিঅ' ইনপুটলে বয়স যোগ কৰক"
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr "মিছা তাপ কেমেৰা টনিং"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:3
+#: ../effects/historical.effect.in.h:2
 msgid "Historical"
 msgstr "ঐতিহাসিক"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr "স্ক্ৰেচ আৰু ধূলি ব্যৱহাৰ কৰি ভিডিঅ' ইনপুটলে বয়স যোগ কৰক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -116,23 +117,24 @@ msgstr "হাল্ক"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "নিজকে এটা বিস্ময়ী হাল্কত পৰিৱৰ্তন কৰক"
 
-#: ../effects/invertion.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+#| msgid "Invertion"
+msgid "Inversion"
+msgstr "উলোটা কৰা"
+
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "ভিডিঅ' ইনপুটৰ ৰঙসমূহৰ আৱিস্কাৰ কৰক"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:3
-msgid "Invertion"
-msgstr "উলোটা কৰা"
-
-#: ../effects/kaleidoscope.effect.in.h:1
-msgid "A triangle Kaleidoscope"
-msgstr "এটা ত্ৰিকোণীয় কেলিডোস্কৌপ"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:3
+#: ../effects/kaleidoscope.effect.in.h:2
 msgid "Kaleidoscope"
 msgstr "কেলিডোস্কৌপ"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "এটা ত্ৰিকোণীয় কেলিডোস্কৌপ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
@@ -179,50 +181,50 @@ msgstr "চিকুট"
 msgid "Pinches the center of the video"
 msgstr "ভিডিঅ'ৰ কেন্দ্ৰক চিকুটে"
 
-#: ../effects/quarktv.effect.in.h:1
-msgid "Dissolves moving objects in the video input"
-msgstr "ভিডিঅ' ইনপুটত গতিশীল অবজেক্টসমূহক বিলীন কৰে"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:3
+#: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
 msgstr "কোৱাৰ্ক"
 
-#: ../effects/radioactv.effect.in.h:1
-msgid "Detect radioactivity and show it"
-msgstr "তেজস্ক্ৰিয়তা ধৰা পেলাওক আৰু দেখুৱাওক"
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr "ভিডিঅ' ইনপুটত গতিশীল অবজেক্টসমূহক বিলীন কৰে"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:3
+#: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
 msgstr "তেজস্ক্ৰিয়"
 
-#: ../effects/revtv.effect.in.h:1
-msgid "Transform video input into a waveform monitor"
-msgstr "ভিডিঅ' ইনপুটক এটা তৰংগবিন্যাস মনিটৰলে ৰূপান্তৰ কৰক"
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "তেজস্ক্ৰিয়তা ধৰা পেলাওক আৰু দেখুৱাওক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:3
+#: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
 msgstr "তৰংগবিন্যাস"
 
-#: ../effects/ripple.effect.in.h:1
-msgid "Add the ripple mark effect on the video input"
-msgstr "ভিডিঅ' ইনপুটত উৰ্মিকা চিহ্ন প্ৰভাৱ যোগ কৰক"
+#: ../effects/revtv.effect.in.h:3
+msgid "Transform video input into a waveform monitor"
+msgstr "ভিডিঅ' ইনপুটক এটা তৰংগবিন্যাস মনিটৰলে ৰূপান্তৰ কৰক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:3
+#: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
 msgstr "উৰ্মিকা"
 
-#: ../effects/saturation.effect.in.h:1
-msgid "Add more saturation to the video input"
-msgstr "ভিডিঅ' ইনপুটলে অধিক সংপৃক্তকৰণ যোগ কৰক"
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr "ভিডিঅ' ইনপুটত উৰ্মিকা চিহ্ন প্ৰভাৱ যোগ কৰক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:3
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "সংপৃক্তকৰণ"
+
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr "ভিডিঅ' ইনপুটলে অধিক সংপৃক্তকৰণ যোগ কৰক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
@@ -233,32 +235,32 @@ msgstr "চেপিয়া"
 msgid "Sepia toning"
 msgstr "চেপিয়া টনিং"
 
-#: ../effects/shagadelictv.effect.in.h:1
-msgid "Add some hallucination to the video input"
-msgstr "ভিডিঅ' ইনপুটলে কিছু দৃষ্টিভ্ৰম যোগ কৰক"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:3
+#: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
 msgstr "শাগাডেলিক"
 
-#: ../effects/sobel.effect.in.h:1
-msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "চবেল অপাৰেটৰ ব্যৱহাৰ কৰি ভিডিঅ' ইনপুটলে প্ৰান্তসমূহ নিষ্কাশন কৰে"
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr "ভিডিঅ' ইনপুটলে কিছু দৃষ্টিভ্ৰম যোগ কৰক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:3
+#: ../effects/sobel.effect.in.h:2
 msgid "Sobel"
 msgstr "চবেল"
 
-#: ../effects/square.effect.in.h:1
-msgid "Makes a square out of the center of the video"
-msgstr "ভিডিঅ'ৰ কেন্দ্ৰৰ পৰা এটা বৰ্গ সৃষ্টি কৰে"
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "চবেল অপাৰেটৰ ব্যৱহাৰ কৰি ভিডিঅ' ইনপুটলে প্ৰান্তসমূহ নিষ্কাশন কৰে"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:3
+#: ../effects/square.effect.in.h:2
 msgid "Square"
 msgstr "বৰ্গ"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "ভিডিঅ'ৰ কেন্দ্ৰৰ পৰা এটা বৰ্গ সৃষ্টি কৰে"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
@@ -278,14 +280,14 @@ msgstr "প্ৰসাৰিত কৰক"
 msgid "Stretches the center of the video"
 msgstr "ভিডিঅ'ৰ কেন্দ্ৰ প্ৰসাৰন কৰক"
 
-#: ../effects/timedelay.effect.in.h:1
-msgid "Show what was happening in the past"
-msgstr "অতিতত কি চলি আছিল দেখুৱাওক"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:3
+#: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
 msgstr "সময় বিলম্ব"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "অতিতত কি চলি আছিল দেখুৱাওক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -296,30 +298,30 @@ msgstr "টুইৰ্ল"
 msgid "Twirl the center of the video"
 msgstr "ভিডিঅ'ৰ কেন্দ্ৰ টুইৰ্ল কৰক"
 
-#: ../effects/vertigotv.effect.in.h:1
-msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr "ঘুৰ্ণন আৰু স্কেইলিংৰ সৈতে এটা লুপবেক আল্ফা ব্লেন্ডিং প্ৰভাৱক যোগ কৰক"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:3
+#: ../effects/vertigotv.effect.in.h:2
 msgid "Vertigo"
 msgstr "ভাৰটাইগো"
 
-#: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
-msgstr "ভিডিঅ' ইনপুটক ৰিয়েলটাইম গুইংলে ৰুপান্তৰ কৰক"
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "ঘুৰ্ণন আৰু স্কেইলিংৰ সৈতে এটা লুপবেক আল্ফা ব্লেন্ডিং প্ৰভাৱক যোগ কৰক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:3
+#: ../effects/warptv.effect.in.h:2
 msgid "Warp"
 msgstr "ৱাৰ্প"
 
-#: ../effects/xray.effect.in.h:1
-msgid "Invert and slightly shade to blue"
-msgstr "উলোটাওক আৰু নীলা ৰঙলে পাতলভাৱে ছায়াবৃত কৰক"
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo'ing"
+msgstr "ভিডিঅ' ইনপুটক ৰিয়েলটাইম গুইংলে ৰুপান্তৰ কৰক"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:3
+#: ../effects/xray.effect.in.h:2
 msgid "X-Ray"
 msgstr "X-ৰে"
+
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "উলোটাওক আৰু নীলা ৰঙলে পাতলভাৱে ছায়াবৃত কৰক"
 
