@@ -9,19 +9,17 @@ msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-05-02 11:15+0000\n"
-"PO-Revision-Date: 2012-04-08 21:39+0700\n"
-"Last-Translator: Dirgita <dirgitadevina@yahoo.co.id>\n"
+"POT-Creation-Date: 2014-09-03 20:22+0000\n"
+"PO-Revision-Date: 2014-09-04 13:26+0700\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <gnome@i15n.org>\n"
+"Language: id_ID\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Poedit-Language: Indonesian\n"
-"X-Poedit-Country: Indonesia\n"
 "X-Poedit-Basepath: /S/gnome\n"
-"X-Generator: Lokalize 1.1\n"
+"X-Generator: Poedit 1.5.7\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -121,12 +119,13 @@ msgstr "Hulk"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Mengubah Anda menjadi Hulk"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+#| msgid "Invertion"
+msgid "Inversion"
 msgstr "Inversi"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Membalikkan warna pada video"
 
