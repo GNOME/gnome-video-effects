@@ -4,14 +4,15 @@
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
 # Raivis Dejus <orvils@gmail.com>, 2009.
-# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2009, 2010, 2012.
+# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2009, 2010, 2012, 2014.
 # Peteris Krisjanis <pecisk@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-24 15:02+0300\n"
-"PO-Revision-Date: 2012-09-24 15:11+0300\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-09-07 08:15+0000\n"
+"PO-Revision-Date: 2014-09-07 18:05+0300\n"
 "Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
 "Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
 "Language: lv\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
-"X-Generator: Lokalize 1.4\n"
+"X-Generator: Lokalize 1.5\n"
 "X-Launchpad-Export-Date: 2009-01-04 12:24+0000\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
@@ -121,12 +122,13 @@ msgstr "Šreks"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Pārvērtiet sevi par Šreku"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
-msgstr "Invertēšana"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+#| msgid "Invertion"
+msgid "Inversion"
+msgstr "Inversija"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Invertē video ievades krāsas"
 
@@ -309,8 +311,7 @@ msgstr "Reibonis"
 #: ../effects/vertigotv.effect.in.h:3
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr ""
-"Pievieno atpakaļsaites alfa sapludināšanas efektorā ar rotēšanu un "
-"mērogošanu"
+"Pievieno atpakaļsaites alfa sapludināšanas efektorā ar rotēšanu un mērogošanu"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:2
