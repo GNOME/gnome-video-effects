@@ -5,7 +5,7 @@
 #
 # Daniel G. Siegel <dgsiegel@gmail.com>, 2007.
 # Andre Klapper <ak-47@gmx.net>, 2007.
-# Wolfgang Stöggl <c72578@yahoo.de>, 2008 - 2010.
+# Wolfgang Stöggl <c72578@yahoo.de>, 2008 - 2010, 2014.
 # Hendrik Richter <hendrikr@gnome.org>, 2008, 2009.
 # Mario Blättermann <mariobl@gnome.org>, 2009-2011.
 # Paul Seyfert <pseyfert@mathphys.fsk.uni-heidelberg.de>, 2010.
@@ -17,16 +17,16 @@ msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-03-27 06:06+0000\n"
-"PO-Revision-Date: 2012-04-16 22:02+0200\n"
-"Last-Translator: Viktor Nyberg <greenscandic@googlemail.com>\n"
+"POT-Creation-Date: 2014-09-12 08:18+0000\n"
+"PO-Revision-Date: 2014-09-12 14:12+0100\n"
+"Last-Translator: Wolfgang Stoeggl <c72578@yahoo.de>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Language: German\n"
+"X-Generator: Poedit 1.6.9\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -127,12 +127,14 @@ msgstr "Hulk"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Sich in Hulk verwandeln"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
-msgstr "Umkehrung"
+# Invertieren der Farben.
+# Beispiel: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
+msgstr "Invertieren"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Farben des Eingangsvideos invertieren"
 
