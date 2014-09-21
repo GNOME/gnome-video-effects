@@ -3,22 +3,22 @@
 #
 # Amanpreet Singh Alam <apreet.alam@gmail.com>, 2008.
 # Amanpreet Singh Alam <aalam@users.sf.net>, 2008.
-# A S Alam <aalam@users.sf.net>, 2009, 2010, 2011, 2012.
+# A S Alam <aalam@users.sf.net>, 2009, 2010, 2011, 2012, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese.HEAD\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-01-31 14:48+0000\n"
-"PO-Revision-Date: 2012-03-20 18:22+0530\n"
+"POT-Creation-Date: 2014-09-21 08:13+0000\n"
+"PO-Revision-Date: 2014-09-21 09:02-0500\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
 "Language-Team: Punjabi/Panjabi <kde-i18n-doc@kde.org>\n"
+"Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.2\n"
+"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: pa\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -65,24 +65,24 @@ msgstr "ਡੱਬੇ"
 msgid "Dices the video input into many small squares"
 msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਨੂੰ ਕਈ ਛੋਟੇ ਛੋਟੇ ਡੱਬਿਆਂ ਦੇ ਰੂਪ ਵਿੱਚ ਵੇਖਾਓ"
 
-#: ../effects/distortion.effect.in.h:1
-msgid "Distort the video input"
-msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਖਿਲਾਰੋ (distort)"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:3
+#: ../effects/distortion.effect.in.h:2
 msgid "Distortion"
 msgstr "ਖਿਲਾਰੋ"
 
-#: ../effects/edgetv.effect.in.h:1
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਖਿਲਾਰੋ (distort)"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#: ../effects/edgetv.effect.in.h:2
+msgid "Edge"
+msgstr "ਕੋਨਾ"
+
+#: ../effects/edgetv.effect.in.h:3
 msgid "Display video input like good old low resolution computer way"
 msgstr ""
 "ਵਿਡੀਓ ਇੰਪੁੱਟ ਨੂੰ ਪੁਰਾਣੇ ਸਮੇਂ ਦੀ ਘੱਟ ਰੈਜ਼ੋਲੂਸ਼ਨ ਵਾਲੇ ਕੰਪਿਊਟਰ ਢੰਗ ਨਾਲ ਵੇਖਾਓ"
-
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:3
-msgid "Edge"
-msgstr "ਕੋਨਾ"
 
 #: ../effects/flip.effect.in.h:1
 msgid "Flip"
@@ -92,23 +92,23 @@ msgstr "ਪਲਟੋ"
 msgid "Flip the image, as if looking at a mirror"
 msgstr "ਚਿੱਤਰ ਨੂੰ ਪਲਟੋ, ਜਿਵੇਂ ਕਿ ਦਰਪਨ ਵਿੱਚ ਵੇਖਾਈ ਦਿੰਦਾ ਹੈ"
 
-#: ../effects/heat.effect.in.h:1
-msgid "Fake heat camera toning"
-msgstr "ਫਰਜ਼ੀ ਤਾਪਮਾਨ ਕੈਮਰਾ ਟੋਨਿੰਗ"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:3
+#: ../effects/heat.effect.in.h:2
 msgid "Heat"
 msgstr "ਗਰਮੀ"
 
-#: ../effects/historical.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "ਝਰੀਟਾਂ ਅਤੇ ਘੱਟੇ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵਿਡੀਓ ਇੰਪੁੱਟ ਲਈ ਪੁਰਾਣੇ ਹੋਣ ਪ੍ਰਭਾਵ ਦਿਓ"
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr "ਫਰਜ਼ੀ ਤਾਪਮਾਨ ਕੈਮਰਾ ਟੋਨਿੰਗ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:3
+#: ../effects/historical.effect.in.h:2
 msgid "Historical"
 msgstr "ਅਤੀਤ"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr "ਝਰੀਟਾਂ ਅਤੇ ਘੱਟੇ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵਿਡੀਓ ਇੰਪੁੱਟ ਲਈ ਪੁਰਾਣੇ ਹੋਣ ਪ੍ਰਭਾਵ ਦਿਓ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -119,23 +119,24 @@ msgstr "ਹੁਲਕ"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "ਆਪਣੇ ਆਪ ਨੂੰ ਖਤਰਨਾਕ ਹੁਲਕ ਵਿੱਚ ਬਦਲੋ"
 
-#: ../effects/invertion.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+#| msgid "Invertion"
+msgid "Inversion"
+msgstr "ਉਲਟ"
+
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਦੇ ਰੰਗ ਆਪਸ 'ਚ ਬਦਲੋ"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:3
-msgid "Invertion"
-msgstr "ਉਲਟ"
-
-#: ../effects/kaleidoscope.effect.in.h:1
-msgid "A triangle Kaleidoscope"
-msgstr "ਤਿਕੋਨੀ ਕਾਲੇਇਡੋਸਕੋਪ"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:3
+#: ../effects/kaleidoscope.effect.in.h:2
 msgid "Kaleidoscope"
 msgstr "ਤਿਕੋਨੀ"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "ਤਿਕੋਨੀ ਕਾਲੇਇਡੋਸਕੋਪ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
@@ -182,50 +183,50 @@ msgstr "ਪਿੰਚ"
 msgid "Pinches the center of the video"
 msgstr "ਵਿਡੀਓ ਦੇ ਸੈਂਟਰ 'ਚ ਇੱਕਠਾ ਕਰੋ"
 
-#: ../effects/quarktv.effect.in.h:1
-msgid "Dissolves moving objects in the video input"
-msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਵਿੱਚ ਹਿਲਦੇ ਆਬਜੈਕਟ ਰਲਾਉ"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:3
+#: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
 msgstr "ਕੁਆਰਕ"
 
-#: ../effects/radioactv.effect.in.h:1
-msgid "Detect radioactivity and show it"
-msgstr "ਰੇਡੀਓਐਕਟਿਵ ਸਰਗਰਮੀ ਖੋਜੋ ਅਤੇ ਇਹ ਵੇਖਾਓ"
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਵਿੱਚ ਹਿਲਦੇ ਆਬਜੈਕਟ ਰਲਾਉ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:3
+#: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
 msgstr "ਰੇਡੀਓਐਕਟਿਵ"
 
-#: ../effects/revtv.effect.in.h:1
-msgid "Transform video input into a waveform monitor"
-msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਨੂੰ ਤਰੰਗ-ਰੂਪ ਮਾਨੀਟਰ ਵਿੱਚ ਬਦਲੋ"
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "ਰੇਡੀਓਐਕਟਿਵ ਸਰਗਰਮੀ ਖੋਜੋ ਅਤੇ ਇਹ ਵੇਖਾਓ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:3
+#: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
 msgstr "ਵੇਵਫਾਰਮ"
 
-#: ../effects/ripple.effect.in.h:1
-msgid "Add the ripple mark effect on the video input"
-msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਉੱਤੇ ਰਿੰਪਲ ਨਿਸ਼ਾਨ ਪ੍ਰਭਾਵ ਜੋੜੋ"
+#: ../effects/revtv.effect.in.h:3
+msgid "Transform video input into a waveform monitor"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਨੂੰ ਤਰੰਗ-ਰੂਪ ਮਾਨੀਟਰ ਵਿੱਚ ਬਦਲੋ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:3
+#: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
 msgstr "ਰਿੱਪਲ"
 
-#: ../effects/saturation.effect.in.h:1
-msgid "Add more saturation to the video input"
-msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਵਿੱਚ ਕੁਝ ਹੋਰ ਸੰਤ੍ਰਿਪਤਾ ਸ਼ਾਮਲ ਕਰੋ"
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਉੱਤੇ ਰਿੰਪਲ ਨਿਸ਼ਾਨ ਪ੍ਰਭਾਵ ਜੋੜੋ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:3
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "ਸੰਤ੍ਰਿਪਤਾ"
+
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਵਿੱਚ ਕੁਝ ਹੋਰ ਸੰਤ੍ਰਿਪਤਾ ਸ਼ਾਮਲ ਕਰੋ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
@@ -236,32 +237,32 @@ msgstr "ਸਿਬੀਆ"
 msgid "Sepia toning"
 msgstr "ਸਿਬੀਆ ਟੋਨਿੰਗ"
 
-#: ../effects/shagadelictv.effect.in.h:1
-msgid "Add some hallucination to the video input"
-msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਲਈ ਹਿੱਲੁਨੇਸ਼ਨ ਲਾਗੂ ਕਰੋ"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:3
+#: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
 msgstr "ਸ਼ਾਗਾਡਿਲੀਕ"
 
-#: ../effects/sobel.effect.in.h:1
-msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਵਿੱਚੋਂ ਕੋਨੇ ਸੋਬੇਲ ਓਪਰੇਟਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵੱਖ ਕਰੋ"
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਲਈ ਹਿੱਲੁਨੇਸ਼ਨ ਲਾਗੂ ਕਰੋ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:3
+#: ../effects/sobel.effect.in.h:2
 msgid "Sobel"
 msgstr "ਸੋਬੇਲ"
 
-#: ../effects/square.effect.in.h:1
-msgid "Makes a square out of the center of the video"
-msgstr "ਵਿਡੀਓ ਦੇ ਸੈਂਟਰ 'ਚੋਂ ਚੌਰਸ ਡੱਬਾ (ਵਰਗ) ਬਣਾਓ"
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਵਿੱਚੋਂ ਕੋਨੇ ਸੋਬੇਲ ਓਪਰੇਟਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵੱਖ ਕਰੋ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:3
+#: ../effects/square.effect.in.h:2
 msgid "Square"
 msgstr "ਵਰਗ"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "ਵਿਡੀਓ ਦੇ ਸੈਂਟਰ 'ਚੋਂ ਚੌਰਸ ਡੱਬਾ (ਵਰਗ) ਬਣਾਓ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
@@ -281,14 +282,14 @@ msgstr "ਖਿੱਚੋ"
 msgid "Stretches the center of the video"
 msgstr "ਵਿਡੀਓ ਨੂੰ ਸੈਂਟਰ ਵਿੱਚੋਂ ਖਿੱਚੋ"
 
-#: ../effects/timedelay.effect.in.h:1
-msgid "Show what was happening in the past"
-msgstr "ਪਿੱਛੇ ਕੀ ਹੋਇਆ ਸੀ, ਉਹ ਵੇਖਾਓ"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:3
+#: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
 msgstr "ਸਮਾਂ ਦੇਰੀ"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "ਪਿੱਛੇ ਕੀ ਹੋਇਆ ਸੀ, ਉਹ ਵੇਖਾਓ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -299,32 +300,32 @@ msgstr "ਟਵਿਰਲ"
 msgid "Twirl the center of the video"
 msgstr "ਵਿਡੀਓ ਦੇ ਸੈਂਟਰ ਤੋਂ ਟਵਿਰਲ ਕਰੋ"
 
-#: ../effects/vertigotv.effect.in.h:1
-msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr "ਲੂਪਬੈਕ ਐਲਫ਼ਾ ਬਲੈਂਡ ਪ੍ਰਭਾਵ ਘੁੰਮਾਉਣ ਅਤੇ ਸਕੇਲ ਕਰਨ ਨਾਲ ਸ਼ਾਮਲ ਕਰੋ"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:3
+#: ../effects/vertigotv.effect.in.h:2
 msgid "Vertigo"
 msgstr "ਵਰਟੀਗੋ"
 
-#: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
-msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਨੂੰ ਮੌਕੇ ਉੱਤੇ ਗੂਮਿੰਗ ਵਿੱਚ ਬਦਲੋ"
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "ਲੂਪਬੈਕ ਐਲਫ਼ਾ ਬਲੈਂਡ ਪ੍ਰਭਾਵ ਘੁੰਮਾਉਣ ਅਤੇ ਸਕੇਲ ਕਰਨ ਨਾਲ ਸ਼ਾਮਲ ਕਰੋ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:3
+#: ../effects/warptv.effect.in.h:2
 msgid "Warp"
 msgstr "ਰੈਪ"
 
-#: ../effects/xray.effect.in.h:1
-msgid "Invert and slightly shade to blue"
-msgstr "ਉਲਟ ਕਰੇ ਅਤੇ ਥੋੜ੍ਹੇ ਨੀਲੇ ਸ਼ੇਡ ਵਿੱਚ ਬਦਲੋ"
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo'ing"
+msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਨੂੰ ਮੌਕੇ ਉੱਤੇ ਗੂਮਿੰਗ ਵਿੱਚ ਬਦਲੋ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:3
+#: ../effects/xray.effect.in.h:2
 msgid "X-Ray"
 msgstr "ਐਕਸ-ਰੇ"
+
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "ਉਲਟ ਕਰੇ ਅਤੇ ਥੋੜ੍ਹੇ ਨੀਲੇ ਸ਼ੇਡ ਵਿੱਚ ਬਦਲੋ"
 
 #~ msgid "No Effect"
 #~ msgstr "ਕੋਈ ਪਰਭਾਵ ਨਹੀਂ"
