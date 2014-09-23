@@ -1,16 +1,16 @@
 # Serbian translation of cheese
-# Courtesy of Prevod.org team (http://prevod.org/) -- 2008—2012.
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2008—2014.
 # This file is distributed under the same license as the cheese package.
 # Горан Ракић <grakic@devbase.net>, 2009.
 # Милош Поповић <gpopac@gmail.com>, 2010.
-# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2011, 2012.
+# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2011—2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-01-31 14:48+0000\n"
-"PO-Revision-Date: 2012-02-16 11:51+0200\n"
+"POT-Creation-Date: 2014-09-23 08:22+0000\n"
+"PO-Revision-Date: 2014-09-23 10:55+0200\n"
 "Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
 "Language-Team: Serbian <gnom@prevod.org>\n"
 "Language: sr\n"
@@ -28,7 +28,7 @@ msgstr "Испупчење"
 
 #: ../effects/bulge.effect.in.h:3
 msgid "Bulges the center of the video"
-msgstr "Издиже центар видеа"
+msgstr "Издиже средиште снимка"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
 #: ../effects/cartoon.effect.in.h:2
@@ -37,7 +37,7 @@ msgstr "Цртани филм"
 
 #: ../effects/cartoon.effect.in.h:3
 msgid "Cartoonify video input"
-msgstr "Претвара видео у цртаћ"
+msgstr "Претвара снимак у цртаћ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
 #: ../effects/cheguevara.effect.in.h:2
@@ -46,7 +46,7 @@ msgstr "Че Гевара"
 
 #: ../effects/cheguevara.effect.in.h:3
 msgid "Transform video input into typical Che Guevara style"
-msgstr "Претвара видео у типичан Че Гевара стил"
+msgstr "Претвара снимак у типичан Че Гевара стил"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
 #: ../effects/chrome.effect.in.h:2
@@ -55,7 +55,7 @@ msgstr "Хром"
 
 #: ../effects/chrome.effect.in.h:3
 msgid "Transform video input into a metallic look"
-msgstr "Претвара видео да изгледа метално"
+msgstr "Додаје металност снимку"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
@@ -64,51 +64,51 @@ msgstr "Коцкица"
 
 #: ../effects/dicetv.effect.in.h:3
 msgid "Dices the video input into many small squares"
-msgstr "Дели видео у много сићушних коцкица"
-
-#: ../effects/distortion.effect.in.h:1
-msgid "Distort the video input"
-msgstr "Изобличава почетни видео"
+msgstr "Дели снимак у много сићушних коцкица"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:3
+#: ../effects/distortion.effect.in.h:2
 msgid "Distortion"
 msgstr "Изобличење"
 
-#: ../effects/edgetv.effect.in.h:1
-msgid "Display video input like good old low resolution computer way"
-msgstr "Приказује видео у старој доброј ниској резолуцији рачунара"
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "Изобличава почетни снимак"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:3
+#: ../effects/edgetv.effect.in.h:2
 msgid "Edge"
 msgstr "Ивица"
 
+#: ../effects/edgetv.effect.in.h:3
+msgid "Display video input like good old low resolution computer way"
+msgstr "Приказује снимак у старој доброј ниској резолуцији рачунара"
+
 #: ../effects/flip.effect.in.h:1
 msgid "Flip"
-msgstr "Извтање"
+msgstr "Извртање"
 
 #: ../effects/flip.effect.in.h:2
 msgid "Flip the image, as if looking at a mirror"
 msgstr "Изврће слику, да изгледа као у огледалу"
 
-#: ../effects/heat.effect.in.h:1
-msgid "Fake heat camera toning"
-msgstr "Симулира тонирање топлоте камере"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:3
+#: ../effects/heat.effect.in.h:2
 msgid "Heat"
 msgstr "Топлота"
 
-#: ../effects/historical.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "Прави видео да изгледа старије помоћу шума и огреботина"
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr "Симулира тонирање топлоте камере"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:3
+#: ../effects/historical.effect.in.h:2
 msgid "Historical"
 msgstr "Историјски"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr "Даје снимку старост помоћу шума и огреботина"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -117,25 +117,26 @@ msgstr "Хулк"
 
 #: ../effects/hulk.effect.in.h:3
 msgid "Transform yourself into the amazing Hulk"
-msgstr "Прави невероватан Хулк ефекат од видеа"
+msgstr "Прави невероватан Хулк ефекат"
 
-#: ../effects/invertion.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+#| msgid "Invertion"
+msgid "Inversion"
+msgstr "Окретање"
+
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
-msgstr "Обрће боје почетног видеа"
-
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:3
-msgid "Invertion"
-msgstr "Обртање"
-
-#: ../effects/kaleidoscope.effect.in.h:1
-msgid "A triangle Kaleidoscope"
-msgstr "Троугласти Калеидоскоп"
+msgstr "Изокреће боје почетног снимка"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:3
+#: ../effects/kaleidoscope.effect.in.h:2
 msgid "Kaleidoscope"
 msgstr "Калеидоскоп"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "Троугласти Калеидоскоп"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
@@ -144,7 +145,7 @@ msgstr "Лаванда"
 
 #: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
-msgstr "Преводи видео у љубичасте тонове"
+msgstr "Преводи снимак у љубичасте тонове"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
 #: ../effects/mirror.effect.in.h:2
@@ -153,7 +154,7 @@ msgstr "Огледало"
 
 #: ../effects/mirror.effect.in.h:3
 msgid "Mirrors the video"
-msgstr "Изобличава почетни видео"
+msgstr "Ствара снимак у огледалу"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
 #: ../effects/noir.effect.in.h:2
@@ -162,7 +163,7 @@ msgstr "Црно-бело"
 
 #: ../effects/noir.effect.in.h:3
 msgid "Transform video input into grayscale"
-msgstr "Претвара почетни видео у сиве тонове"
+msgstr "Претвара почетни снимак у сиве тонове"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
 #: ../effects/optv.effect.in.h:2
@@ -180,52 +181,52 @@ msgstr "Штипање"
 
 #: ../effects/pinch.effect.in.h:3
 msgid "Pinches the center of the video"
-msgstr "Штипа центар видеа"
-
-#: ../effects/quarktv.effect.in.h:1
-msgid "Dissolves moving objects in the video input"
-msgstr "Размазује објекте у покрету у изабраном снимку"
+msgstr "Штипа средиште снимка"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:3
+#: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
 msgstr "Честице"
 
-#: ../effects/radioactv.effect.in.h:1
-msgid "Detect radioactivity and show it"
-msgstr "Налази радиоактивност и приказује је"
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr "Размазује објекте у покрету у изабраном снимку"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:3
+#: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
 msgstr "Радиоактивност"
 
-#: ../effects/revtv.effect.in.h:1
-msgid "Transform video input into a waveform monitor"
-msgstr "Додаје таласе на видео снимак"
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "Налази радиоактивност и приказује је"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:3
+#: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
-msgstr "Таласни облик"
+msgstr "Таласи"
 
-#: ../effects/ripple.effect.in.h:1
-msgid "Add the ripple mark effect on the video input"
-msgstr "Додаје ефекат изувијености на видео снимак"
+#: ../effects/revtv.effect.in.h:3
+msgid "Transform video input into a waveform monitor"
+msgstr "Додаје таласе на снимак"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:3
+#: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
 msgstr "Таласање"
 
-#: ../effects/saturation.effect.in.h:1
-msgid "Add more saturation to the video input"
-msgstr "Појачава боје на видео снимку"
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr "Додаје дејство изувијености на снимак"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:3
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "Засићење"
+
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr "Појачава боје на снимку"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
@@ -234,34 +235,34 @@ msgstr "Сепија"
 
 #: ../effects/sepia.effect.in.h:3
 msgid "Sepia toning"
-msgstr "Сепија тонирање"
-
-#: ../effects/shagadelictv.effect.in.h:1
-msgid "Add some hallucination to the video input"
-msgstr "Додаје ефекат халуцинације видео снимку"
+msgstr "Тонирање сепијом"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:3
+#: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
 msgstr "Перверзија"
 
-#: ../effects/sobel.effect.in.h:1
-msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "Проналази и чупа ивице у датом видеу помоћу Собела"
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr "Додаје дејство халуцинације снимку"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:3
+#: ../effects/sobel.effect.in.h:2
 msgid "Sobel"
 msgstr "Собел"
 
-#: ../effects/square.effect.in.h:1
-msgid "Makes a square out of the center of the video"
-msgstr "Прави квадрат од центра видеа"
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Проналази и чупа ивице у датом снимку помоћу Собела"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:3
+#: ../effects/square.effect.in.h:2
 msgid "Square"
 msgstr "Квадрат"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "Прави квадрат у средишту снимка"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
@@ -270,7 +271,7 @@ msgstr "Кунг-фу"
 
 #: ../effects/streaktv.effect.in.h:3
 msgid "Transform motions into Kung-Fu style"
-msgstr "Претвара покрете у Кунг-фу стил"
+msgstr "Претвара покрете у стил Кунг-фуа"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
 #: ../effects/stretch.effect.in.h:2
@@ -279,16 +280,16 @@ msgstr "Растезање"
 
 #: ../effects/stretch.effect.in.h:3
 msgid "Stretches the center of the video"
-msgstr "Растеже центар видеа"
-
-#: ../effects/timedelay.effect.in.h:1
-msgid "Show what was happening in the past"
-msgstr "Приказује шта се дешавало у прошлости"
+msgstr "Растеже средиште снимка"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:3
+#: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
 msgstr "Временско кашњење"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "Приказује шта се дешавало у прошлости"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -297,34 +298,34 @@ msgstr "Ковитлац"
 
 #: ../effects/twirl.effect.in.h:3
 msgid "Twirl the center of the video"
-msgstr "Брзо окреће центар видеа"
-
-#: ../effects/vertigotv.effect.in.h:1
-msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr "Додаје понављајући ефекат стапања са ротацијом и променом величине"
+msgstr "Брзо окреће средиште снимка"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:3
+#: ../effects/vertigotv.effect.in.h:2
 msgid "Vertigo"
 msgstr "Вртоглавица"
 
-#: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
-msgstr "Претвара одабрани видео у реално временско дешавање"
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "Додаје понављајуће дејство стапања са окретањем и променом величине"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:3
+#: ../effects/warptv.effect.in.h:2
 msgid "Warp"
 msgstr "Кривљење"
 
-#: ../effects/xray.effect.in.h:1
-msgid "Invert and slightly shade to blue"
-msgstr "Обрће и незнатно нијансира у плаво"
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo'ing"
+msgstr "Претвара одабрани снимак у стварно временско дешавање"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:3
+#: ../effects/xray.effect.in.h:2
 msgid "X-Ray"
 msgstr "Х зраци"
+
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "Обрће и незнатно нијансира у плаво"
 
 #~ msgid "No Effect"
 #~ msgstr "Без ефеката"
