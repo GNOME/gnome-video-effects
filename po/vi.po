@@ -1,22 +1,25 @@
-# Vietnamese translation for Cheese.
-# Copyright © 2009 GNOME i18n Project for Vietnamese.
+# Vietnamese translation for gnome-video-effects.
+# Copyright © 2014 GNOME i18n Project for Vietnamese.
+# This file is distributed under the same license as the gnome-video-effects package.
+# This translation is based on the cheese package.
 # Clytie Siddall <clytie@riverland.net.au>, 2008, 2009.
 # Nguyễn Thái Ngọc Duy <pclouds@gmail.com>, 2008, 2011.
+# Trần Ngọc Quân <vnwildman@gmail.com>, 2014.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cheese GNOME TRUNK\n"
+"Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&component=general\n"
-"POT-Creation-Date: 2011-01-30 18:11+0000\n"
-"PO-Revision-Date: 2011-03-27 20:58+0700\n"
-"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
-"Language-Team: Vietnamese <vi-VN@googlegroups.com>\n"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-12-09 21:11+0000\n"
+"PO-Revision-Date: 2014-12-11 14:49+0700\n"
+"Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
+"Language-Team: Vietnamese <gnome-vi-list@gnome.org>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: LocFactoryEditor 1.8\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -25,7 +28,7 @@ msgstr "Phình to"
 
 #: ../effects/bulge.effect.in.h:3
 msgid "Bulges the center of the video"
-msgstr "Phình to chính giữa"
+msgstr "Phình to chính giữa phim"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
 #: ../effects/cartoon.effect.in.h:2
@@ -48,11 +51,11 @@ msgstr "Thay đổi đầu vào theo kiểu Che Guevara điển hình"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
 #: ../effects/chrome.effect.in.h:2
 msgid "Chrome"
-msgstr "Chrome"
+msgstr "Ánh kim"
 
 #: ../effects/chrome.effect.in.h:3
 msgid "Transform video input into a metallic look"
-msgstr "Thay đổi đầu vào cho trống giống kim loại"
+msgstr "Thay đổi đầu vào làm cho nó có ánh kim"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
@@ -63,41 +66,49 @@ msgstr "Ô vuông"
 msgid "Dices the video input into many small squares"
 msgstr "Thay đổi đầu vào thành nhiều ô vuông nhỏ"
 
-#: ../effects/distortion.effect.in.h:1
-msgid "Distort the video input"
-msgstr "Làm méo mó đầu vào"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:3
+#: ../effects/distortion.effect.in.h:2
 msgid "Distortion"
 msgstr "Méo mó"
 
-#: ../effects/edgetv.effect.in.h:1
-msgid "Display video input like good old low resolution computer way"
-msgstr "Hiện đầu vào như máy tính độ phân giải thấp ngày xưa"
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "Làm méo mó đầu vào"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:3
+#: ../effects/edgetv.effect.in.h:2
 msgid "Edge"
 msgstr "Cạnh"
 
-#: ../effects/heat.effect.in.h:1
-msgid "Fake heat camera toning"
-msgstr "Giả máy quay nhiệt"
+#: ../effects/edgetv.effect.in.h:3
+msgid "Display video input like good old low resolution computer way"
+msgstr "Hiện đầu vào như máy tính độ phân giải thấp ngày xưa"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Lật"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Lật ảnh, làm cho nó giống như là nhìn qua gương"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:3
+#: ../effects/heat.effect.in.h:2
 msgid "Heat"
 msgstr "Nhiệt"
 
-#: ../effects/historical.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "Làm già đi với vết nhăn và bụi"
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr "Giả máy quay nhiệt"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:3
+#: ../effects/historical.effect.in.h:2
 msgid "Historical"
 msgstr "Lịch sử"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr "Làm già đi với vết nhăn và bụi"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -108,23 +119,23 @@ msgstr "To lớn"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Chuyển thành người khổng lồ xanh"
 
-#: ../effects/invertion.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
+msgstr "Đảo ngược"
+
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
-msgstr "Đảo màu"
-
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:3
-msgid "Invertion"
-msgstr "Đảo"
-
-#: ../effects/kaleidoscope.effect.in.h:1
-msgid "A triangle Kaleidoscope"
-msgstr "Kính vạn hoa tam giác"
+msgstr "Đảo ngược màu của phim đầu vào"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:3
+#: ../effects/kaleidoscope.effect.in.h:2
 msgid "Kaleidoscope"
 msgstr "Kính vạn hoa"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "Kính vạn hoa tam giác"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
@@ -133,7 +144,7 @@ msgstr "Tím"
 
 #: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
-msgstr "Chuyển sang màu tím"
+msgstr "Chuyển sang màu tím hoa cà"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
 #: ../effects/mirror.effect.in.h:2
@@ -171,86 +182,86 @@ msgstr "Véo"
 msgid "Pinches the center of the video"
 msgstr "Véo ngay chính giữa"
 
-#: ../effects/quarktv.effect.in.h:1
-msgid "Dissolves moving objects in the video input"
-msgstr "Phân giải đối tượng di chuyển"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:3
+#: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
-msgstr ""
+msgstr "Tan rã"
 
-#: ../effects/radioactv.effect.in.h:1
-msgid "Detect radioactivity and show it"
-msgstr "Phát hiện phóng xạ và hiện nó"
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr "Làm phân rã những đối tượng di chuyển"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:3
+#: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
 msgstr "Phóng xạ"
 
-#: ../effects/revtv.effect.in.h:1
-msgid "Transform video input into a waveform monitor"
-msgstr "Chuyển thành máy đo sóng"
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "Phát hiện phóng xạ và hiện nó"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:3
+#: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
 msgstr "Dạng sóng"
 
-#: ../effects/ripple.effect.in.h:1
-msgid "Add the ripple mark effect on the video input"
-msgstr "Thêm hiệu ứng lăn tăn"
+#: ../effects/revtv.effect.in.h:3
+msgid "Transform video input into a waveform monitor"
+msgstr "Chuyển thành máy đo sóng"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:3
+#: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
 msgstr "Lăn tăn"
 
-#: ../effects/saturation.effect.in.h:1
-msgid "Add more saturation to the video input"
-msgstr "Thêm bão hoà"
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr "Thêm hiệu ứng chạm tay vào mặt nước tạo sóng lăn tăn"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:3
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "Bão hòa"
+
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr "Thêm bão hoà vào đầu vào phim"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
 msgid "Sepia"
-msgstr ""
+msgstr "Ố vàng"
 
 #: ../effects/sepia.effect.in.h:3
 msgid "Sepia toning"
-msgstr ""
-
-#: ../effects/shagadelictv.effect.in.h:1
-msgid "Add some hallucination to the video input"
-msgstr "Thêm ảo giác"
+msgstr "Chuyển sang tông màu ố vàng"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:3
+#: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
 msgstr "Ma tuý"
 
-#: ../effects/sobel.effect.in.h:1
-msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "Lọc cạnh dùng toán tử Sobel"
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr "Thêm ảo giác"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:3
+#: ../effects/sobel.effect.in.h:2
 msgid "Sobel"
 msgstr "Sobel"
 
-#: ../effects/square.effect.in.h:1
-msgid "Makes a square out of the center of the video"
-msgstr "Làm một hình vuông ở tâm"
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Lọc cạnh dùng toán tử Sobel"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:3
+#: ../effects/square.effect.in.h:2
 msgid "Square"
 msgstr "Vuông"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "Làm một hình vuông ở tâm"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
@@ -259,25 +270,25 @@ msgstr "Công phu"
 
 #: ../effects/streaktv.effect.in.h:3
 msgid "Transform motions into Kung-Fu style"
-msgstr "Chuyển động dạng Công phu"
+msgstr "Chuyển động dạng công phu"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
 #: ../effects/stretch.effect.in.h:2
 msgid "Stretch"
-msgstr "Kéo"
+msgstr "Giãn giữa"
 
 #: ../effects/stretch.effect.in.h:3
 msgid "Stretches the center of the video"
-msgstr "Kéo ở giữa"
-
-#: ../effects/timedelay.effect.in.h:1
-msgid "Show what was happening in the past"
-msgstr "Hiện quá khứ"
+msgstr "Kéo giãn ở giữa phim"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:3
+#: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
-msgstr ""
+msgstr "Giật hình"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "Hiện cái gì đã diễn ra trong quá khứ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -288,32 +299,32 @@ msgstr "Vặn xoáy"
 msgid "Twirl the center of the video"
 msgstr "Vặn xoáy chính giữa"
 
-#: ../effects/vertigotv.effect.in.h:1
-msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr "Thêm kênh trộn alpha kèm quay và co dãn"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:3
+#: ../effects/vertigotv.effect.in.h:2
 msgid "Vertigo"
 msgstr "Chóng mặt"
 
-#: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
-msgstr ""
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "Thêm kênh trộn alpha kèm quay và co dãn"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:3
+#: ../effects/warptv.effect.in.h:2
 msgid "Warp"
 msgstr "Làm oằn"
 
-#: ../effects/xray.effect.in.h:1
-msgid "Invert and slightly shade to blue"
-msgstr "Đảo và làm bóng xanh mờ"
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo'ing"
+msgstr "Chuyển đầu vào phim thành kiểu giật như khi đang xem trực tuyến"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:3
+#: ../effects/xray.effect.in.h:2
 msgid "X-Ray"
 msgstr "Tia X"
+
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "Đảo và làm bóng xanh mờ"
 
 #~ msgid "No Effect"
 #~ msgstr "Không hiệu ứng"
