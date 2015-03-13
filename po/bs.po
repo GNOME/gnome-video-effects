@@ -1,0 +1,325 @@
+# Bosnian translation for bosnianuniversetranslation
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the bosnianuniversetranslation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bosnianuniversetranslation\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-02-26 21:30+0000\n"
+"PO-Revision-Date: 2015-02-05 00:37+0000\n"
+"Last-Translator: Samir Ribić <Unknown>\n"
+"Language-Team: Bosnian <bs@li.org>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-02-05 06:53+0000\n"
+"X-Generator: Launchpad (build 17331)\n"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulge"
+msgstr "Ispupčenje"
+
+#: ../effects/bulge.effect.in.h:3
+msgid "Bulges the center of the video"
+msgstr "Ispupčenja centra videa"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+#: ../effects/cartoon.effect.in.h:2
+msgid "Cartoon"
+msgstr "Crtić"
+
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "Crtaniziraj video ulaz"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
+#: ../effects/cheguevara.effect.in.h:2
+msgid "Che Guevara"
+msgstr "Che Guevara"
+
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "Pretvorite video ulaz u tipičan Che Guevara stil"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#: ../effects/chrome.effect.in.h:2
+msgid "Chrome"
+msgstr "Chrome"
+
+#: ../effects/chrome.effect.in.h:3
+msgid "Transform video input into a metallic look"
+msgstr "Pretvorite video ulaz u metalik izgled"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+#: ../effects/dicetv.effect.in.h:2
+msgid "Dice"
+msgstr "Kocka"
+
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr "Podijeli video ulaz na mnogo malih kvadrata"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+#: ../effects/distortion.effect.in.h:2
+msgid "Distortion"
+msgstr "Distorzija:"
+
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "Iskriviti video ulaz"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#: ../effects/edgetv.effect.in.h:2
+msgid "Edge"
+msgstr "Edge"
+
+#: ../effects/edgetv.effect.in.h:3
+msgid "Display video input like good old low resolution computer way"
+msgstr "Prikaži video ulaz na dobri stari računarski način smanjene rezolucije"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Preokreni"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Okreni sliku, kao da gledate u ogledalo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:2
+msgid "Heat"
+msgstr "Toplota"
+
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr "Toniranje lažne termalne kamere"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#: ../effects/historical.effect.in.h:2
+msgid "Historical"
+msgstr "Historijski"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr "Dodaj starorst na video ulaz koristeći  ogrebotine i prašinu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
+msgid "Hulk"
+msgstr "Hulk"
+
+#: ../effects/hulk.effect.in.h:3
+msgid "Transform yourself into the amazing Hulk"
+msgstr "Preobrazite sebe u zadivljujućeg Hulka"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
+msgstr "Inverzija"
+
+#: ../effects/inversion.effect.in.h:3
+msgid "Invert colors of the video input"
+msgstr "Invertovane boje"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:2
+msgid "Kaleidoscope"
+msgstr "Kaleidoskop"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "Trougao kaleidoskop"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#: ../effects/mauve.effect.in.h:2
+msgid "Mauve"
+msgstr "Svijetloljubičast"
+
+#: ../effects/mauve.effect.in.h:3
+msgid "Transform video input into a mauve color"
+msgstr "Preobrazi  video ulaz u svijetloljubičastu boju"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirror"
+msgstr "Ogledalo"
+
+#: ../effects/mirror.effect.in.h:3
+msgid "Mirrors the video"
+msgstr "Ogledala u videu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
+#: ../effects/noir.effect.in.h:2
+msgid "Noir/Blanc"
+msgstr "Crno/Belo"
+
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "Preobrazite video ulaz u sive tonove"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
+#: ../effects/optv.effect.in.h:2
+msgid "Optical Illusion"
+msgstr "Optička iluzija"
+
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "Tradicionalna crno-bijela optička animacija"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinch"
+msgstr "Uštipnuti"
+
+#: ../effects/pinch.effect.in.h:3
+msgid "Pinches the center of the video"
+msgstr "Pinches the center of the video"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+#: ../effects/quarktv.effect.in.h:2
+msgid "Quark"
+msgstr "Kvark"
+
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr "Rastvara pokretne objekte u video ulazu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+#: ../effects/radioactv.effect.in.h:2
+msgid "Radioactive"
+msgstr "Radioaktivno"
+
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "Detektiraj radioaktivnos i prikaži je"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+#: ../effects/revtv.effect.in.h:2
+msgid "Waveform"
+msgstr "Valni oblik"
+
+#: ../effects/revtv.effect.in.h:3
+msgid "Transform video input into a waveform monitor"
+msgstr "Transformiši video ulaz u valni oblik monitor"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+#: ../effects/ripple.effect.in.h:2
+msgid "Ripple"
+msgstr "Umnoži"
+
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr "Dodaj efekat valovitog znaka na video ulaz"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:2
+msgid "Saturation"
+msgstr "Saturacija"
+
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr "Dodaj vise satueacije na video ulaz"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia"
+msgstr "Sepia"
+
+#: ../effects/sepia.effect.in.h:3
+msgid "Sepia toning"
+msgstr "Sepia toniranje"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
+#: ../effects/shagadelictv.effect.in.h:2
+msgid "Shagadelic"
+msgstr "Shagadelic"
+
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr "Dodaj neke halucinacije na video ulaz"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
+#: ../effects/sobel.effect.in.h:2
+msgid "Sobel"
+msgstr "Sobel"
+
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Izvdvoji rubove u video ulazu kroz korištenje Sobel operatora"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:2
+msgid "Square"
+msgstr "Kvadratić"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "Napravi kvadratić na centru videa"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+#: ../effects/streaktv.effect.in.h:2
+msgid "Kung-Fu"
+msgstr "Kung-Fu"
+
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "Transformiši pokrete u Kung-Fu stil"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "Rastegni"
+
+#: ../effects/stretch.effect.in.h:3
+msgid "Stretches the center of the video"
+msgstr "Razvlači centar videa"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:2
+msgid "Time delay"
+msgstr "Vrijeme kašnjenja"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "Prikaži sta šije dešavalo u prošlosti"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl"
+msgstr "Brzo okretanje"
+
+#: ../effects/twirl.effect.in.h:3
+msgid "Twirl the center of the video"
+msgstr "Vrti centar videa"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+#: ../effects/vertigotv.effect.in.h:2
+msgid "Vertigo"
+msgstr "Vertigo"
+
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "Add a loopback alpha blending effector with rotating and scaling"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
+#: ../effects/warptv.effect.in.h:2
+msgid "Warp"
+msgstr "Uvijati"
+
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo'ing"
+msgstr "Transformiši video ulaz koji ide u realnom vremenu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:2
+msgid "X-Ray"
+msgstr "X-zraci"
+
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "Obrni i blago priguši na plavu"
