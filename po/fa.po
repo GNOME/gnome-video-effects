@@ -1,22 +1,23 @@
 # Persian translation for gnome-video-effects.
 # Copyright (C) 2011 gnome-video-effects's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-video-effects package.
-# Arash Mousavi <mousavi.arash@gmail.com>, 2011, 2012.
+# Arash Mousavi <mousavi.arash@gmail.com>, 2011, 2012, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-01-31 14:48+0000\n"
-"PO-Revision-Date: 2012-03-10 15:00+0330\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-"
+"effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-09-13 09:15+0000\n"
+"PO-Revision-Date: 2015-09-13 23:37+0430\n"
 "Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: Persian\n"
+"Language: fa_IR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Persian\n"
-"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.4\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -63,23 +64,23 @@ msgstr "مشبک"
 msgid "Dices the video input into many small squares"
 msgstr "ویدئو را با تعداد زیادی مربع مشبک می‌کند"
 
-#: ../effects/distortion.effect.in.h:1
-msgid "Distort the video input"
-msgstr "ورودی ویدئو را کج می کند"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:3
+#: ../effects/distortion.effect.in.h:2
 msgid "Distortion"
 msgstr "کج"
 
-#: ../effects/edgetv.effect.in.h:1
-msgid "Display video input like good old low resolution computer way"
-msgstr "ویدئو ورودی را مانند رایانه‌های قدیمی نشان می‌دهد"
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "ورودی ویدئو را کج می کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:3
+#: ../effects/edgetv.effect.in.h:2
 msgid "Edge"
 msgstr "لبه‌ها"
+
+#: ../effects/edgetv.effect.in.h:3
+msgid "Display video input like good old low resolution computer way"
+msgstr "ویدئو ورودی را مانند رایانه‌های قدیمی نشان می‌دهد"
 
 #: ../effects/flip.effect.in.h:1
 msgid "Flip"
@@ -89,23 +90,23 @@ msgstr "برگردان"
 msgid "Flip the image, as if looking at a mirror"
 msgstr "برگردان کردن عکس، مثل اینکه در آینه نگاه می‌کنید"
 
-#: ../effects/heat.effect.in.h:1
-msgid "Fake heat camera toning"
-msgstr "گرما جعلی"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:3
+#: ../effects/heat.effect.in.h:2
 msgid "Heat"
 msgstr "گرما"
 
-#: ../effects/historical.effect.in.h:1
-msgid "Add age to video input using scratches and dust"
-msgstr "سن عکس را از طریق اضافه کردن خش و گرد و خاک اضافه می‌کند"
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr "گرما جعلی"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:3
+#: ../effects/historical.effect.in.h:2
 msgid "Historical"
 msgstr "تاریخی"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr "سن عکس را از طریق اضافه کردن خش و گرد و خاک اضافه می‌کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -116,23 +117,23 @@ msgstr "هالک"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "خودتون رو به یک هالک جذاب تبدیل کنید"
 
-#: ../effects/invertion.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
+msgstr "معکوس"
+
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "معکوس کردن رنگهای ویدئو ورودی"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:3
-msgid "Invertion"
-msgstr "معکوس"
-
-#: ../effects/kaleidoscope.effect.in.h:1
-msgid "A triangle Kaleidoscope"
-msgstr "یک لوله شکل نما مثلثی"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:3
+#: ../effects/kaleidoscope.effect.in.h:2
 msgid "Kaleidoscope"
 msgstr "لوله شکل نما"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "یک لوله شکل نما مثلثی"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
@@ -179,50 +180,50 @@ msgstr "نیشگون"
 msgid "Pinches the center of the video"
 msgstr "از مرکز ویدئو را نیشگون می گیرد!"
 
-#: ../effects/quarktv.effect.in.h:1
-msgid "Dissolves moving objects in the video input"
-msgstr "شی‌ءهای در حال حرکت را محو می‌کند"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:3
+#: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
 msgstr "کوارک"
 
-#: ../effects/radioactv.effect.in.h:1
-msgid "Detect radioactivity and show it"
-msgstr "رآدیواکتیو را شناسایی و نمایش می‌دهد"
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr "شی‌ءهای در حال حرکت را محو می‌کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:3
+#: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
 msgstr "رادیواکتیو"
 
-#: ../effects/revtv.effect.in.h:1
-msgid "Transform video input into a waveform monitor"
-msgstr "ویدئو ورودی را به یک نمایشگر موج تبدیل می‌کند"
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "رآدیواکتیو را شناسایی و نمایش می‌دهد"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:3
+#: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
 msgstr "حالت موجی"
 
-#: ../effects/ripple.effect.in.h:1
-msgid "Add the ripple mark effect on the video input"
-msgstr "جلوه موج را به ویدئو اضافه می‌کند"
+#: ../effects/revtv.effect.in.h:3
+msgid "Transform video input into a waveform monitor"
+msgstr "ویدئو ورودی را به یک نمایشگر موج تبدیل می‌کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:3
+#: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
 msgstr "مواج"
 
-#: ../effects/saturation.effect.in.h:1
-msgid "Add more saturation to the video input"
-msgstr "رنگ ویدئو را بیشتر اشباع می‌کند"
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr "جلوه موج را به ویدئو اضافه می‌کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:3
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "اشباع رنگ"
+
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr "رنگ ویدئو را بیشتر اشباع می‌کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
@@ -233,32 +234,32 @@ msgstr "سپیا"
 msgid "Sepia toning"
 msgstr "حالت ویدئو را سپیا می‌کند"
 
-#: ../effects/shagadelictv.effect.in.h:1
-msgid "Add some hallucination to the video input"
-msgstr "مقداری توهم به ویدئو اضافه می‌کند"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:3
+#: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
 msgstr "توهم"
 
-#: ../effects/sobel.effect.in.h:1
-msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "گوشه‌های ویدئو ورودی را از طریق عملگر سوبل استخراح می‌کند"
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr "مقداری توهم به ویدئو اضافه می‌کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:3
+#: ../effects/sobel.effect.in.h:2
 msgid "Sobel"
 msgstr "سوبل"
 
-#: ../effects/square.effect.in.h:1
-msgid "Makes a square out of the center of the video"
-msgstr "یک مربع از وسط ویدئو درست می‌کند"
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "گوشه‌های ویدئو ورودی را از طریق عملگر سوبل استخراح می‌کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:3
+#: ../effects/square.effect.in.h:2
 msgid "Square"
 msgstr "مربع"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "یک مربع از وسط ویدئو درست می‌کند"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
@@ -278,14 +279,14 @@ msgstr "کشیدن"
 msgid "Stretches the center of the video"
 msgstr "وسط ویدئو را می‌کشد"
 
-#: ../effects/timedelay.effect.in.h:1
-msgid "Show what was happening in the past"
-msgstr "نشان می‌دهد چه چیزی در گذشته اتفاق افتاده"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:3
+#: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
 msgstr "تاخیر زمان"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "نشان می‌دهد چه چیزی در گذشته اتفاق افتاده"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -296,30 +297,29 @@ msgstr "پیچش"
 msgid "Twirl the center of the video"
 msgstr "مرکز ویدئو را می‌پیچاند"
 
-#: ../effects/vertigotv.effect.in.h:1
-msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr "یک حالت چرخشی با چرهاندن و تغییر اندازه ویدئو"
-
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:3
+#: ../effects/vertigotv.effect.in.h:2
 msgid "Vertigo"
 msgstr "ورتیگو"
 
-#: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
-msgstr "ویدئو را پیچ و تاب می‌دهد"
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr "یک حالت چرخشی با چرهاندن و تغییر اندازه ویدئو"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:3
+#: ../effects/warptv.effect.in.h:2
 msgid "Warp"
 msgstr "پیچ و تاب"
 
-#: ../effects/xray.effect.in.h:1
-msgid "Invert and slightly shade to blue"
-msgstr "جلوه‌ای شبیه به اشعه ایکس"
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo'ing"
+msgstr "ویدئو را پیچ و تاب می‌دهد"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:3
+#: ../effects/xray.effect.in.h:2
 msgid "X-Ray"
 msgstr "اشعه ایکس"
 
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "جلوه‌ای شبیه به اشعه ایکس"
