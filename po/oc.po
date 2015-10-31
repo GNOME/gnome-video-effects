@@ -1,111 +1,330 @@
-# Cheese Occitan Translation
-# Copyright (C) 2007 daniel g. siegel <dgsiegel@gnome.org>
-# This file is distributed under the same license as cheese
-#
-# Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>, 2007-2008.
+# Occitan translation of gnome-video-effects
+# Copyright (C) 2007-2012 Listed translators
+# This file is distributed under the same license as gnome-video-effects
+# Cédric Valmary <cvalmary@yahoo.fr>, 2015.
+# Cédric Valmary (Tot en òc) <cvalmary@yahoo.fr>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: cheese\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-04 00:31+0200\n"
-"PO-Revision-Date: 2008-07-27 11:23+0200\n"
-"Last-Translator: Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>\n"
-"Language-Team: Occitan <ubuntu-l10n-oci@lists.ubuntu.com>\n"
+"Project-Id-Version: gnome-video-effects master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-03-10 11:23+0000\n"
+"PO-Revision-Date: 2015-10-31 08:31+0200\n"
+"Last-Translator: Cédric Valmary (Tot en òc) <cvalmary@yahoo.fr>\n"
+"Language-Team: Tot en òc (totenoc.eu)\n"
+"Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: gnome\n"
 
-#: ../effects/agingtv.effect.in.h:1
-msgid "Historical"
-msgstr ""
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulge"
+msgstr "Bodenflitge"
 
-#: ../effects/cartoon.effect.in.h:1
+#: ../effects/bulge.effect.in.h:3
+msgid "Bulges the center of the video"
+msgstr "Cofla lo centre de la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+#: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
-msgstr ""
+msgstr "Benda dessenhada"
 
-#: ../effects/cheguevara.effect.in.h:1
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "Dona un efièch de tipe benda dessenhada a la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
+#: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
-msgstr ""
+msgstr "Che Guevara"
 
-#: ../effects/chrome.effect.in.h:1
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "Transfòrma la vidèo dins l'estil tipic Che Guevara"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#: ../effects/chrome.effect.in.h:2
 msgid "Chrome"
-msgstr ""
+msgstr "Chrome"
 
-#: ../effects/dicetv.effect.in.h:1
+#: ../effects/chrome.effect.in.h:3
+msgid "Transform video input into a metallic look"
+msgstr "Aplica a la vidèo un efièch metallic"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+#: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "Dats"
 
-#: ../effects/distortion.effect.in.h:1
-#, fuzzy
-msgid "Distortion"
-msgstr "Saturacion"
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr "Fracciona la vidèo en una multitud de pichons carrats (dats)"
 
-#: ../effects/edgetv.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+#: ../effects/distortion.effect.in.h:2
+msgid "Distortion"
+msgstr "Desformacion"
+
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "Desfòrma la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#: ../effects/edgetv.effect.in.h:2
 msgid "Edge"
 msgstr "Contorn"
 
-#: ../effects/hulk.effect.in.h:1
+#: ../effects/edgetv.effect.in.h:3
+msgid "Display video input like good old low resolution computer way"
+msgstr "Aficha la vidèo coma suls ancians ecrans de febla definicion"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "Tornar"
+
+#: ../effects/flip.effect.in.h:2
+msgid "Flip the image, as if looking at a mirror"
+msgstr "Tòrna l'imatge coma se èra agachada dins un miralh"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:2
+msgid "Heat"
+msgstr "Calor"
+
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr "Simula las colors d'una camèra termica"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#: ../effects/historical.effect.in.h:2
+msgid "Historical"
+msgstr "Istoric"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr "Envielhís la vidèo en i apondent de grafinhadas e de grans de posca"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/identity.effect.in.h:1
-msgid "No Effect"
-msgstr "Pas d'efièch"
+#: ../effects/hulk.effect.in.h:3
+msgid "Transform yourself into the amazing Hulk"
+msgstr "Transformatz-vos a l'imatge en l'estonant Hulk"
 
-#: ../effects/invertion.effect.in.h:1
-#, fuzzy
-msgid "Invertion"
-msgstr "Vertigo"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
+msgstr "Inversion"
 
-#: ../effects/mauve.effect.in.h:1
+#: ../effects/inversion.effect.in.h:3
+msgid "Invert colors of the video input"
+msgstr "Invèrsa las colors de la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:2
+msgid "Kaleidoscope"
+msgstr "Caleïdoscòpi"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "Un caleïdoscòpi triangular"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#: ../effects/mauve.effect.in.h:2
 msgid "Mauve"
 msgstr "Malva"
 
-#: ../effects/noir.effect.in.h:1
-msgid "Noir/Blanc"
-msgstr "Negre/Blanc"
+#: ../effects/mauve.effect.in.h:3
+msgid "Transform video input into a mauve color"
+msgstr "Coloreja la vidèo en malva"
 
-#: ../effects/optv.effect.in.h:1
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirror"
+msgstr "Miralh"
+
+#: ../effects/mirror.effect.in.h:3
+msgid "Mirrors the video"
+msgstr "Apond un miralh a la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
+#: ../effects/noir.effect.in.h:2
+msgid "Negre/Blanc"
+msgstr "Blanc/Negre"
+
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "Transfòrma la vidèo en nivèls de gris"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
+#: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
-msgstr ""
+msgstr "Illusion d'optica"
 
-#: ../effects/quarktv.effect.in.h:1
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "Animacion optica classica amb de bendas en blanc e negre"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinch"
+msgstr "Pinçament"
+
+#: ../effects/pinch.effect.in.h:3
+msgid "Pinches the center of the video"
+msgstr "Pinça lo centre de la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+#: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
-msgstr ""
+msgstr "Quark"
 
-#: ../effects/radioactv.effect.in.h:1
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr "Pixeliza los objèctes en movement dins la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+#: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
-msgstr ""
+msgstr "Radioactiu"
 
-#: ../effects/revtv.effect.in.h:1
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "Detècta e aficha un efièch de radioactivitat"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+#: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
-msgstr ""
+msgstr "Ondas"
 
-#: ../effects/ripple.effect.in.h:1
+#: ../effects/revtv.effect.in.h:3
+msgid "Transform video input into a waveform monitor"
+msgstr "Transfòrma la vidèo en oscilloscòpi"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+#: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
-msgstr ""
+msgstr "Ondulacions"
 
-#: ../effects/saturation.effect.in.h:1
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr "Apond un efièch de pluèja a la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "Saturacion"
 
-#: ../effects/shagadelictv.effect.in.h:1
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr "Aumenta la saturacion de las colors de la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia"
+msgstr "Sèpia"
+
+#: ../effects/sepia.effect.in.h:3
+msgid "Sepia toning"
+msgstr "Color sèpia"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
+#: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
 msgstr "Shagadelic"
 
-#: ../effects/sobel.effect.in.h:1
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr "Apond d'efièches psiquedelics a la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
+#: ../effects/sobel.effect.in.h:2
 msgid "Sobel"
-msgstr ""
+msgstr "Sobel"
 
-#: ../effects/streaktv.effect.in.h:1
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "Extrai los contorns de la vidèo amb l'algoritme Sobel"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:2
+msgid "Square"
+msgstr "Carrat"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "Met lo centre de la vidèo al carrat"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+#: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
-msgstr ""
+msgstr "Kung-fu"
 
-#: ../effects/vertigotv.effect.in.h:1
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "Transfòrma los movements en estil kung-fu"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "Estirament"
+
+#: ../effects/stretch.effect.in.h:3
+msgid "Stretches the center of the video"
+msgstr "Estira lo centre de la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:2
+msgid "Time delay"
+msgstr "Relambi temporal"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "Aficha çò que s'es produsit dins lo passat"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl"
+msgstr "Enrotlament"
+
+#: ../effects/twirl.effect.in.h:3
+msgid "Twirl the center of the video"
+msgstr "Enrotla lo centre de la vidèo"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+#: ../effects/vertigotv.effect.in.h:2
 msgid "Vertigo"
 msgstr "Vertigo"
 
-#: ../effects/warptv.effect.in.h:1
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+"Apond un efièch de fondut en transparéncia amb rotacion e mesa a l'escala"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
+#: ../effects/warptv.effect.in.h:2
 msgid "Warp"
 msgstr "Desformar"
+
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo'ing"
+msgstr "Desfòrma la vidèo amb l'ajuda d'un contra-zoom temps real"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:2
+msgid "X-Ray"
+msgstr "Rai X"
+
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "Met en negatiu leugièrament tenchat de blau"
+
+#~ msgid "No Effect"
+#~ msgstr "Pas d'efièch"
