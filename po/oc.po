@@ -3,15 +3,16 @@
 # This file is distributed under the same license as gnome-video-effects
 # Cédric Valmary <cvalmary@yahoo.fr>, 2015.
 # Cédric Valmary (Tot en òc) <cvalmary@yahoo.fr>, 2015.
+# Cédric Valmary (totenoc.eu) <cvalmary@yahoo.fr>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-03-10 11:23+0000\n"
-"PO-Revision-Date: 2015-10-31 08:31+0200\n"
-"Last-Translator: Cédric Valmary (Tot en òc) <cvalmary@yahoo.fr>\n"
-"Language-Team: Tot en òc (totenoc.eu)\n"
+"POT-Creation-Date: 2015-10-31 11:11+0000\n"
+"PO-Revision-Date: 2016-02-26 21:27+0200\n"
+"Last-Translator: Cédric Valmary (totenoc.eu) <cvalmary@yahoo.fr>\n"
+"Language-Team: Tot En Òc\n"
 "Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -156,7 +157,8 @@ msgstr "Apond un miralh a la vidèo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
 #: ../effects/noir.effect.in.h:2
-msgid "Negre/Blanc"
+#| msgid "Negre/Blanc"
+msgid "Noir/Blanc"
 msgstr "Blanc/Negre"
 
 #: ../effects/noir.effect.in.h:3
@@ -287,7 +289,7 @@ msgstr "Relambi temporal"
 
 #: ../effects/timedelay.effect.in.h:3
 msgid "Show what was happening in the past"
-msgstr "Aficha çò que s'es produsit dins lo passat"
+msgstr "Aficha çò que s'es produch dins lo passat"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
