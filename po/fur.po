@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-"
 "effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2016-03-20 23:17+0000\n"
-"PO-Revision-Date: 2016-03-21 08:45+0100\n"
+"POT-Creation-Date: 2016-04-07 22:42+0000\n"
+"PO-Revision-Date: 2016-04-08 10:24+0200\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <fur@li.org>\n"
 "Language: fur\n"
@@ -188,7 +188,7 @@ msgstr "Quark"
 
 #: ../effects/quarktv.effect.in.h:3
 msgid "Dissolves moving objects in the video input"
-msgstr "Sfante i obiets che a si movin tal video"
+msgstr "Sfante i ogjets che si movin tal video"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:2
