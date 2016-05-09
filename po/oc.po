@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2015-10-31 11:11+0000\n"
-"PO-Revision-Date: 2016-02-26 21:27+0200\n"
+"POT-Creation-Date: 2016-04-29 10:45+0000\n"
+"PO-Revision-Date: 2016-05-08 18:26+0200\n"
 "Last-Translator: Cédric Valmary (totenoc.eu) <cvalmary@yahoo.fr>\n"
 "Language-Team: Tot En Òc\n"
 "Language: oc\n"
@@ -37,7 +37,7 @@ msgstr "Benda dessenhada"
 
 #: ../effects/cartoon.effect.in.h:3
 msgid "Cartoonify video input"
-msgstr "Dona un efièch de tipe benda dessenhada a la vidèo"
+msgstr "Dona un efèit de tipe benda dessenhada a la vidèo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
 #: ../effects/cheguevara.effect.in.h:2
@@ -55,7 +55,7 @@ msgstr "Chrome"
 
 #: ../effects/chrome.effect.in.h:3
 msgid "Transform video input into a metallic look"
-msgstr "Aplica a la vidèo un efièch metallic"
+msgstr "Aplica a la vidèo un efèit metallic"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
@@ -157,7 +157,6 @@ msgstr "Apond un miralh a la vidèo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
 #: ../effects/noir.effect.in.h:2
-#| msgid "Negre/Blanc"
 msgid "Noir/Blanc"
 msgstr "Blanc/Negre"
 
@@ -199,7 +198,7 @@ msgstr "Radioactiu"
 
 #: ../effects/radioactv.effect.in.h:3
 msgid "Detect radioactivity and show it"
-msgstr "Detècta e aficha un efièch de radioactivitat"
+msgstr "Detècta e aficha un efèit de radioactivitat"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
 #: ../effects/revtv.effect.in.h:2
@@ -217,7 +216,7 @@ msgstr "Ondulacions"
 
 #: ../effects/ripple.effect.in.h:3
 msgid "Add the ripple mark effect on the video input"
-msgstr "Apond un efièch de pluèja a la vidèo"
+msgstr "Apond un efèit de pluèja a la vidèo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
 #: ../effects/saturation.effect.in.h:2
@@ -244,7 +243,7 @@ msgstr "Shagadelic"
 
 #: ../effects/shagadelictv.effect.in.h:3
 msgid "Add some hallucination to the video input"
-msgstr "Apond d'efièches psiquedelics a la vidèo"
+msgstr "Apond d'efèits psiquedelics a la vidèo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
 #: ../effects/sobel.effect.in.h:2
@@ -289,7 +288,7 @@ msgstr "Relambi temporal"
 
 #: ../effects/timedelay.effect.in.h:3
 msgid "Show what was happening in the past"
-msgstr "Aficha çò que s'es produch dins lo passat"
+msgstr "Aficha çò que s'es produit dins lo passat"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -308,7 +307,7 @@ msgstr "Vertigo"
 #: ../effects/vertigotv.effect.in.h:3
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr ""
-"Apond un efièch de fondut en transparéncia amb rotacion e mesa a l'escala"
+"Apond un efèit de fondut en transparéncia amb rotacion e mesa a l'escala"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:2
@@ -329,4 +328,4 @@ msgid "Invert and slightly shade to blue"
 msgstr "Met en negatiu leugièrament tenchat de blau"
 
 #~ msgid "No Effect"
-#~ msgstr "Pas d'efièch"
+#~ msgstr "Pas d'efèit"
