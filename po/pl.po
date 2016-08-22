@@ -1,29 +1,25 @@
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-# Aviary.pl
-# Jeśli masz jakiekolwiek uwagi odnoszące się do tłumaczenia lub chcesz
-# pomóc w jego rozwijaniu i pielęgnowaniu, napisz do nas:
-# gnomepl@aviary.pl
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# Polish translation for gnome-video-effects.
+# Copyright © 2007-2016 the gnome-video-effects authors.
+# This file is distributed under the same license as the gnome-video-effects package.
 # Tomasz Dominikowski <dominikowski@gmail.com>, 2007-2009.
 # Piotr Zaryk <pzaryk@aviary.pl>, 2008.
-# Piotr Drąg <piotrdrag@gmail.com>, 2009-2014.
-# Aviary.pl <gnomepl@aviary.pl>, 2008-2014.
+# Piotr Drąg <piotrdrag@gmail.com>, 2009-2016.
+# Aviary.pl <community-poland@mozilla.org>, 2008-2016.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-17 20:12+0200\n"
-"PO-Revision-Date: 2014-05-17 20:13+0200\n"
+"POT-Creation-Date: 2016-08-22 19:22+0200\n"
+"PO-Revision-Date: 2016-08-22 19:23+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish <gnomepl@aviary.pl>\n"
+"Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Poedit-Language: Polish\n"
-"X-Poedit-Country: Poland\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -41,7 +37,7 @@ msgstr "Kreskówka"
 
 #: ../effects/cartoon.effect.in.h:3
 msgid "Cartoonify video input"
-msgstr "Zmienia wejście wideo w kreskówkę"
+msgstr "Zmienia wejście wideo w kreskówkę"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
 #: ../effects/cheguevara.effect.in.h:2
@@ -50,7 +46,7 @@ msgstr "Che Guevara"
 
 #: ../effects/cheguevara.effect.in.h:3
 msgid "Transform video input into typical Che Guevara style"
-msgstr "Przekształca wejście wideo w typowy styl przedstawiania Che Guevary"
+msgstr "Przekształca wejście wideo w typowy styl przedstawiania Che Guevary"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
 #: ../effects/chrome.effect.in.h:2
@@ -87,7 +83,7 @@ msgstr "Krawędź"
 #: ../effects/edgetv.effect.in.h:3
 msgid "Display video input like good old low resolution computer way"
 msgstr ""
-"Wyświetla wejście wideo podobnie do starych komputerów o niskiej "
+"Wyświetla wejście wideo podobnie do starych komputerów o niskiej "
 "rozdzielczości"
 
 #: ../effects/flip.effect.in.h:1
@@ -96,7 +92,7 @@ msgstr "Obrót"
 
 #: ../effects/flip.effect.in.h:2
 msgid "Flip the image, as if looking at a mirror"
-msgstr "Obraca obraz jak w lustrze"
+msgstr "Obraca obraz jak w lustrze"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
 #: ../effects/heat.effect.in.h:2
@@ -114,7 +110,7 @@ msgstr "Historyczne"
 
 #: ../effects/historical.effect.in.h:3
 msgid "Add age to video input using scratches and dust"
-msgstr "Dodaje wrażenie wiekowości do wejścia wideo za pomocą rys i kurzu"
+msgstr "Dodaje wrażenie wiekowości do wejścia wideo za pomocą rys i kurzu"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -123,7 +119,7 @@ msgstr "Hulk"
 
 #: ../effects/hulk.effect.in.h:3
 msgid "Transform yourself into the amazing Hulk"
-msgstr "Przekształca osoby na wejściu wideo w niesamowitego Hulka"
+msgstr "Przekształca osoby na wejściu wideo w niesamowitego Hulka"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
 #: ../effects/inversion.effect.in.h:2
@@ -150,7 +146,7 @@ msgstr "Fiołkowy"
 
 #: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
-msgstr "Przekształca wejście wideo w kolor fiołkowy"
+msgstr "Przekształca wejście wideo w kolor fiołkowy"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
 #: ../effects/mirror.effect.in.h:2
@@ -159,7 +155,7 @@ msgstr "Lustro"
 
 #: ../effects/mirror.effect.in.h:3
 msgid "Mirrors the video"
-msgstr "Odbija nagranie wideo w lustrze"
+msgstr "Odbija nagranie wideo w lustrze"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
 #: ../effects/noir.effect.in.h:2
@@ -168,7 +164,7 @@ msgstr "Mroczny/siwy"
 
 #: ../effects/noir.effect.in.h:3
 msgid "Transform video input into grayscale"
-msgstr "Przekształca wejście wideo w skalę szarości"
+msgstr "Przekształca wejście wideo w skalę szarości"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
 #: ../effects/optv.effect.in.h:2
@@ -195,7 +191,7 @@ msgstr "Kwarki"
 
 #: ../effects/quarktv.effect.in.h:3
 msgid "Dissolves moving objects in the video input"
-msgstr "Rozpuszcza poruszające się obiekty w wejściu wideo"
+msgstr "Rozpuszcza poruszające się obiekty w wejściu wideo"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:2
@@ -204,7 +200,7 @@ msgstr "Radioaktywność"
 
 #: ../effects/radioactv.effect.in.h:3
 msgid "Detect radioactivity and show it"
-msgstr "Wykrywa radioaktywność i ją wyświetla"
+msgstr "Wykrywa radioaktywność i ją wyświetla"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
 #: ../effects/revtv.effect.in.h:2
@@ -258,7 +254,7 @@ msgstr "Sobel"
 
 #: ../effects/sobel.effect.in.h:3
 msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "Wydobywa krawędzie w wejściu wideo przez użycie operatora Sobela"
+msgstr "Wydobywa krawędzie w wejściu wideo przez użycie operatora Sobela"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
 #: ../effects/square.effect.in.h:2
@@ -276,7 +272,7 @@ msgstr "Kung-fu"
 
 #: ../effects/streaktv.effect.in.h:3
 msgid "Transform motions into Kung-Fu style"
-msgstr "Przekształca obraz w stylu kung-fu"
+msgstr "Przekształca obraz w stylu kung-fu"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
 #: ../effects/stretch.effect.in.h:2
@@ -294,7 +290,7 @@ msgstr "Opóźnienie"
 
 #: ../effects/timedelay.effect.in.h:3
 msgid "Show what was happening in the past"
-msgstr "Wyświetla to, co nastąpiło w przeszłości"
+msgstr "Wyświetla to, co nastąpiło w przeszłości"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -312,7 +308,7 @@ msgstr "Zawrót głowy"
 
 #: ../effects/vertigotv.effect.in.h:3
 msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr "Dodaje efekt mieszania alfa z obracaniem i skalowaniem"
+msgstr "Dodaje efekt mieszania alfa z obracaniem i skalowaniem"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:2
@@ -321,7 +317,7 @@ msgstr "Deformacja"
 
 #: ../effects/warptv.effect.in.h:3
 msgid "Transform video input into realtime goo'ing"
-msgstr "Przekształca wejście wideo w szaleństwo w czasie rzeczywistym"
+msgstr "Przekształca wejście wideo w szaleństwo w czasie rzeczywistym"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
 #: ../effects/xray.effect.in.h:2
@@ -330,4 +326,4 @@ msgstr "Rentgen"
 
 #: ../effects/xray.effect.in.h:3
 msgid "Invert and slightly shade to blue"
-msgstr "Odwraca kolory i delikatnie cieniuje na niebiesko"
+msgstr "Odwraca kolory i delikatnie cieniuje na niebiesko"
