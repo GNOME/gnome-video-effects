@@ -315,7 +315,7 @@ msgid "Warp"
 msgstr "Кривљење"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Претвара одабрани снимак у стварно временско дешавање"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

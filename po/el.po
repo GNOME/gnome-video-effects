@@ -320,7 +320,7 @@ msgid "Warp"
 msgstr "Στρέβλωση"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Μετασχηματίζει το βίντεο εισόδου σε ταλάντωση πραγματικού χρόνου"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

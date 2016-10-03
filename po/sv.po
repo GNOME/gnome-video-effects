@@ -313,7 +313,7 @@ msgid "Warp"
 msgstr "Gegga"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Transformera videoinmatningen till gegga i realtid"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

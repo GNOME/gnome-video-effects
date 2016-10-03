@@ -301,7 +301,7 @@ msgid "Vertigo"
 msgstr "ដំណើរ​ទ្រេតទ្រោត"
 
 #: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "បម្លែង​ទិន្នន័យ​វីដេអូ​ទៅជាពេលវេលា​ពិត"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv

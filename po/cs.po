@@ -319,7 +319,7 @@ msgid "Warp"
 msgstr "Deformace"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Upraví obrazový vstup jako kdybyste s ním skutečně zamíchali"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

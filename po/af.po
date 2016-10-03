@@ -301,7 +301,7 @@ msgstr "Duisligheid"
 
 #: ../effects/warptv.effect.in.h:1
 #, fuzzy
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Digitale manipulering van videobeeld"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv

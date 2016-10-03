@@ -315,7 +315,7 @@ msgid "Warp"
 msgstr "Okertu"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Bideoaren sarrera bihurtu denbora errealeko zoomaren aurkako eraginean"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

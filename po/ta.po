@@ -316,7 +316,7 @@ msgid "Vertigo"
 msgstr "வெர்ட்டிகோ"
 
 #: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "விடியோவின் உள்ளீட்டை நிகழ்நேர கூயிங் ஆக்குகிறது"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv

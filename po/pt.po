@@ -315,7 +315,7 @@ msgid "Warp"
 msgstr "Derreter"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Derrete o vídeo em tempo-real"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

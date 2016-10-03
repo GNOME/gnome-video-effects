@@ -319,9 +319,9 @@ msgid "Warp"
 msgstr "Distorsión"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr ""
-"Transformar la entrada de vídeo con una distorsión «goo'ing» en tiempo real"
+"Transformar la entrada de vídeo con una distorsión «goo’ing» en tiempo real"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
 #: ../effects/xray.effect.in.h:2

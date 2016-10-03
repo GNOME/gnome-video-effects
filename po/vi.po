@@ -314,7 +314,7 @@ msgid "Warp"
 msgstr "Làm oằn"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Chuyển đầu vào phim thành kiểu giật như khi đang xem trực tuyến"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

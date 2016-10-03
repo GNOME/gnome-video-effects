@@ -315,7 +315,7 @@ msgid "Warp"
 msgstr "Eğri Büğrü"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Video girdisini, gerçek zamanlı çekiştirmeye dönüştür"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

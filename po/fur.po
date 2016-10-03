@@ -313,7 +313,7 @@ msgid "Warp"
 msgstr "Warp"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Trasforme il video dant un efiet tacatiç"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

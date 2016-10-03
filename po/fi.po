@@ -322,7 +322,7 @@ msgid "Warp"
 msgstr "poimu"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Muuttaa videosyötteen reaaliaikaiseksi poimuhypyksi"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

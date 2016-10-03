@@ -2,5 +2,5 @@
 Encoding=UTF-8
 # Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 _Name=Warp
-_Comment=Transform video input into realtime goo'ing
+_Comment=Transform video input into realtime goo’ing
 PipelineDescription=warptv

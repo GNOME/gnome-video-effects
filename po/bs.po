@@ -312,7 +312,7 @@ msgid "Warp"
 msgstr "Uvijati"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Transformiši video ulaz koji ide u realnom vremenu"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

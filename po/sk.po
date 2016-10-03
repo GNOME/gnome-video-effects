@@ -315,7 +315,7 @@ msgid "Warp"
 msgstr "Zvlnenie"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Zmení video vstup na prelievajúcu sa gebuzinu"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

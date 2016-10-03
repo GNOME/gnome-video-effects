@@ -320,7 +320,7 @@ msgid "Warp"
 msgstr "Görbítés"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Videobemenet átalakítása valós idejű görbítéssel"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

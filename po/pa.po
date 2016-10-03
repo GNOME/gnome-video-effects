@@ -315,7 +315,7 @@ msgid "Warp"
 msgstr "ਰੈਪ"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "ਵਿਡੀਓ ਇੰਪੁੱਟ ਨੂੰ ਮੌਕੇ ਉੱਤੇ ਗੂਮਿੰਗ ਵਿੱਚ ਬਦਲੋ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

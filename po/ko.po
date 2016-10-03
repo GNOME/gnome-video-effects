@@ -319,7 +319,7 @@ msgid "Warp"
 msgstr "일그러짐"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "실시간으로 끈적끈적하게 만듭니다"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

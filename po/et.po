@@ -252,7 +252,7 @@ msgstr "Eelmiste kaadritega sulandamise efekt pööramise ja suurendamisega"
 msgid "Warp"
 msgstr "Kõverpeegel"
 
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Video väänamine muutuva kõverpeegliga"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

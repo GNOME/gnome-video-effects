@@ -316,7 +316,7 @@ msgid "Warp"
 msgstr "Distorsione"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Trasforma il video dando un effetto appiccicoso"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
