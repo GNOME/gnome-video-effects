@@ -1,6 +1,9 @@
 ChangeLog for GNOME Video Effects
 ---------------------------------
 
+version 0.4.3
+  - Include effects in distribution tarball
+
 version 0.4.2
   - Correct spelling of inversion effect
     Fixes bug 707650
