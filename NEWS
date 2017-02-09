@@ -1,5 +1,56 @@
 ChangeLog for GNOME Video Effects
---------------------
+---------------------------------
+
+version 0.4.2
+  - Correct spelling of inversion effect
+    Fixes bug 707650
+  - Use only POSIX sh syntax in create_effect_previews.sh
+  - Added/Updated Translations
+    - as, courtesy of ngoswami
+    - bg, courtesy of Alexander Shopov
+    - bs, courtesy of Samir Ribic
+    - ca, courtesy of Gil Forcada
+    - ca@valencia, courtesy of Carles Ferrando
+    - cs, courtesy of Marek Černocký
+    - da, courtesy of Kenneth Nielsen
+    - de, courtesy of Wolfgang Stöggl
+    - el, courtesy of MarMav
+    - en_GB, courtesy of David King
+    - es, courtesy of Daniel Mustieles
+    - et, courtesy of Mattias Põldaru
+    - eu, courtesy of Iñaki Larrañaga Murgoitio
+    - fa, courtesy of Arash Mousavi
+    - fi, courtesy of Ville-Pekka Vainio
+    - fur, courtesy of Fabio Tomat
+    - fr, courtesy of Alexandre Franke
+    - gl, courtesy of Fran Diéguez
+    - hr, courtesy of gogo
+    - hu, courtesy of Balázs Úr
+    - id, courtesy of Andika Triwidada
+    - it, courtesy of Claudio Arseni
+    - lv, courtesy of Rūdolfs Mazurs
+    - ja, courtesy of Hajime Taira
+    - ko, courtesy of Changwoo Ryu
+    - lt, courtesy of Aurimas Černius
+    - nb, courtesy of Kjartan Maraas
+    - nl, courtesy of Justin van Steijn
+    - oc, courtesy of Cédric Valmary
+    - pa, courtesy of A S Alam
+    - pl, courtesy of Piotr Drąg
+    - pt, courtesy of Pedro Albuquerque
+    - pt_BR, courtesy of Enrico Nicoletto
+    - ro, courtesy of Daniel Șerbănescu
+    - ru, courtesy of Yuri Myasoedov
+    - sk, courtesy of Dušan Kazik
+    - sl, courtesy of Matej Urbančič
+    - sr, courtesy of Мирослав Николић
+    - sr@latin, courtesy of Miroslav Nikolić
+    - sv, courtesy of Anders Jonsson
+    - tr, courtesy of Muhammet Kara
+    - vi, courtesy of Trần Ngọc Quân
+    - zh_CN, courtesy of Tong Hui
+    - zh_HK, courtesy of Chao-Hsiung Liao
+    - zh_TW, courtesy of Chao-Hsiung Liao
 
 version 0.4.1
   - Remove INSTALL from git
