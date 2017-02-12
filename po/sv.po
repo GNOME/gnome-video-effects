@@ -7,10 +7,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-"
-"effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2015-02-02 09:24+0000\n"
-"PO-Revision-Date: 2015-02-02 19:45+0100\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"video-effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-10-03 17:53+0000\n"
+"PO-Revision-Date: 2017-02-12 12:09+0100\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.7.3\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -63,7 +63,7 @@ msgstr "Kvadrater"
 
 #: ../effects/dicetv.effect.in.h:3
 msgid "Dices the video input into many small squares"
-msgstr "Dela upp videoinmatningen i många små kvadrater."
+msgstr "Dela upp videoinmatningen i många små kvadrater"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
 #: ../effects/distortion.effect.in.h:2
@@ -81,7 +81,7 @@ msgstr "Kantig"
 
 #: ../effects/edgetv.effect.in.h:3
 msgid "Display video input like good old low resolution computer way"
-msgstr "Visa videoinmatningen som klassisk lågupplöst film på datorns sätt "
+msgstr "Visa videoinmatningen som klassisk lågupplöst film på datorns sätt"
 
 #: ../effects/flip.effect.in.h:1
 msgid "Flip"
@@ -143,7 +143,7 @@ msgstr "Lila"
 
 #: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
-msgstr "Transformera videoinmatningen till att gå i lila."
+msgstr "Transformera videoinmatningen till att gå i lila"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
 #: ../effects/mirror.effect.in.h:2
