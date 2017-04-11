@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-03-26 13:50+0000\n"
-"PO-Revision-Date: 2017-04-11 12:44+0200\n"
+"PO-Revision-Date: 2017-04-11 12:56+0200\n"
 "Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "Language: hr\n"
@@ -99,7 +99,7 @@ msgstr "Toplina"
 
 #: ../effects/heat.effect.in.h:3
 msgid "Fake heat camera toning"
-msgstr "Lažna toplinska kamera"
+msgstr "Efekt toplinske kamere"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
 #: ../effects/historical.effect.in.h:2
@@ -122,11 +122,11 @@ msgstr "Transformirajte se u izvanrednog Hulka"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
 #: ../effects/inversion.effect.in.h:2
 msgid "Inversion"
-msgstr "Preokreni"
+msgstr "Obrni"
 
 #: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
-msgstr "Preokreni boje video ulaza"
+msgstr "Obrni boje video ulaza"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
 #: ../effects/kaleidoscope.effect.in.h:2
@@ -176,20 +176,20 @@ msgstr "Tradicionalna crno-bijela optička animacija"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
 #: ../effects/pinch.effect.in.h:2
 msgid "Pinch"
-msgstr "Uhvati"
+msgstr "Uštipni"
 
 #: ../effects/pinch.effect.in.h:3
 msgid "Pinches the center of the video"
-msgstr "Uhvati središte video snimke"
+msgstr "Uštipni središte video snimke"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
 #: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
-msgstr "Rastopi"
+msgstr "Kvark"
 
 #: ../effects/quarktv.effect.in.h:3
 msgid "Dissolves moving objects in the video input"
-msgstr "Rastapa pokretne objekte u video ulazu"
+msgstr "Rastavlja pokretne objekte u video ulazu"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:2
@@ -203,7 +203,7 @@ msgstr "Otkriva radioaktivnost i prikazuje ju"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
 #: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
-msgstr "Valovi"
+msgstr "Val"
 
 #: ../effects/revtv.effect.in.h:3
 msgid "Transform video input into a waveform monitor"
@@ -212,11 +212,11 @@ msgstr "Transformira video ulaz u valove"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
 #: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
-msgstr "Žuborenje"
+msgstr "Mreškanje"
 
 #: ../effects/ripple.effect.in.h:3
 msgid "Add the ripple mark effect on the video input"
-msgstr "Dodaj efekt žuborenja u video ulaz"
+msgstr "Dodaj efekt mreškanja u video ulaz"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
 #: ../effects/saturation.effect.in.h:2
@@ -288,7 +288,7 @@ msgstr "Odgodi"
 
 #: ../effects/timedelay.effect.in.h:3
 msgid "Show what was happening in the past"
-msgstr "Prikazi što se dogodilo u prošlosti"
+msgstr "Prikaži što se dogodilo u prošlosti"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
@@ -315,7 +315,7 @@ msgstr "Iskrivi"
 
 #: ../effects/warptv.effect.in.h:3
 msgid "Transform video input into realtime goo’ing"
-msgstr "Transformiraj video ulaz u kretanje stvarnog vremena"
+msgstr "Transformiraj video ulaz u kretanju stvarnog vremena"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
 #: ../effects/xray.effect.in.h:2
