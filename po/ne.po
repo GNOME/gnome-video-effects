@@ -1,0 +1,333 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gnome Nepali Translation Project\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-"
+"effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-06-11 17:55+0000\n"
+"PO-Revision-Date: 2017-08-18 11:26+0545\n"
+"Language-Team: Nepali Translation Team <chautari@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Last-Translator: Pawan Chitrakar <chautari@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ne\n"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#: ../effects/bulge.effect.in.h:2
+msgid "Bulge"
+msgstr "फुलेको"
+
+#: ../effects/bulge.effect.in.h:3
+msgid "Bulges the center of the video"
+msgstr "भिडियोको केन्द्र बल्झेको"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+#: ../effects/cartoon.effect.in.h:2
+msgid "Cartoon"
+msgstr "कार्टुन"
+
+#: ../effects/cartoon.effect.in.h:3
+msgid "Cartoonify video input"
+msgstr "भिडियो आगत हास्यचित्र बनाउनुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
+#: ../effects/cheguevara.effect.in.h:2
+msgid "Che Guevara"
+msgstr "चेए गुभेरा"
+
+#: ../effects/cheguevara.effect.in.h:3
+msgid "Transform video input into typical Che Guevara style"
+msgstr "भिडियो आगत चेए गुभेरा शैलीमा रूपान्तरण गर्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#: ../effects/chrome.effect.in.h:2
+msgid "Chrome"
+msgstr "क्रोम"
+
+#: ../effects/chrome.effect.in.h:3
+msgid "Transform video input into a metallic look"
+msgstr "भिडियो आगत धातु शैलीमा रूपान्तरण गर्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+#: ../effects/dicetv.effect.in.h:2
+#, fuzzy
+msgid "Dice"
+msgstr ""
+"कम्प्युटरको पासा घुमाइको बीचमा विलम्ब घुसाउने वा नघुसाउने रोज्नुहोस् जसबाट खेलाडीले यसको कार्य "
+"पछ्याउन सक्छ ।"
+
+#: ../effects/dicetv.effect.in.h:3
+msgid "Dices the video input into many small squares"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+#: ../effects/distortion.effect.in.h:2
+msgid "Distortion"
+msgstr "विकृति"
+
+#: ../effects/distortion.effect.in.h:3
+msgid "Distort the video input"
+msgstr "भिडियो आगतको विकृत गर्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#: ../effects/edgetv.effect.in.h:2
+msgid "Edge"
+msgstr "छेउ"
+
+#: ../effects/edgetv.effect.in.h:3
+msgid "Display video input like good old low resolution computer way"
+msgstr "भिडियो आगतलाई पुरानो कम्प्युटर रिजोल्युशन जस्तै  प्रदर्शन गर्नुहोस्"
+
+#: ../effects/flip.effect.in.h:1
+msgid "Flip"
+msgstr "फ्लिप"
+
+#: ../effects/flip.effect.in.h:2
+#, fuzzy
+msgid "Flip the image, as if looking at a mirror"
+msgstr "छविमा वास्तविक जस्तो देखिने कफि स्टेन थप्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#: ../effects/heat.effect.in.h:2
+msgid "Heat"
+msgstr "ताप"
+
+#: ../effects/heat.effect.in.h:3
+msgid "Fake heat camera toning"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#: ../effects/historical.effect.in.h:2
+msgid "Historical"
+msgstr "ऐतिहासिक"
+
+#: ../effects/historical.effect.in.h:3
+msgid "Add age to video input using scratches and dust"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#: ../effects/hulk.effect.in.h:2
+msgid "Hulk"
+msgstr "हल्क"
+
+#: ../effects/hulk.effect.in.h:3
+msgid "Transform yourself into the amazing Hulk"
+msgstr "आफैलाई अद्भुत हल्कको रुपमा बदल्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
+msgstr "उल्टाई"
+
+#: ../effects/inversion.effect.in.h:3
+msgid "Invert colors of the video input"
+msgstr "भिडियो आगतको रंगहरू उल्टाउनुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#: ../effects/kaleidoscope.effect.in.h:2
+msgid "Kaleidoscope"
+msgstr "कलाईडस्कोप"
+
+#: ../effects/kaleidoscope.effect.in.h:3
+msgid "A triangle Kaleidoscope"
+msgstr "त्रिभुज कलाईडस्कोप"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#: ../effects/mauve.effect.in.h:2
+msgid "Mauve"
+msgstr "फिक्क बैगुनी"
+
+#: ../effects/mauve.effect.in.h:3
+msgid "Transform video input into a mauve color"
+msgstr "भिडियो आगट फिक्का बैगुनि रङ्गमा रूपान्तरण गर्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#: ../effects/mirror.effect.in.h:2
+msgid "Mirror"
+msgstr "मिरर"
+
+#: ../effects/mirror.effect.in.h:3
+msgid "Mirrors the video"
+msgstr "भिडियोलाई दर्पण गर्दछ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
+#: ../effects/noir.effect.in.h:2
+msgid "Noir/Blanc"
+msgstr "कालो/सेतो"
+
+#: ../effects/noir.effect.in.h:3
+msgid "Transform video input into grayscale"
+msgstr "भिडियो आगतको खैरानिमा रूपान्तरण गर्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
+#: ../effects/optv.effect.in.h:2
+msgid "Optical Illusion"
+msgstr "भ्रम"
+
+#: ../effects/optv.effect.in.h:3
+msgid "Traditional black-white optical animation"
+msgstr "परम्परागत श्याम-श्वेत अप्टिकल एनीमेशन"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#: ../effects/pinch.effect.in.h:2
+msgid "Pinch"
+msgstr "चिम्टि"
+
+#: ../effects/pinch.effect.in.h:3
+#, fuzzy
+msgid "Pinches the center of the video"
+msgstr "भिडियोको केन्द्र बल्झेको"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+#: ../effects/quarktv.effect.in.h:2
+msgid "Quark"
+msgstr "क्वार्क"
+
+#: ../effects/quarktv.effect.in.h:3
+msgid "Dissolves moving objects in the video input"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+#: ../effects/radioactv.effect.in.h:2
+msgid "Radioactive"
+msgstr "रेडियोक्टिभ"
+
+#: ../effects/radioactv.effect.in.h:3
+msgid "Detect radioactivity and show it"
+msgstr "रेडियोशीट पत्ता लगाएर यसलाई देखाउनुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+#: ../effects/revtv.effect.in.h:2
+msgid "Waveform"
+msgstr "वेभफर्म"
+
+#: ../effects/revtv.effect.in.h:3
+#, fuzzy
+msgid "Transform video input into a waveform monitor"
+msgstr "भिडियो आगत धातु शैलीमा रूपान्तरण गर्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+#: ../effects/ripple.effect.in.h:2
+msgid "Ripple"
+msgstr "लहर"
+
+#: ../effects/ripple.effect.in.h:3
+msgid "Add the ripple mark effect on the video input"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#: ../effects/saturation.effect.in.h:2
+msgid "Saturation"
+msgstr "स्याचुरेसन"
+
+#: ../effects/saturation.effect.in.h:3
+msgid "Add more saturation to the video input"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#: ../effects/sepia.effect.in.h:2
+msgid "Sepia"
+msgstr "गाढा कालो रङ"
+
+#: ../effects/sepia.effect.in.h:3
+#, fuzzy
+msgid "Sepia toning"
+msgstr "गाढा कालो रङ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
+#: ../effects/shagadelictv.effect.in.h:2
+msgid "Shagadelic"
+msgstr ""
+
+#: ../effects/shagadelictv.effect.in.h:3
+msgid "Add some hallucination to the video input"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
+#: ../effects/sobel.effect.in.h:2
+msgid "Sobel"
+msgstr "सोबेल"
+
+#: ../effects/sobel.effect.in.h:3
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr "सोबेल अपरेटरको माध्यमबाट भिडियो इनपुटमा किनारहरू निकाल्छ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#: ../effects/square.effect.in.h:2
+msgid "Square"
+msgstr "चतुर्भुज"
+
+#: ../effects/square.effect.in.h:3
+msgid "Makes a square out of the center of the video"
+msgstr "भिडियो को केन्द्र बाहिर एक वर्ग बनाउँछ"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+#: ../effects/streaktv.effect.in.h:2
+msgid "Kung-Fu"
+msgstr "कुङ्ग-फु"
+
+#: ../effects/streaktv.effect.in.h:3
+msgid "Transform motions into Kung-Fu style"
+msgstr "चालहरू कुङ्ग-फु शैलीमा परिवर्तन गर्नुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#: ../effects/stretch.effect.in.h:2
+msgid "Stretch"
+msgstr "खुर्कनुहोस्"
+
+#: ../effects/stretch.effect.in.h:3
+msgid "Stretches the center of the video"
+msgstr "भिडियोको केन्द्र टन्काउनुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#: ../effects/timedelay.effect.in.h:2
+msgid "Time delay"
+msgstr "समय विलम्व"
+
+#: ../effects/timedelay.effect.in.h:3
+msgid "Show what was happening in the past"
+msgstr "अतीतमा के भयो देखाउनुहोस्"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#: ../effects/twirl.effect.in.h:2
+msgid "Twirl"
+msgstr "घुमाई"
+
+#: ../effects/twirl.effect.in.h:3
+#, fuzzy
+msgid "Twirl the center of the video"
+msgstr "भिडियोको केन्द्र बल्झेको"
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+#: ../effects/vertigotv.effect.in.h:2
+msgid "Vertigo"
+msgstr "चकराउनु"
+
+#: ../effects/vertigotv.effect.in.h:3
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
+#: ../effects/warptv.effect.in.h:2
+msgid "Warp"
+msgstr "बेर्नुहोस्"
+
+#: ../effects/warptv.effect.in.h:3
+msgid "Transform video input into realtime goo’ing"
+msgstr ""
+
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#: ../effects/xray.effect.in.h:2
+msgid "X-Ray"
+msgstr "एक्स रे"
+
+#: ../effects/xray.effect.in.h:3
+msgid "Invert and slightly shade to blue"
+msgstr "उल्टाई हल्का नीलो गर्नुहोस्"
