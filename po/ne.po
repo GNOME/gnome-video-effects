@@ -9,12 +9,12 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-"
 "effects&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-06-11 17:55+0000\n"
-"PO-Revision-Date: 2017-08-18 11:26+0545\n"
+"PO-Revision-Date: 2017-10-16 16:04+0545\n"
 "Language-Team: Nepali Translation Team <chautari@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.3\n"
+"X-Generator: Poedit 2.0.4\n"
 "Last-Translator: Pawan Chitrakar <chautari@gmail.com>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: ne\n"
@@ -57,15 +57,12 @@ msgstr "भिडियो आगत धातु शैलीमा रूप�
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
-#, fuzzy
 msgid "Dice"
-msgstr ""
-"कम्प्युटरको पासा घुमाइको बीचमा विलम्ब घुसाउने वा नघुसाउने रोज्नुहोस् जसबाट खेलाडीले यसको कार्य "
-"पछ्याउन सक्छ ।"
+msgstr "पासा"
 
 #: ../effects/dicetv.effect.in.h:3
 msgid "Dices the video input into many small squares"
-msgstr ""
+msgstr "भिडियो आगतट धेरै साना पासा वर्गहरू गर्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
 #: ../effects/distortion.effect.in.h:2
@@ -90,9 +87,8 @@ msgid "Flip"
 msgstr "फ्लिप"
 
 #: ../effects/flip.effect.in.h:2
-#, fuzzy
 msgid "Flip the image, as if looking at a mirror"
-msgstr "छविमा वास्तविक जस्तो देखिने कफि स्टेन थप्नुहोस्"
+msgstr "ऐनामा हेरे जस्तै छवि फ्लिप गर्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
 #: ../effects/heat.effect.in.h:2
@@ -101,7 +97,7 @@ msgstr "ताप"
 
 #: ../effects/heat.effect.in.h:3
 msgid "Fake heat camera toning"
-msgstr ""
+msgstr "नकली ताप क्यामेरा तोनिङ्ग गर्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
 #: ../effects/historical.effect.in.h:2
@@ -110,7 +106,7 @@ msgstr "ऐतिहासिक"
 
 #: ../effects/historical.effect.in.h:3
 msgid "Add age to video input using scratches and dust"
-msgstr ""
+msgstr "खण्ड र धूल प्रयोग गरी भिडियो आगतमा उमेर थप्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
@@ -181,9 +177,8 @@ msgid "Pinch"
 msgstr "चिम्टि"
 
 #: ../effects/pinch.effect.in.h:3
-#, fuzzy
 msgid "Pinches the center of the video"
-msgstr "भिडियोको केन्द्र बल्झेको"
+msgstr "भिडियोको केन्द्र पिन्च गर्दछ"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
 #: ../effects/quarktv.effect.in.h:2
@@ -192,7 +187,7 @@ msgstr "क्वार्क"
 
 #: ../effects/quarktv.effect.in.h:3
 msgid "Dissolves moving objects in the video input"
-msgstr ""
+msgstr "भिडियो आगतमा वस्तुहरू सार्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:2
@@ -209,9 +204,8 @@ msgid "Waveform"
 msgstr "वेभफर्म"
 
 #: ../effects/revtv.effect.in.h:3
-#, fuzzy
 msgid "Transform video input into a waveform monitor"
-msgstr "भिडियो आगत धातु शैलीमा रूपान्तरण गर्नुहोस्"
+msgstr "भिडियो आगत तरङ्ग मोनिटरमा रूपान्तरण गर्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
 #: ../effects/ripple.effect.in.h:2
@@ -220,7 +214,7 @@ msgstr "लहर"
 
 #: ../effects/ripple.effect.in.h:3
 msgid "Add the ripple mark effect on the video input"
-msgstr ""
+msgstr "भिडियो आगतमा लहर छाप प्रभाव थप्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
 #: ../effects/saturation.effect.in.h:2
@@ -229,7 +223,7 @@ msgstr "स्याचुरेसन"
 
 #: ../effects/saturation.effect.in.h:3
 msgid "Add more saturation to the video input"
-msgstr ""
+msgstr "भिडियो आगतमा थप संतृप्ति थप्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
@@ -237,18 +231,17 @@ msgid "Sepia"
 msgstr "गाढा कालो रङ"
 
 #: ../effects/sepia.effect.in.h:3
-#, fuzzy
 msgid "Sepia toning"
-msgstr "गाढा कालो रङ"
+msgstr "सेपिया टोन"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
 #: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
-msgstr ""
+msgstr "सागाडेलिक"
 
 #: ../effects/shagadelictv.effect.in.h:3
 msgid "Add some hallucination to the video input"
-msgstr ""
+msgstr "भिडीयो आगतमा केही दृष्टिभ्रम थप्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
 #: ../effects/sobel.effect.in.h:2
@@ -301,9 +294,8 @@ msgid "Twirl"
 msgstr "घुमाई"
 
 #: ../effects/twirl.effect.in.h:3
-#, fuzzy
 msgid "Twirl the center of the video"
-msgstr "भिडियोको केन्द्र बल्झेको"
+msgstr "भिडियोको केन्द्र घुमाउनुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
 #: ../effects/vertigotv.effect.in.h:2
@@ -312,7 +304,7 @@ msgstr "चकराउनु"
 
 #: ../effects/vertigotv.effect.in.h:3
 msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr ""
+msgstr "घिमिरे र स्केलिंगको साथ एक लूपब्याक अल्फा मिश्रणिङ प्रभाव थप्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:2
@@ -321,7 +313,7 @@ msgstr "बेर्नुहोस्"
 
 #: ../effects/warptv.effect.in.h:3
 msgid "Transform video input into realtime goo’ing"
-msgstr ""
+msgstr "भिडियो आगतलाई वास्तविक समय goo'ing मा रूपान्तरण गर्नुहोस्"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
 #: ../effects/xray.effect.in.h:2
