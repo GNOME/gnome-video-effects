@@ -15,18 +15,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-09-12 08:18+0000\n"
-"PO-Revision-Date: 2014-09-12 14:12+0100\n"
-"Last-Translator: Wolfgang Stoeggl <c72578@yahoo.de>\n"
+"POT-Creation-Date: 2017-03-26 13:50+0000\n"
+"PO-Revision-Date: 2017-10-16 20:58+0200\n"
+"Last-Translator: Christian Kirbach <christian.kirbach@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.6.9\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -94,11 +94,11 @@ msgstr ""
 
 #: ../effects/flip.effect.in.h:1
 msgid "Flip"
-msgstr "Spiegeln"
+msgstr "Umdrehen"
 
 #: ../effects/flip.effect.in.h:2
 msgid "Flip the image, as if looking at a mirror"
-msgstr "Das Bild spiegeln, wie beim Blick in einen Spiegel"
+msgstr "Das Bild umdrehen, wie beim Blick in einen Spiegel"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
 #: ../effects/heat.effect.in.h:2
