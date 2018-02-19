@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#stretch
 _Name=Stretch
 _Comment=Stretches the center of the video
 PipelineDescription=stretch

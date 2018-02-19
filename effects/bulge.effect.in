@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
 _Name=Bulge
 _Comment=Bulges the center of the video
 PipelineDescription=bulge

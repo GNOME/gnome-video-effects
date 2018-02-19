@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mirror
 _Name=Mirror
 _Comment=Mirrors the video
 PipelineDescription=mirror

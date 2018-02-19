@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#quarktv
 _Name=Quark
 _Comment=Dissolves moving objects in the video input
 PipelineDescription=quarktv

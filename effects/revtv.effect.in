@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#revtv
 _Name=Waveform
 _Comment=Transform video input into a waveform monitor
 PipelineDescription=revtv

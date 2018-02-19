@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#saturation
 _Name=Saturation
 _Comment=Add more saturation to the video input
 PipelineDescription=videobalance saturation=2

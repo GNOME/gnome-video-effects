@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cartoon
 _Name=Cartoon
 _Comment=Cartoonify video input
 PipelineDescription=frei0r-filter-cartoon

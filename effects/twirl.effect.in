@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#twirl
 _Name=Twirl
 _Comment=Twirl the center of the video
 PipelineDescription=twirl

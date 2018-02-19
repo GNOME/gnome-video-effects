@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#distortion
 _Name=Distortion
 _Comment=Distort the video input
 PipelineDescription=frei0r-filter-distort0r

@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#dicetv
 _Name=Dice
 _Comment=Dices the video input into many small squares
 PipelineDescription=dicetv

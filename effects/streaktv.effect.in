@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#streaktv
 _Name=Kung-Fu
 _Comment=Transform motions into Kung-Fu style
 PipelineDescription=streaktv

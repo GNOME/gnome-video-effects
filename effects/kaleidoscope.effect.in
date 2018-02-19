@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#kaleidoscope
 _Name=Kaleidoscope
 _Comment=A triangle Kaleidoscope
 PipelineDescription=kaleidoscope

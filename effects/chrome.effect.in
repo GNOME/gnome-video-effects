@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#chrome
 _Name=Chrome
 _Comment=Transform video input into a metallic look
 PipelineDescription=frei0r-filter-color-distance

@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mauve
 _Name=Mauve
 _Comment=Transform video input into a mauve color
 PipelineDescription=videobalance saturation=1.5 hue=+0.5

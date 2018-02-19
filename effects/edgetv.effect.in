@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#edgetv
 _Name=Edge
 _Comment=Display video input like good old low resolution computer way
 PipelineDescription=edgetv

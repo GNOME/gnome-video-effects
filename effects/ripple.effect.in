@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#ripple
 _Name=Ripple
 _Comment=Add the ripple mark effect on the video input
 PipelineDescription=rippletv

@@ -1,6 +1,6 @@
 [Effect]
 Encoding=UTF-8
-# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+# Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#vertigotv
 _Name=Vertigo
 _Comment=Add a loopback alpha blending effector with rotating and scaling
 PipelineDescription=vertigotv
