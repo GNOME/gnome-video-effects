@@ -11,16 +11,16 @@ msgstr ""
 "Project-Id-Version: cheese master\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2017-03-26 13:50+0000\n"
-"PO-Revision-Date: 2017-12-01 13:29+0200\n"
-"Last-Translator: Pieter Schoeman <pieter@sonbesie.co.za>\n"
+"POT-Creation-Date: 2018-01-20 13:27+0000\n"
+"PO-Revision-Date: 2018-02-19 16:56+0200\n"
+"Last-Translator: Pieter Schalk Schoeman <pieter@sonbesie.co.za>\n"
 "Language-Team: Afrikaans <pieter@sonbesie.co.za>\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.7\n"
+"X-Generator: Poedit 2.0.3\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -122,7 +122,6 @@ msgstr "Verander jouself na die tekenprentkarakter, die ongelooflike Hulk"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
 #: ../effects/inversion.effect.in.h:2
-#| msgid "Invertion"
 msgid "Inversion"
 msgstr "Inversie"
 
@@ -308,7 +307,7 @@ msgstr "Duisligheid"
 
 #: ../effects/vertigotv.effect.in.h:3
 msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr ""
+msgstr "Voeg 'n alfakanaal oorgangseffek met rotasie en skalering by"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:2
