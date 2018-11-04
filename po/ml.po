@@ -9,10 +9,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese.master.ml\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-12-29 00:36+0000\n"
-"PO-Revision-Date: 2013-02-14 23:56+0530\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/issues\n"
+"POT-Creation-Date: 2018-06-10 17:17+0000\n"
+"PO-Revision-Date: 2018-11-04 22:54+0800\n"
 "Last-Translator: Anish A <aneesh.nl@gmail.com>\n"
 "Language-Team: Swatantra Malayalam Computing\n"
 "Language: ml\n"
@@ -20,10 +19,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Project-Style: gnome\n"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
 msgid "Bulge"
 msgstr "മുഴ"
@@ -32,7 +31,7 @@ msgstr "മുഴ"
 msgid "Bulges the center of the video"
 msgstr "ചലച്ചിത്രത്തിന്റെ മധ്യഭാഗം മുഴപ്പിക്കുന്നു"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cartoon
 #: ../effects/cartoon.effect.in.h:2
 msgid "Cartoon"
 msgstr "കാർട്ടൂൺ"
@@ -41,7 +40,7 @@ msgstr "കാർട്ടൂൺ"
 msgid "Cartoonify video input"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിനെ കാർട്ടൂൺ രൂപത്തിലാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cheguevara
 #: ../effects/cheguevara.effect.in.h:2
 msgid "Che Guevara"
 msgstr "ചെ ഗുവേര"
@@ -50,7 +49,7 @@ msgstr "ചെ ഗുവേര"
 msgid "Transform video input into typical Che Guevara style"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിനെ സ്വാഭാവികമായ ചെ ഗുവേര രൂപത്തിലാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#chrome
 #: ../effects/chrome.effect.in.h:2
 msgid "Chrome"
 msgstr "ക്രോം"
@@ -59,7 +58,7 @@ msgstr "ക്രോം"
 msgid "Transform video input into a metallic look"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിനെ ലോഹ കാഴ്ചയാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
 msgstr "ഡൈസ്"
@@ -68,7 +67,7 @@ msgstr "ഡൈസ്"
 msgid "Dices the video input into many small squares"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിനെ നിരവധി ചെറിയ സമചതുരങ്ങളായി മുറിക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#distortion
 #: ../effects/distortion.effect.in.h:2
 msgid "Distortion"
 msgstr "വക്രത"
@@ -77,7 +76,7 @@ msgstr "വക്രത"
 msgid "Distort the video input"
 msgstr "ചലച്ചിത്ര നിവേശകം വക്രമാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#edgetv
 #: ../effects/edgetv.effect.in.h:2
 msgid "Edge"
 msgstr "എഡ്ജ്"
@@ -94,7 +93,7 @@ msgstr "തിരിക്കുക"
 msgid "Flip the image, as if looking at a mirror"
 msgstr "ദൃശ്യത്തിനെ കണ്ണാടിയിൽ നോക്കുന്ന പോലെ തിരിക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#heat
 #: ../effects/heat.effect.in.h:2
 msgid "Heat"
 msgstr "ചൂട്"
@@ -103,7 +102,7 @@ msgstr "ചൂട്"
 msgid "Fake heat camera toning"
 msgstr "ചൂടൻ ക്യാമറ ടോണിങ്ങ് കൃത്രിമമായി ഉണ്ടാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#historical
 #: ../effects/historical.effect.in.h:2
 msgid "Historical"
 msgstr "പ്രാമാണികമായ"
@@ -112,7 +111,7 @@ msgstr "പ്രാമാണികമായ"
 msgid "Add age to video input using scratches and dust"
 msgstr "പാടുകളും പൊടിയും കൊണ്ട് ചലച്ചിത്രത്തിന് പ്രായം കൂട്ടുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#hulk
 #: ../effects/hulk.effect.in.h:2
 msgid "Hulk"
 msgstr "ഹള്‍ക്ക്"
@@ -121,16 +120,16 @@ msgstr "ഹള്‍ക്ക്"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "താങ്കളെ അമേസിങ്ങ് ഹൾക്ക് ആയി മാറ്റുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
 msgstr "തലതിരിക്കൽ"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിന്റെ നിറങ്ങൾ വിപരീതമാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#kaleidoscope
 #: ../effects/kaleidoscope.effect.in.h:2
 msgid "Kaleidoscope"
 msgstr "കലീഡോസ്കോപ്"
@@ -139,7 +138,7 @@ msgstr "കലീഡോസ്കോപ്"
 msgid "A triangle Kaleidoscope"
 msgstr "ത്രികോണാകൃതിയിലുള്ള ഒരു കലീഡോസ്കോപ്"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
 msgid "Mauve"
 msgstr "മോവ്"
@@ -148,7 +147,7 @@ msgstr "മോവ്"
 msgid "Transform video input into a mauve color"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിനെ ഒരു നീലലോഹിത വർണ്ണത്തിലാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mirror
 #: ../effects/mirror.effect.in.h:2
 msgid "Mirror"
 msgstr "കണ്ണാടി"
@@ -157,7 +156,7 @@ msgstr "കണ്ണാടി"
 msgid "Mirrors the video"
 msgstr "ചലച്ചിത്രത്തിനെ കണ്ണാടിയിലെ പ്രതിബിംബമാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#noir
 #: ../effects/noir.effect.in.h:2
 msgid "Noir/Blanc"
 msgstr "നൊയര്‍/ബ്ളാങ്ക്"
@@ -166,7 +165,7 @@ msgstr "നൊയര്‍/ബ്ളാങ്ക്"
 msgid "Transform video input into grayscale"
 msgstr "ചലച്ചിത്രത്തിനെ ഗ്രേസ്കേൽ ആക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#optv
 #: ../effects/optv.effect.in.h:2
 msgid "Optical Illusion"
 msgstr "മായാദർശനം"
@@ -175,7 +174,7 @@ msgstr "മായാദർശനം"
 msgid "Traditional black-white optical animation"
 msgstr "പരമ്പരാഗതമായ കറുപ്പ്-വെളുപ്പ് അനിമേഷൻ"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#pinch
 #: ../effects/pinch.effect.in.h:2
 msgid "Pinch"
 msgstr "നുള്ളുക"
@@ -184,7 +183,7 @@ msgstr "നുള്ളുക"
 msgid "Pinches the center of the video"
 msgstr "ചലച്ചിത്രത്തിനെ മധ്യം നുള്ളുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#quarktv
 #: ../effects/quarktv.effect.in.h:2
 msgid "Quark"
 msgstr "ക്വാർക്ക്"
@@ -193,7 +192,7 @@ msgstr "ക്വാർക്ക്"
 msgid "Dissolves moving objects in the video input"
 msgstr "ചലിക്കുന്ന വസ്തുക്കളെ ചലച്ചിത്ര നിവേശകത്തിൽ അലിയിപ്പിക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:2
 msgid "Radioactive"
 msgstr "റേഡിയോ ആക്ടീവ്"
@@ -202,7 +201,7 @@ msgstr "റേഡിയോ ആക്ടീവ്"
 msgid "Detect radioactivity and show it"
 msgstr "റേഡിയോ ആക്ടിവിറ്റി തിരിച്ചറിയുകയും, അത് പ്രദർശിപ്പിക്കുകയും ചെയ്യുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#revtv
 #: ../effects/revtv.effect.in.h:2
 msgid "Waveform"
 msgstr "വേവ്ഫോം"
@@ -211,7 +210,7 @@ msgstr "വേവ്ഫോം"
 msgid "Transform video input into a waveform monitor"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിനെ വേവ്ഫോം മോണിട്ടറിലേക്ക് മാറ്റുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#ripple
 #: ../effects/ripple.effect.in.h:2
 msgid "Ripple"
 msgstr "റിപ്പിൾ"
@@ -220,7 +219,7 @@ msgstr "റിപ്പിൾ"
 msgid "Add the ripple mark effect on the video input"
 msgstr "റിപ്പിൾ മാർക്ക് പ്രതീതി ചലച്ചിത്ര നിവേശകത്തിലേക്ക്ക് ചേർക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#saturation
 #: ../effects/saturation.effect.in.h:2
 msgid "Saturation"
 msgstr "സാച്ചുറേഷന്‍"
@@ -229,7 +228,7 @@ msgstr "സാച്ചുറേഷന്‍"
 msgid "Add more saturation to the video input"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിലേക്ക് കൂടുതൽ നിറവ് ചേർക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
 #: ../effects/sepia.effect.in.h:2
 msgid "Sepia"
 msgstr "സെപ്പിയ"
@@ -238,7 +237,7 @@ msgstr "സെപ്പിയ"
 msgid "Sepia toning"
 msgstr "സെപ്പിയ ടോണിങ്ങ്"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#shagadelictv
 #: ../effects/shagadelictv.effect.in.h:2
 msgid "Shagadelic"
 msgstr "ഷാഗഡെലിക്"
@@ -247,16 +246,16 @@ msgstr "ഷാഗഡെലിക്"
 msgid "Add some hallucination to the video input"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിലേക്ക് കുറച്ച് മതിഭ്രമം ചേർക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sobel
 #: ../effects/sobel.effect.in.h:2
 msgid "Sobel"
 msgstr "സോബെൽ"
 
 #: ../effects/sobel.effect.in.h:3
 msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "സോബെൽ ഓപ്പറേറ്റർ ഉപയോഗിച്ച് ചലച്ചിത്ര നിവേശകത്തിന്റെ വരമ്പുകൾ എടുക്കുക "
+msgstr "സോബെൽ ഓപ്പറേറ്റർ ഉപയോഗിച്ച് ചലച്ചിത്ര നിവേശകത്തിന്റെ വരമ്പുകൾ എടുക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#square
 #: ../effects/square.effect.in.h:2
 msgid "Square"
 msgstr "സമചതുരം"
@@ -265,7 +264,7 @@ msgstr "സമചതുരം"
 msgid "Makes a square out of the center of the video"
 msgstr "ചലച്ചിത്രതിന്റെ മധ്യത്തിൽ ഒരു സമചതുരം ഉണ്ടാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
 msgid "Kung-Fu"
 msgstr "കുങ്ങ്-ഫു"
@@ -274,7 +273,7 @@ msgstr "കുങ്ങ്-ഫു"
 msgid "Transform motions into Kung-Fu style"
 msgstr "ചലനങ്ങളെ കുങ്ങ്-ഫു രീതിയിലേക്ക് മാറ്റുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#stretch
 #: ../effects/stretch.effect.in.h:2
 msgid "Stretch"
 msgstr "വലിക്കുക"
@@ -283,7 +282,7 @@ msgstr "വലിക്കുക"
 msgid "Stretches the center of the video"
 msgstr "ചലച്ചിത്രതിന്റെ മധ്യം വലിക്കുന്നു"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#timedelay
 #: ../effects/timedelay.effect.in.h:2
 msgid "Time delay"
 msgstr "കാലവിളംബം"
@@ -292,7 +291,7 @@ msgstr "കാലവിളംബം"
 msgid "Show what was happening in the past"
 msgstr "മുമ്പ് എന്താണ് നടന്നുകൊണ്ടിരുന്നതെന്ന് കാണീക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#twirl
 #: ../effects/twirl.effect.in.h:2
 msgid "Twirl"
 msgstr "ചുഴറ്റുക"
@@ -301,7 +300,7 @@ msgstr "ചുഴറ്റുക"
 msgid "Twirl the center of the video"
 msgstr "ചലച്ചിത്രത്തിനെ മധ്യം ചുഴറ്റുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#vertigotv
 #: ../effects/vertigotv.effect.in.h:2
 msgid "Vertigo"
 msgstr "വെര്‍ട്ടിഗോ"
@@ -310,7 +309,7 @@ msgstr "വെര്‍ട്ടിഗോ"
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr "തിരിക്കലും വലിപ്പം മാറ്റലും ഉള്ള ഒരു ലൂപ്പ് ബാക്ക് ആല്‍ഫാ ബ്ലെന്റിങ് ഇഫക്ടര്‍ ചേര്‍ക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#warptv
 #: ../effects/warptv.effect.in.h:2
 msgid "Warp"
 msgstr "വാര്‍പ്പ്"
@@ -319,10 +318,10 @@ msgstr "വാര്‍പ്പ്"
 msgid "Transform video input into realtime goo’ing"
 msgstr "ചലച്ചിത്ര നിവേശകത്തിനെ പൊതിഞ്ഞതുപോലാക്കുക"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#xray
 #: ../effects/xray.effect.in.h:2
 msgid "X-Ray"
-msgstr "എക്സ്-"
+msgstr "എക്സ്-റേ"
 
 #: ../effects/xray.effect.in.h:3
 msgid "Invert and slightly shade to blue"
