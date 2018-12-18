@@ -7,6 +7,7 @@
   <name xml:lang="en">GNOME Video Effects</name>
   <shortdesc xml:lang="en">A collection of GStreamer effects to be used in different GNOME Modules</shortdesc>
   <description>A collection of GStreamer effects to be used in different GNOME Modules</description>
+  <programming-language>Desktop Entry</programming-language>
   <homepage rdf:resource="https://wiki.gnome.org/Projects/GnomeVideoEffects" />
   <mailing-list rdf:resource="http://mail.gnome.org/mailman/listinfo/cheese-list" />
   <bug-database rdf:resource="https://gitlab.gnome.org/GNOME/gnome-video-effects/issues/" />
