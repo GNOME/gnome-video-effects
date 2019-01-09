@@ -1,6 +1,5 @@
 [Effect]
-Encoding=UTF-8
 # Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cheguevara
-_Name=Che Guevara
-_Comment=Transform video input into typical Che Guevara style
+Name=Che Guevara
+Comment=Transform video input into typical Che Guevara style
 PipelineDescription=frei0r-filter-twolay0r

@@ -1,6 +1,5 @@
 [Effect]
-Encoding=UTF-8
 # Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#noir
-_Name=Noir/Blanc
-_Comment=Transform video input into grayscale
+Name=Noir/Blanc
+Comment=Transform video input into grayscale
 PipelineDescription=videobalance saturation=0

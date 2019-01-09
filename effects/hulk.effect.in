@@ -1,6 +1,5 @@
 [Effect]
-Encoding=UTF-8
 # Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#hulk
-_Name=Hulk
-_Comment=Transform yourself into the amazing Hulk
+Name=Hulk
+Comment=Transform yourself into the amazing Hulk
 PipelineDescription=videobalance saturation=1.5 hue=-0.5

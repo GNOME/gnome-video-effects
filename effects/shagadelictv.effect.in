@@ -1,6 +1,5 @@
 [Effect]
-Encoding=UTF-8
 # Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#shagadelictv
-_Name=Shagadelic
-_Comment=Add some hallucination to the video input
+Name=Shagadelic
+Comment=Add some hallucination to the video input
 PipelineDescription=shagadelictv
