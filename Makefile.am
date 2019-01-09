@@ -7,7 +7,8 @@ DIST_SUBDIRS = po
 pkgconfigdir = $(datadir)/pkgconfig
 pkgconfig_DATA = gnome-video-effects.pc
 
-%.effect: %.effect.in $(INTLTOOL_MERGE) $(wildcard $(top_srcdir)/po/*.po) ; LC_ALL=C $(INTLTOOL_MERGE) -d -u -c $(top_builddir)/po/.intltool-merge-cache $(top_srcdir)/po $< $@
+%.effect: %.effect.in $(wildcard $(top_srcdir)/po/*po)
+	$(AM_V_GEN) $(MSGFMT) --desktop --keyword=Name --keyword=Comment --template $< -d $(top_srcdir)/po -o $@
 
 effectsdir = $(pkgdatadir)
 effects_in_files = $(wildcard effects/*.effect.in)
@@ -21,12 +22,6 @@ dist_noinst_DATA = $(effects_in_files)
 CLEANFILES = \
 	$(effects_DATA) \
 	gnome-video-effects.pc
-
-DISTCLEANFILES = \
-	intltool-extra \
-	intltool-merge \
-	intltool-update \
-	po/.intltool-merge-cache
 
 dist-hook:
 	$(AM_V_at)if test -d "$(srcdir)/.git"; \

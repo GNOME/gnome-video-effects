@@ -1,6 +1,5 @@
 [Effect]
-Encoding=UTF-8
 # Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#inversion
-_Name=Inversion
-_Comment=Invert colors of the video input
+Name=Inversion
+Comment=Invert colors of the video input
 PipelineDescription=frei0r-filter-invert0r

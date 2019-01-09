@@ -1,6 +1,5 @@
 [Effect]
-Encoding=UTF-8
 # Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#timedelay
-_Name=Time delay
-_Comment=Show what was happening in the past
+Name=Time delay
+Comment=Show what was happening in the past
 PipelineDescription=frei0r-filter-delay0r delaytime=1
