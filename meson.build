@@ -14,13 +14,15 @@ pkgconfigdir = join_paths(datadir, 'pkgconfig')
 subdir('effects')
 subdir('po')
 
-pkg = import('pkgconfig')
+# Can't use pkgconfig helper https://github.com/mesonbuild/meson/issues/2253
+conf = configuration_data()
+conf.set('prefix', prefix)
+conf.set('datarootdir', pkgdatadir)
+conf.set('VERSION', meson.project_version())
 
-pkg.generate(
-         name: 'gnome-video-effects',
-  description: 'A collection of GStreamer effects to be used in different GNOME Modules',
-      version: meson.project_version(),
-     filebase: meson.project_name(),
-    variables: ['datarootdir=${prefix}/share', 'effectsdir=${datarootdir}/gnome-video-effects'],
-  install_dir: pkgconfigdir,
-)
+pkg = configure_file(configuration: conf,
+                     input: 'gnome-video-effects.pc.in',
+                     install: true,
+                     install_dir: join_paths(datadir, 'pkgconfig'),
+                     output: 'gnome-video-effects.pc')
+
