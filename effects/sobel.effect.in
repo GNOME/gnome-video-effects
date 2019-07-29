@@ -1,6 +1,5 @@
 [Effect]
-Encoding=UTF-8
 # Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sobel
-_Name=Sobel
-_Comment=Extracts edges in the video input through using the Sobel operator
+Name=Sobel
+Comment=Extracts edges in the video input through using the Sobel operator
 PipelineDescription=frei0r-filter-sobel
