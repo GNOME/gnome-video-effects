@@ -34,8 +34,9 @@ effects = ['bulge.effect',
            'xray.effect']
 
 foreach effect : effects
+  # FIXME: effect files use the *.desktop.in suffix so gettext can find them
   i18n.merge_file(
-    input: effect + '.in',
+    input: effect + '.desktop.in',
     output: effect,
     po_dir: '../po',
     install: true,
