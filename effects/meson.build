@@ -35,7 +35,7 @@ effects = ['bulge.effect',
 
 foreach effect : effects
   i18n.merge_file(
-    input: effect + '.in',
+    input: effect + '.desktop.in',
     output: effect,
     po_dir: '../po',
     install: true,
