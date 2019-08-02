@@ -7,13 +7,13 @@ DIST_SUBDIRS = po
 pkgconfigdir = $(datadir)/pkgconfig
 pkgconfig_DATA = gnome-video-effects.pc
 
-%.effect: %.effect.in $(wildcard $(top_srcdir)/po/*po)
+%.effect: %.effect.desktop.in $(wildcard $(top_srcdir)/po/*po)
 	$(AM_V_GEN) $(MSGFMT) --desktop --keyword=Name --keyword=Comment --template $< -d $(top_srcdir)/po -o $@
 
 effectsdir = $(pkgdatadir)
-effects_in_files = $(wildcard effects/*.effect.in)
+effects_in_files = $(wildcard effects/*.effect.desktop.in)
 
-effects_DATA = $(effects_in_files:.effect.in=.effect)
+effects_DATA = $(effects_in_files:.effect.desktop.in=.effect)
 
 dist_noinst_SCRIPTS = autogen.sh
 
