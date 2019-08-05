@@ -1,6 +1,10 @@
 ChangeLog for GNOME Video Effects
 ---------------------------------
 
+version 0.5.0
+  - Port to meson build system (thanks Jeremy!)
+  - Various updated translations
+
 version 0.4.3
   - Include effects in distribution tarball
 
