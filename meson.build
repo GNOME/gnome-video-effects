@@ -1,6 +1,6 @@
 project('gnome-video-effects',
   version: '0.5.0',
-  meson_version: '>= 0.43.0'
+  meson_version: '>= 0.50.0',
 )
 
 gnome = import('gnome')
