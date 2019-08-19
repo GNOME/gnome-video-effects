@@ -23,6 +23,6 @@ conf.set('VERSION', meson.project_version())
 pkg = configure_file(configuration: conf,
                      input: 'gnome-video-effects.pc.in',
                      install: true,
-                     install_dir: datadir / 'pkgconfig',
+                     install_dir: pkgconfigdir,
                      output: 'gnome-video-effects.pc')
 
