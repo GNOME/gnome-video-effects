@@ -7,9 +7,9 @@ gnome = import('gnome')
 i18n = import('i18n')
 
 prefix = get_option('prefix')
-datadir = join_paths(prefix, get_option('datadir'))
-pkgdatadir = join_paths(datadir, meson.project_name())
-pkgconfigdir = join_paths(datadir, 'pkgconfig')
+datadir = prefix / get_option('datadir')
+pkgdatadir = datadir / meson.project_name()
+pkgconfigdir = datadir / 'pkgconfig'
 
 subdir('effects')
 subdir('po')
@@ -23,6 +23,6 @@ conf.set('VERSION', meson.project_version())
 pkg = configure_file(configuration: conf,
                      input: 'gnome-video-effects.pc.in',
                      install: true,
-                     install_dir: join_paths(datadir, 'pkgconfig'),
+                     install_dir: datadir / 'pkgconfig',
                      output: 'gnome-video-effects.pc')
 
