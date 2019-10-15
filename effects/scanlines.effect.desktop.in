@@ -1,0 +1,4 @@
+[Effect]
+Name=Scanlines
+Comment=Interlace dark lines for a CRT TV look
+PipelineDescription=frei0r-filter-scanline0r
