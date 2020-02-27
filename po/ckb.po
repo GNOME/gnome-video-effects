@@ -1,0 +1,324 @@
+# Kurdish (Sorani) translation for gnome-video-effects
+# Copyright (c) 2020 Rosetta Contributors and Canonical Ltd 2020
+# This file is distributed under the same license as the gnome-video-effects package.
+# Jwtiyar Nariman <jwtiyar@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-video-effects\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2019-08-13 11:35+0000\n"
+"PO-Revision-Date: 2020-02-22 10:25+0300\n"
+"Last-Translator: Jwtiyar Nariman <jwtiyar@gmail.com>\n"
+"Language-Team: Kurdish (Sorani) <ckb@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2020-02-22 07:24+0000\n"
+"X-Generator: Poedit 2.3\n"
+"Language: ckb\n"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
+#: effects/bulge.effect.desktop.in:4
+msgid "Bulge"
+msgstr "هەڵئاوساندن"
+
+#: effects/bulge.effect.desktop.in:5
+msgid "Bulges the center of the video"
+msgstr "ناوەڕاستی ڤیدیۆەکە هەڵئاوساو بکە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cartoon
+#: effects/cartoon.effect.desktop.in:4
+msgid "Cartoon"
+msgstr "کارتۆن"
+
+#: effects/cartoon.effect.desktop.in:5
+msgid "Cartoonify video input"
+msgstr "بە کارۆتنیکردنی ڤیدیۆەکە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cheguevara
+#: effects/cheguevara.effect.desktop.in:4
+msgid "Che Guevara"
+msgstr "چی گێڤارا"
+
+#: effects/cheguevara.effect.desktop.in:5
+msgid "Transform video input into typical Che Guevara style"
+msgstr "گۆڕینی ڤیدیۆکە بۆ شێوازی چێ گێڤارا"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#chrome
+#: effects/chrome.effect.desktop.in:4
+msgid "Chrome"
+msgstr "کرۆم"
+
+#: effects/chrome.effect.desktop.in:5
+msgid "Transform video input into a metallic look"
+msgstr "ڤیدیۆکە بگۆرە بۆ شێوازی کانزایی(مێتاڵیک)"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#dicetv
+#: effects/dicetv.effect.desktop.in:4
+msgid "Dice"
+msgstr "پارچەکردن"
+
+#: effects/dicetv.effect.desktop.in:5
+msgid "Dices the video input into many small squares"
+msgstr "ڤیدیۆکە پارچەبکە بۆ چوارگۆشەی بچووک"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#distortion
+#: effects/distortion.effect.desktop.in:4
+msgid "Distortion"
+msgstr "شێواندن"
+
+#: effects/distortion.effect.desktop.in:5
+msgid "Distort the video input"
+msgstr "شێواندنی ڤیدیۆکە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#edgetv
+#: effects/edgetv.effect.desktop.in:4
+msgid "Edge"
+msgstr ""
+
+#: effects/edgetv.effect.desktop.in:5
+msgid "Display video input like good old low resolution computer way"
+msgstr ""
+
+#: effects/flip.effect.desktop.in:3
+msgid "Flip"
+msgstr "هەڵگێڕانەوە"
+
+#: effects/flip.effect.desktop.in:4
+msgid "Flip the image, as if looking at a mirror"
+msgstr "هەڵگێڕانەوەی وێنە، ئەگەر سەیری ئاوێنە دەکەی."
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#heat
+#: effects/heat.effect.desktop.in:4
+msgid "Heat"
+msgstr "گەرمی"
+
+#: effects/heat.effect.desktop.in:5
+msgid "Fake heat camera toning"
+msgstr "دانانی گەرمی کامێرای ساختە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#historical
+#: effects/historical.effect.desktop.in:4
+msgid "Historical"
+msgstr "مێژووی"
+
+#: effects/historical.effect.desktop.in:5
+msgid "Add age to video input using scratches and dust"
+msgstr ""
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#hulk
+#: effects/hulk.effect.desktop.in:4
+msgid "Hulk"
+msgstr "هەڵک(سەوزباو)"
+
+#: effects/hulk.effect.desktop.in:5
+msgid "Transform yourself into the amazing Hulk"
+msgstr "گۆڕینی خۆت بۆ شێوازی هەڵک"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#inversion
+#: effects/inversion.effect.desktop.in:4
+msgid "Inversion"
+msgstr "گەڕانەوە"
+
+#: effects/inversion.effect.desktop.in:5
+msgid "Invert colors of the video input"
+msgstr "گەرانەوەی ڕەنگەکانی ڤیدیۆکانت"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#kaleidoscope
+#: effects/kaleidoscope.effect.desktop.in:4
+msgid "Kaleidoscope"
+msgstr ""
+
+#: effects/kaleidoscope.effect.desktop.in:5
+msgid "A triangle Kaleidoscope"
+msgstr ""
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mauve
+#: effects/mauve.effect.desktop.in:4
+msgid "Mauve"
+msgstr "مۆرکردن"
+
+#: effects/mauve.effect.desktop.in:5
+msgid "Transform video input into a mauve color"
+msgstr "گؤڕینی ڤیدیۆەکەت بۆ ڕەنگی مۆر"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mirror
+#: effects/mirror.effect.desktop.in:4
+msgid "Mirror"
+msgstr "هەڵگەڕاوە(ئاوێنەیی)"
+
+#: effects/mirror.effect.desktop.in:5
+msgid "Mirrors the video"
+msgstr "ڤیدیۆکە هەڵبگێڕەوە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#noir
+#: effects/noir.effect.desktop.in:4
+msgid "Noir/Blanc"
+msgstr "خۆڵەمێشی"
+
+#: effects/noir.effect.desktop.in:5
+msgid "Transform video input into grayscale"
+msgstr "گۆڕینی ڤیدیۆکە بۆ شێوازی خۆڵەمێشی"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#optv
+#: effects/optv.effect.desktop.in:4
+msgid "Optical Illusion"
+msgstr ""
+
+#: effects/optv.effect.desktop.in:5
+msgid "Traditional black-white optical animation"
+msgstr ""
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#pinch
+#: effects/pinch.effect.desktop.in:4
+msgid "Pinch"
+msgstr "قوپاندن"
+
+#: effects/pinch.effect.desktop.in:5
+msgid "Pinches the center of the video"
+msgstr "قوپاندنی ناوەندی ڤیدیۆکە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#quarktv
+#: effects/quarktv.effect.desktop.in:4
+msgid "Quark"
+msgstr "وردکردن"
+
+#: effects/quarktv.effect.desktop.in:5
+msgid "Dissolves moving objects in the video input"
+msgstr "وردکردنی تەنە جوڵاوەکانی ڤیدیۆکەت"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#radioactv
+#: effects/radioactv.effect.desktop.in:4
+msgid "Radioactive"
+msgstr "چالاکی ڕادیۆیی"
+
+#: effects/radioactv.effect.desktop.in:5
+msgid "Detect radioactivity and show it"
+msgstr "دۆزینەوەی چالاکی ڕادیۆیی و پیشاندانی"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#revtv
+#: effects/revtv.effect.desktop.in:4
+msgid "Waveform"
+msgstr "شەپۆلی"
+
+#: effects/revtv.effect.desktop.in:5
+msgid "Transform video input into a waveform monitor"
+msgstr "گۆڕێنی ڤیدیۆکە بۆ شێوازی شەپۆلی"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#ripple
+#: effects/ripple.effect.desktop.in:4
+msgid "Ripple"
+msgstr "بەشەپۆلکردن"
+
+#: effects/ripple.effect.desktop.in:5
+msgid "Add the ripple mark effect on the video input"
+msgstr "هێمای کاریگەی بە شەپۆلکردن بکە سەر ڤیدیۆکە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#saturation
+#: effects/saturation.effect.desktop.in:4
+msgid "Saturation"
+msgstr "تێری"
+
+#: effects/saturation.effect.desktop.in:5
+msgid "Add more saturation to the video input"
+msgstr "تێری زیاتر بدە بە ڤیدیۆکە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
+#: effects/sepia.effect.desktop.in:4
+msgid "Sepia"
+msgstr "قاوەیی تاریک"
+
+#: effects/sepia.effect.desktop.in:5
+msgid "Sepia toning"
+msgstr "قاوەی تاریککردن"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#shagadelictv
+#: effects/shagadelictv.effect.desktop.in:4
+msgid "Shagadelic"
+msgstr ""
+
+#: effects/shagadelictv.effect.desktop.in:5
+msgid "Add some hallucination to the video input"
+msgstr ""
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sobel
+#: effects/sobel.effect.desktop.in:4
+msgid "Sobel"
+msgstr "سۆبێل"
+
+#: effects/sobel.effect.desktop.in:5
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr ""
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#square
+#: effects/square.effect.desktop.in:4
+msgid "Square"
+msgstr "چوارگۆشەکردن"
+
+#: effects/square.effect.desktop.in:5
+msgid "Makes a square out of the center of the video"
+msgstr "چوارگۆشەکردنی ناوەڕاستی ڤیدیۆکە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#streaktv
+#: effects/streaktv.effect.desktop.in:4
+msgid "Kung-Fu"
+msgstr "کۆنگ-فو"
+
+#: effects/streaktv.effect.desktop.in:5
+msgid "Transform motions into Kung-Fu style"
+msgstr "گۆڕێنی جوڵەکانی بۆ شێوازی کۆنگ-فو"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#stretch
+#: effects/stretch.effect.desktop.in:4
+msgid "Stretch"
+msgstr "کشاندن"
+
+#: effects/stretch.effect.desktop.in:5
+msgid "Stretches the center of the video"
+msgstr "کشاندنی ناوەڕاستی ڤیدیۆکە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#timedelay
+#: effects/timedelay.effect.desktop.in:4
+msgid "Time delay"
+msgstr "دوواکەوتنی کات"
+
+#: effects/timedelay.effect.desktop.in:5
+msgid "Show what was happening in the past"
+msgstr "پیشاندانی ئەوە چی ڕوودەدات لە ڕابردوودا"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#twirl
+#: effects/twirl.effect.desktop.in:4
+msgid "Twirl"
+msgstr "سوڕاوە"
+
+#: effects/twirl.effect.desktop.in:5
+msgid "Twirl the center of the video"
+msgstr "سوڕاوەکردنی ناوەڕاستی ڤیدیۆیە"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#vertigotv
+#: effects/vertigotv.effect.desktop.in:4
+msgid "Vertigo"
+msgstr ""
+
+#: effects/vertigotv.effect.desktop.in:5
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#warptv
+#: effects/warptv.effect.desktop.in:4
+msgid "Warp"
+msgstr "گێڕاوگێڕ"
+
+#: effects/warptv.effect.desktop.in:5
+msgid "Transform video input into realtime goo’ing"
+msgstr ""
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#xray
+#: effects/xray.effect.desktop.in:4
+msgid "X-Ray"
+msgstr "تیشکی-سینی"
+
+#: effects/xray.effect.desktop.in:5
+msgid "Invert and slightly shade to blue"
+msgstr "گێڕانەوە و گۆڕاینی سێبەر بۆ شین"
