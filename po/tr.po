@@ -1,6 +1,8 @@
-# translation of gnome-video-effects to Turkish
+# Turkish translation for gnome-video-effects.
 # Copyright (C) 2008, 2009, 2011 the Free Software Foundation, Inc.
+# Copyright (C) 2012-2022 gnome-video-effects's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-video-effects package.
+#
 # Baris Cicek <baris@teamforce.name.tr>, 2008, 2009.
 # Mustafa Arici <me@mustafaarici.info>, 2011.
 # Muhammet Kara <muhammetk@gmail.com>, 2011, 2012, 2014.
@@ -10,7 +12,7 @@ msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/"
 "issues\n"
-"POT-Creation-Date: 2019-08-03 23:58+0000\n"
+"POT-Creation-Date: 2022-08-15 18:31+0000\n"
 "PO-Revision-Date: 2014-12-07 00:21+0200\n"
 "Last-Translator: Muhammet Kara <muhammetk@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
@@ -325,6 +327,3 @@ msgstr "X-Işını"
 #: effects/xray.effect.desktop.in:5
 msgid "Invert and slightly shade to blue"
 msgstr "Ters çevir ve mavi renkle hafifçe gölgelendir"
-
-#~ msgid "No Effect"
-#~ msgstr "Etki Yok"
