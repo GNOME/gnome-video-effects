@@ -1,6 +1,12 @@
 ChangeLog for GNOME Video Effects
 ---------------------------------
 
+version 0.6.0
+  - Fix flip effect with recent gstreamer (thanks Phelipe Matheus Couto de Aguiar)
+  - Add new scanlines effect using frei0r (thanks Thomas Perl)
+  - Various meson build fixes (thansk Jan Tojnar)
+  - Various updated translations
+
 version 0.5.0
   - Port to meson build system (thanks Jeremy!)
   - Various updated translations
