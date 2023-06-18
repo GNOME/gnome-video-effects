@@ -3,23 +3,23 @@
 # This file is distributed under the same license as the cheese package.
 # Maxim Dziumanenko <dziumanenko@gmail.com>, 2008-2009.
 # Korostil Daniel <ted.korostiled@gmail.com>, 2011, 2012.
-# Yuri Chornoivan <yurchor@ukr.net>, 2020.
+# Yuri Chornoivan <yurchor@ukr.net>, 2020, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/issue"
-"s\n"
-"POT-Creation-Date: 2020-01-08 15:18+0000\n"
-"PO-Revision-Date: 2020-03-15 18:14+0200\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/issu"
+"es\n"
+"POT-Creation-Date: 2023-06-17 10:40+0000\n"
+"PO-Revision-Date: 2023-06-18 21:52+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
-"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 20.03.70\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 20.12.0\n"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
 #: effects/bulge.effect.desktop.in:4
@@ -123,7 +123,6 @@ msgstr "Перетворює вас у великого зеленого чол�
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#inversion
 #: effects/inversion.effect.desktop.in:4
-#| msgid "Invertion"
 msgid "Inversion"
 msgstr "Інверсія"
 
@@ -229,6 +228,14 @@ msgstr "Насиченість"
 #: effects/saturation.effect.desktop.in:5
 msgid "Add more saturation to the video input"
 msgstr "Додає насиченості у відео"
+
+#: effects/scanlines.effect.desktop.in:3
+msgid "Scanlines"
+msgstr "Лінії розгортки"
+
+#: effects/scanlines.effect.desktop.in:4
+msgid "Interlace dark lines for a CRT TV look"
+msgstr "Вставити через рядок темні лінії, як на телевізорі з ЕПТ"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
 #: effects/sepia.effect.desktop.in:4
