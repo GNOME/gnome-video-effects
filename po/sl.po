@@ -1,328 +1,368 @@
-# Slovenian translations for gnome-video-effects.
-# Copyright (C) 2010 gnome-video-effects's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-video-effects package.
-#
-# Matej Urbančič <mateju@svn.gnome.org>, 2010-2014.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-video-effects master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-09-14 08:20+0000\n"
-"PO-Revision-Date: 2014-09-14 21:16+0100\n"
-"Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
-"Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
-"Language: sl\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/"
+"issues\n"
+"POT-Creation-Date: 2023-06-23 16:03+0000\n"
+"PO-Revision-Date: 2023-06-23 23:16+0200\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100>=3 "
+"&& n%100<=4 ? 2 : 3);\n"
+"Language: sl\n"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
-#: ../effects/bulge.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
+#: effects/bulge.effect.desktop.in:4
 msgid "Bulge"
-msgstr "Izbočenje"
+msgstr "Izboči"
 
-#: ../effects/bulge.effect.in.h:3
+#: effects/bulge.effect.desktop.in:5
 msgid "Bulges the center of the video"
-msgstr "Učinek izbočenja sredine videa"
+msgstr "Izbočite središče videoposnetka"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
-#: ../effects/cartoon.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cartoon
+#: effects/cartoon.effect.desktop.in:4
 msgid "Cartoon"
-msgstr "Risanka"
+msgstr "Strip"
 
-#: ../effects/cartoon.effect.in.h:3
+#: effects/cartoon.effect.desktop.in:5
+#, fuzzy
 msgid "Cartoonify video input"
-msgstr "Dodajanje učinka risanke vhodnemu videu"
+msgstr "Video vhod Cartoonify"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
-#: ../effects/cheguevara.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cheguevara
+#: effects/cheguevara.effect.desktop.in:4
 msgid "Che Guevara"
 msgstr "Che Guevara"
 
-#: ../effects/cheguevara.effect.in.h:3
+#: effects/cheguevara.effect.desktop.in:5
+#, fuzzy
 msgid "Transform video input into typical Che Guevara style"
-msgstr "Preoblikovanje vhodnega videa v Che Guevara slogu"
+msgstr "Preoblikovanje video vhoda v tipičen slog Che Guevare"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
-#: ../effects/chrome.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#chrome
+#: effects/chrome.effect.desktop.in:4
 msgid "Chrome"
-msgstr "Barve"
+msgstr "Krom"
 
-#: ../effects/chrome.effect.in.h:3
+#: effects/chrome.effect.desktop.in:5
+#, fuzzy
 msgid "Transform video input into a metallic look"
-msgstr "Preoblikovanje vhodnega videa v kovinski odsev slike"
+msgstr ""
+"Spremeni vrstni red polslik vhodnega videoposnetka (avfilter.fieldorder)"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
-#: ../effects/dicetv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#dicetv
+#: effects/dicetv.effect.desktop.in:4
+#, fuzzy
 msgid "Dice"
-msgstr "Kocke"
+msgstr ""
+"**Opomba**: *Če izberete vzorec točk, ki ne ustreza trenutnemu zaporedju "
+"kock, bo izbrani vzorec rezultatov neveljaven in bo imel ničelno "
+"vrednost.*"
 
-#: ../effects/dicetv.effect.in.h:3
+#: effects/dicetv.effect.desktop.in:5
+#, fuzzy
 msgid "Dices the video input into many small squares"
-msgstr "Preoblikovanje vhodnega videa v kockasto mrežo slike"
+msgstr "Vhodni videoposnetek razrežite na veliko majhnih kvadratkov"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#distortion
+#: effects/distortion.effect.desktop.in:4
 msgid "Distortion"
 msgstr "Popačenje"
 
-#: ../effects/distortion.effect.in.h:3
+#: effects/distortion.effect.desktop.in:5
 msgid "Distort the video input"
-msgstr "Popačenje slike vhodnega videa"
+msgstr "Popači vhodni video"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#edgetv
+#: effects/edgetv.effect.desktop.in:4
 msgid "Edge"
-msgstr "Robovi"
+msgstr "Rob"
 
-#: ../effects/edgetv.effect.in.h:3
+#: effects/edgetv.effect.desktop.in:5
 msgid "Display video input like good old low resolution computer way"
-msgstr "Preoblikovanje vhodnega videa z učinkom nizke ločljivosti"
+msgstr ""
+"Prikaže video vhod kot pri starem dobrem računalniku z nizko ločljivostjo"
 
-#: ../effects/flip.effect.in.h:1
+#: effects/flip.effect.desktop.in:3
 msgid "Flip"
-msgstr "Zrcaljenje"
+msgstr "Prezrcali"
 
-#: ../effects/flip.effect.in.h:2
+#: effects/flip.effect.desktop.in:4
 msgid "Flip the image, as if looking at a mirror"
-msgstr "Zrcaljenje slike preko navidezne osi na stranicah"
+msgstr "Obrnite sliko, kot da bi gledali v ogledalo"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#heat
+#: effects/heat.effect.desktop.in:4
 msgid "Heat"
-msgstr "Vročinski valovi"
+msgstr "Vročina"
 
-#: ../effects/heat.effect.in.h:3
+#: effects/heat.effect.desktop.in:5
+#, fuzzy
 msgid "Fake heat camera toning"
-msgstr "Toniran učinek vročinskih valov na posnetku."
+msgstr "Toniranje z lažno toplotno kamero"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#historical
+#: effects/historical.effect.desktop.in:4
 msgid "Historical"
-msgstr "Zgodovinski"
+msgstr "Zgodovinsko"
 
-#: ../effects/historical.effect.in.h:3
+#: effects/historical.effect.desktop.in:5
+#, fuzzy
 msgid "Add age to video input using scratches and dust"
-msgstr "Dodajanje prask in prašnosti vhodnemu videu"
+msgstr "Dodajanje starosti vhodnemu videoposnetku z uporabo prask in prahu"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
-#: ../effects/hulk.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#hulk
+#: effects/hulk.effect.desktop.in:4
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/hulk.effect.in.h:3
+#: effects/hulk.effect.desktop.in:5
 msgid "Transform yourself into the amazing Hulk"
-msgstr "Preoblikovanje vhodnega videa z učinkom velikega Hulka"
+msgstr "Preobrazite se v neverjetnega Hulka"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
-#: ../effects/inversion.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#inversion
+#: effects/inversion.effect.desktop.in:4
 msgid "Inversion"
-msgstr "Preobračanje barv"
+msgstr "Inverzija"
 
-#: ../effects/inversion.effect.in.h:3
+#: effects/inversion.effect.desktop.in:5
 msgid "Invert colors of the video input"
-msgstr "Preobračanje barv slike vhodnega videa"
+msgstr "Preobrne barve video vhoda"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#kaleidoscope
+#: effects/kaleidoscope.effect.desktop.in:4
 msgid "Kaleidoscope"
 msgstr "Kalejdoskop"
 
-#: ../effects/kaleidoscope.effect.in.h:3
+#: effects/kaleidoscope.effect.desktop.in:5
 msgid "A triangle Kaleidoscope"
-msgstr "Učinek trikotnega kalejdoskopa"
+msgstr "Trikotni kalejdoskop"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
-#: ../effects/mauve.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mauve
+#: effects/mauve.effect.desktop.in:4
+#, fuzzy
 msgid "Mauve"
 msgstr "Mauve"
 
-#: ../effects/mauve.effect.in.h:3
+#: effects/mauve.effect.desktop.in:5
+#, fuzzy
 msgid "Transform video input into a mauve color"
-msgstr "Preoblikovanje vhodnega videa z mauve učinkom"
+msgstr ""
+"Spremeni vrstni red polslik vhodnega videoposnetka (avfilter.fieldorder)"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
-#: ../effects/mirror.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mirror
+#: effects/mirror.effect.desktop.in:4
 msgid "Mirror"
-msgstr "Zrcaljenje"
+msgstr "Zrcali"
 
-#: ../effects/mirror.effect.in.h:3
+#: effects/mirror.effect.desktop.in:5
 msgid "Mirrors the video"
-msgstr "Ustvari zrcalno sliko videa"
+msgstr "Zrcali video"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
-#: ../effects/noir.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#noir
+#: effects/noir.effect.desktop.in:4
+#, fuzzy
 msgid "Noir/Blanc"
-msgstr "Črno/Belo"
+msgstr "Noir/Blanc"
 
-#: ../effects/noir.effect.in.h:3
+#: effects/noir.effect.desktop.in:5
+#, fuzzy
 msgid "Transform video input into grayscale"
-msgstr "Preoblikovanje vhodnega videa v sivine"
+msgstr ""
+"Spremeni vrstni red polslik vhodnega videoposnetka (avfilter.fieldorder)"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
-#: ../effects/optv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#optv
+#: effects/optv.effect.desktop.in:4
 msgid "Optical Illusion"
-msgstr "Optične prevare"
+msgstr "Optična iluzija"
 
-#: ../effects/optv.effect.in.h:3
+#: effects/optv.effect.desktop.in:5
 msgid "Traditional black-white optical animation"
-msgstr "Običajno črno-belo animiranje"
+msgstr "Tradicionalna črno-bela optična animacija"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
-#: ../effects/pinch.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#pinch
+#: effects/pinch.effect.desktop.in:4
 msgid "Pinch"
-msgstr "Uščipanje"
+msgstr "Priščipni"
 
-#: ../effects/pinch.effect.in.h:3
+#: effects/pinch.effect.desktop.in:5
+#, fuzzy
 msgid "Pinches the center of the video"
-msgstr "Učinek uščipanja sredine videa"
+msgstr "Središče"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#quarktv
+#: effects/quarktv.effect.desktop.in:4
+#, fuzzy
 msgid "Quark"
-msgstr "Kvarki"
+msgstr "Quark"
 
-#: ../effects/quarktv.effect.in.h:3
+#: effects/quarktv.effect.desktop.in:5
+#, fuzzy
 msgid "Dissolves moving objects in the video input"
-msgstr "Preoblikovanje videa z raztapljanjem gibljivih predmetov"
+msgstr "Raztopi premikajoče se predmete v vhodnem videoposnetku"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#radioactv
+#: effects/radioactv.effect.desktop.in:4
 msgid "Radioactive"
 msgstr "Radioaktivno"
 
-#: ../effects/radioactv.effect.in.h:3
+#: effects/radioactv.effect.desktop.in:5
 msgid "Detect radioactivity and show it"
-msgstr "Preoblikovanje vhodnega videa v učinek radioaktivnega sevanja"
+msgstr "Odkrije radioaktivnost in jo prikaže"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#revtv
+#: effects/revtv.effect.desktop.in:4
 msgid "Waveform"
-msgstr "Valovanje"
+msgstr "Oblika signala"
 
-#: ../effects/revtv.effect.in.h:3
+#: effects/revtv.effect.desktop.in:5
+#, fuzzy
 msgid "Transform video input into a waveform monitor"
-msgstr "Preoblikovanje vhodnega videa z učinkom valovanja"
+msgstr "Spremeni vhodni video v ogled zvočnega signala"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#ripple
+#: effects/ripple.effect.desktop.in:4
 msgid "Ripple"
-msgstr "Kodranje"
+msgstr "Izrivanje"
 
-#: ../effects/ripple.effect.in.h:3
+#: effects/ripple.effect.desktop.in:5
+#, fuzzy
 msgid "Add the ripple mark effect on the video input"
-msgstr "Preoblikovanje vhodnega videa z učinkom kodranje"
+msgstr "Dodajanje učinka valovanja na video vhodu"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#saturation
+#: effects/saturation.effect.desktop.in:4
 msgid "Saturation"
 msgstr "Nasičenost"
 
-#: ../effects/saturation.effect.in.h:3
+#: effects/saturation.effect.desktop.in:5
+#, fuzzy
 msgid "Add more saturation to the video input"
-msgstr "Preoblikovanje vhodnega videa z nasičenostjo barv"
+msgstr "Dodajanje šuma v sličico vhodnega videa (avfilter.noise)"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
-#: ../effects/sepia.effect.in.h:2
+#: effects/scanlines.effect.desktop.in:3
+#, fuzzy
+msgid "Scanlines"
+msgstr "Scanlines"
+
+#: effects/scanlines.effect.desktop.in:4
+#, fuzzy
+msgid "Interlace dark lines for a CRT TV look"
+msgstr "Prepletanje temnih črt za videz televizorja CRT"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
+#: effects/sepia.effect.desktop.in:4
 msgid "Sepia"
-msgstr "Sepia"
+msgstr "Sepija"
 
-#: ../effects/sepia.effect.in.h:3
+#: effects/sepia.effect.desktop.in:5
+#, fuzzy
 msgid "Sepia toning"
-msgstr "Sepia učinek staranja"
+msgstr "_Sepija …"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#shagadelictv
+#: effects/shagadelictv.effect.desktop.in:4
 msgid "Shagadelic"
-msgstr "Žmohtno"
+msgstr "Shagadelic"
 
-#: ../effects/shagadelictv.effect.in.h:3
+#: effects/shagadelictv.effect.desktop.in:5
 msgid "Add some hallucination to the video input"
-msgstr "Preoblikovanje vhodnega videa z učinkom haluciniranja"
+msgstr "Dodajte nekaj halucinacij v vhodni video"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sobel
+#: effects/sobel.effect.desktop.in:4
 msgid "Sobel"
 msgstr "Sobel"
 
-#: ../effects/sobel.effect.in.h:3
+#: effects/sobel.effect.desktop.in:5
 msgid "Extracts edges in the video input through using the Sobel operator"
-msgstr "Poudarjanje robov na sliki videa z Sobel učinkom."
+msgstr ""
+"Izvleče robove v vhodnem videoposnetku z uporabo Sobelovega operatorja"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#square
+#: effects/square.effect.desktop.in:4
 msgid "Square"
-msgstr "Učinek kvadrata"
+msgstr "Kvadratno"
 
-#: ../effects/square.effect.in.h:3
+#: effects/square.effect.desktop.in:5
 msgid "Makes a square out of the center of the video"
-msgstr "Ustvari kvadrat iz sredine slike videa"
+msgstr "Iz središča videoposnetka naredi kvadrat"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
-#: ../effects/streaktv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#streaktv
+#: effects/streaktv.effect.desktop.in:4
 msgid "Kung-Fu"
 msgstr "Kung-Fu"
 
-#: ../effects/streaktv.effect.in.h:3
+#: effects/streaktv.effect.desktop.in:5
 msgid "Transform motions into Kung-Fu style"
-msgstr "Preoblikovanje gibanja v kungfu slogu"
+msgstr "Preoblikovanje gibov v slogu Kung-Fu"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
-#: ../effects/stretch.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#stretch
+#: effects/stretch.effect.desktop.in:4
 msgid "Stretch"
 msgstr "Raztegni"
 
-#: ../effects/stretch.effect.in.h:3
+#: effects/stretch.effect.desktop.in:5
 msgid "Stretches the center of the video"
-msgstr "Učinek razteganja sredine videa"
+msgstr "Raztegne središče videoposnetka"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#timedelay
+#: effects/timedelay.effect.desktop.in:4
+#, fuzzy
 msgid "Time delay"
-msgstr "Časovni zamik"
+msgstr "Časovni interval (zamik)"
 
-#: ../effects/timedelay.effect.in.h:3
+#: effects/timedelay.effect.desktop.in:5
+#, fuzzy
 msgid "Show what was happening in the past"
-msgstr "Pokaži dogajanje v preteklosti"
+msgstr "Pokaži, kaj se je dogajalo v preteklosti"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
-#: ../effects/twirl.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#twirl
+#: effects/twirl.effect.desktop.in:4
+#, fuzzy
 msgid "Twirl"
-msgstr "Vrtinčenje"
+msgstr "Zavrti: zasukajte sliko pod kazalcem"
 
-#: ../effects/twirl.effect.in.h:3
+#: effects/twirl.effect.desktop.in:5
+#, fuzzy
 msgid "Twirl the center of the video"
-msgstr "Učinek vrtinčenja sredine videa"
+msgstr "Zavrti: zasukajte sliko pod kazalcem"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#vertigotv
+#: effects/vertigotv.effect.desktop.in:4
 msgid "Vertigo"
-msgstr "Vertigo"
+msgstr "Vrtoglavica"
 
-#: ../effects/vertigotv.effect.in.h:3
+#: effects/vertigotv.effect.desktop.in:5
+#, fuzzy
 msgid "Add a loopback alpha blending effector with rotating and scaling"
-msgstr "Dodajanje zanke bledenja s kroženjem in spreminjanjem merila"
+msgstr "Dodajanje učinka mešanja alfa z vrtenjem in skaliranjem"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#warptv
+#: effects/warptv.effect.desktop.in:4
 msgid "Warp"
-msgstr "Warp"
+msgstr "Ukrivi"
 
-#: ../effects/warptv.effect.in.h:3
+#: effects/warptv.effect.desktop.in:5
+#, fuzzy
 msgid "Transform video input into realtime goo’ing"
-msgstr "Preoblikovanje vhodnega videa z učinkom gibanja."
+msgstr "Preoblikovanje vhodnega videoposnetka v realnem času v Goo'ing"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#xray
+#: effects/xray.effect.desktop.in:4
 msgid "X-Ray"
-msgstr "Modro žarčenje"
+msgstr "X-žarki"
 
-#: ../effects/xray.effect.in.h:3
+#: effects/xray.effect.desktop.in:5
 msgid "Invert and slightly shade to blue"
-msgstr "Obrne barve in senči z modrim"
+msgstr "Preobrnite in rahlo osenčite v modro barvo"
