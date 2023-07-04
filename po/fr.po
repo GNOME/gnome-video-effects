@@ -17,320 +17,330 @@ msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/"
 "issues\n"
-"POT-Creation-Date: 2018-06-10 17:17+0000\n"
-"PO-Revision-Date: 2018-11-11 22:22+0100\n"
-"Last-Translator: Charles Monzat <charles.monzat@numericable.fr>\n"
+"POT-Creation-Date: 2023-06-17 10:40+0000\n"
+"PO-Revision-Date: 2023-06-17 17:18+0200\n"
+"Last-Translator: Guillaume Bernard <associations@guillaume-bernard.fr>\n"
 "Language-Team: français <gnomefr@traduc.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Gtranslator 3.30.0\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
-#: ../effects/bulge.effect.in.h:2
+#: effects/bulge.effect.desktop.in:4
 msgid "Bulge"
 msgstr "Boursouflure"
 
-#: ../effects/bulge.effect.in.h:3
+#: effects/bulge.effect.desktop.in:5
 msgid "Bulges the center of the video"
 msgstr "Gonfle le centre de la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cartoon
-#: ../effects/cartoon.effect.in.h:2
+#: effects/cartoon.effect.desktop.in:4
 msgid "Cartoon"
 msgstr "Bande dessinée"
 
-#: ../effects/cartoon.effect.in.h:3
+#: effects/cartoon.effect.desktop.in:5
 msgid "Cartoonify video input"
 msgstr "Donne un effet de type bande dessinée à la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cheguevara
-#: ../effects/cheguevara.effect.in.h:2
+#: effects/cheguevara.effect.desktop.in:4
 msgid "Che Guevara"
 msgstr "Che Guevara"
 
-#: ../effects/cheguevara.effect.in.h:3
+#: effects/cheguevara.effect.desktop.in:5
 msgid "Transform video input into typical Che Guevara style"
 msgstr "Transforme la vidéo dans le style typique Che Guevara"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#chrome
-#: ../effects/chrome.effect.in.h:2
+#: effects/chrome.effect.desktop.in:4
 msgid "Chrome"
 msgstr "Chrome"
 
-#: ../effects/chrome.effect.in.h:3
+#: effects/chrome.effect.desktop.in:5
 msgid "Transform video input into a metallic look"
 msgstr "Applique à la vidéo un effet métallique"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#dicetv
-#: ../effects/dicetv.effect.in.h:2
+#: effects/dicetv.effect.desktop.in:4
 msgid "Dice"
 msgstr "En dés"
 
-#: ../effects/dicetv.effect.in.h:3
+#: effects/dicetv.effect.desktop.in:5
 msgid "Dices the video input into many small squares"
 msgstr "Fractionne la vidéo en une multitude de petits carrés (dés)"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:2
+#: effects/distortion.effect.desktop.in:4
 msgid "Distortion"
 msgstr "Déformation"
 
-#: ../effects/distortion.effect.in.h:3
+#: effects/distortion.effect.desktop.in:5
 msgid "Distort the video input"
 msgstr "Déforme la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:2
+#: effects/edgetv.effect.desktop.in:4
 msgid "Edge"
 msgstr "Contours"
 
-#: ../effects/edgetv.effect.in.h:3
+#: effects/edgetv.effect.desktop.in:5
 msgid "Display video input like good old low resolution computer way"
 msgstr "Affiche la vidéo comme sur les anciens écrans à faible définition"
 
-#: ../effects/flip.effect.in.h:1
+#: effects/flip.effect.desktop.in:3
 msgid "Flip"
 msgstr "Retourner"
 
-#: ../effects/flip.effect.in.h:2
+#: effects/flip.effect.desktop.in:4
 msgid "Flip the image, as if looking at a mirror"
 msgstr "Retourne l’image comme si elle était regardée dans un miroir"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:2
+#: effects/heat.effect.desktop.in:4
 msgid "Heat"
 msgstr "Chaleur"
 
-#: ../effects/heat.effect.in.h:3
+#: effects/heat.effect.desktop.in:5
 msgid "Fake heat camera toning"
 msgstr "Simule les couleurs d’une caméra thermique"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:2
+#: effects/historical.effect.desktop.in:4
 msgid "Historical"
 msgstr "Historique"
 
-#: ../effects/historical.effect.in.h:3
+#: effects/historical.effect.desktop.in:5
 msgid "Add age to video input using scratches and dust"
 msgstr ""
 "Vieillit la vidéo en y ajoutant des éraflures et des grains de poussière"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#hulk
-#: ../effects/hulk.effect.in.h:2
+#: effects/hulk.effect.desktop.in:4
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/hulk.effect.in.h:3
+#: effects/hulk.effect.desktop.in:5
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Transformez-vous à l’image de l’étonnant Hulk"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#inversion
-#: ../effects/inversion.effect.in.h:2
+#: effects/inversion.effect.desktop.in:4
 msgid "Inversion"
 msgstr "Inversion"
 
-#: ../effects/inversion.effect.in.h:3
+#: effects/inversion.effect.desktop.in:5
 msgid "Invert colors of the video input"
 msgstr "Inverse les couleurs de la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:2
+#: effects/kaleidoscope.effect.desktop.in:4
 msgid "Kaleidoscope"
 msgstr "Kaléidoscope"
 
-#: ../effects/kaleidoscope.effect.in.h:3
+#: effects/kaleidoscope.effect.desktop.in:5
 msgid "A triangle Kaleidoscope"
 msgstr "Un kaléidoscope triangulaire"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mauve
-#: ../effects/mauve.effect.in.h:2
+#: effects/mauve.effect.desktop.in:4
 msgid "Mauve"
 msgstr "Mauve"
 
-#: ../effects/mauve.effect.in.h:3
+#: effects/mauve.effect.desktop.in:5
 msgid "Transform video input into a mauve color"
 msgstr "Colore la vidéo en mauve"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mirror
-#: ../effects/mirror.effect.in.h:2
+#: effects/mirror.effect.desktop.in:4
 msgid "Mirror"
 msgstr "Miroir"
 
-#: ../effects/mirror.effect.in.h:3
+#: effects/mirror.effect.desktop.in:5
 msgid "Mirrors the video"
 msgstr "Ajoute un miroir à la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#noir
-#: ../effects/noir.effect.in.h:2
+#: effects/noir.effect.desktop.in:4
 msgid "Noir/Blanc"
 msgstr "Noir et blanc"
 
-#: ../effects/noir.effect.in.h:3
+#: effects/noir.effect.desktop.in:5
 msgid "Transform video input into grayscale"
 msgstr "Transforme la vidéo en niveaux de gris"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#optv
-#: ../effects/optv.effect.in.h:2
+#: effects/optv.effect.desktop.in:4
 msgid "Optical Illusion"
 msgstr "Illusion d’optique"
 
-#: ../effects/optv.effect.in.h:3
+#: effects/optv.effect.desktop.in:5
 msgid "Traditional black-white optical animation"
 msgstr "Animation optique classique avec des bandes en noir et blanc"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#pinch
-#: ../effects/pinch.effect.in.h:2
+#: effects/pinch.effect.desktop.in:4
 msgid "Pinch"
 msgstr "Pincement"
 
-#: ../effects/pinch.effect.in.h:3
+#: effects/pinch.effect.desktop.in:5
 msgid "Pinches the center of the video"
 msgstr "Pince le centre de la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:2
+#: effects/quarktv.effect.desktop.in:4
 msgid "Quark"
 msgstr "Quark"
 
-#: ../effects/quarktv.effect.in.h:3
+#: effects/quarktv.effect.desktop.in:5
 msgid "Dissolves moving objects in the video input"
 msgstr "Pixelise les objets en mouvement dans la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:2
+#: effects/radioactv.effect.desktop.in:4
 msgid "Radioactive"
 msgstr "Radioactif"
 
-#: ../effects/radioactv.effect.in.h:3
+#: effects/radioactv.effect.desktop.in:5
 msgid "Detect radioactivity and show it"
 msgstr "Détecte et affiche un effet de radioactivité"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:2
+#: effects/revtv.effect.desktop.in:4
 msgid "Waveform"
 msgstr "Ondes"
 
-#: ../effects/revtv.effect.in.h:3
+#: effects/revtv.effect.desktop.in:5
 msgid "Transform video input into a waveform monitor"
 msgstr "Transforme la vidéo en oscilloscope"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:2
+#: effects/ripple.effect.desktop.in:4
 msgid "Ripple"
 msgstr "Ondulations"
 
-#: ../effects/ripple.effect.in.h:3
+#: effects/ripple.effect.desktop.in:5
 msgid "Add the ripple mark effect on the video input"
 msgstr "Ajoute un effet de pluie à la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:2
+#: effects/saturation.effect.desktop.in:4
 msgid "Saturation"
 msgstr "Saturation"
 
-#: ../effects/saturation.effect.in.h:3
+#: effects/saturation.effect.desktop.in:5
 msgid "Add more saturation to the video input"
 msgstr "Augmente la saturation des couleurs de la vidéo"
 
+#: effects/scanlines.effect.desktop.in:3
+msgid "Scanlines"
+msgstr "Lignes de balayage"
+
+#: effects/scanlines.effect.desktop.in:4
+msgid "Interlace dark lines for a CRT TV look"
+msgstr ""
+"Entrelacer des lignes sombres pour obtenir l’aspect d’un téléviseur à tube "
+"cathodique"
+
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
-#: ../effects/sepia.effect.in.h:2
+#: effects/sepia.effect.desktop.in:4
 msgid "Sepia"
 msgstr "Sépia"
 
-#: ../effects/sepia.effect.in.h:3
+#: effects/sepia.effect.desktop.in:5
 msgid "Sepia toning"
 msgstr "Couleur sépia"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:2
+#: effects/shagadelictv.effect.desktop.in:4
 msgid "Shagadelic"
 msgstr "Psychédélique"
 
-#: ../effects/shagadelictv.effect.in.h:3
+#: effects/shagadelictv.effect.desktop.in:5
 msgid "Add some hallucination to the video input"
 msgstr "Ajoute des effets psychédéliques à la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:2
+#: effects/sobel.effect.desktop.in:4
 msgid "Sobel"
 msgstr "Sobel"
 
-#: ../effects/sobel.effect.in.h:3
+#: effects/sobel.effect.desktop.in:5
 msgid "Extracts edges in the video input through using the Sobel operator"
 msgstr "Extrait les contours de la vidéo avec l’algorithme Sobel"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:2
+#: effects/square.effect.desktop.in:4
 msgid "Square"
 msgstr "Carré"
 
-#: ../effects/square.effect.in.h:3
+#: effects/square.effect.desktop.in:5
 msgid "Makes a square out of the center of the video"
 msgstr "Met le centre de la vidéo au carré"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#streaktv
-#: ../effects/streaktv.effect.in.h:2
+#: effects/streaktv.effect.desktop.in:4
 msgid "Kung-Fu"
 msgstr "Kung-fu"
 
-#: ../effects/streaktv.effect.in.h:3
+#: effects/streaktv.effect.desktop.in:5
 msgid "Transform motions into Kung-Fu style"
 msgstr "Transforme les mouvements en style kung-fu"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#stretch
-#: ../effects/stretch.effect.in.h:2
+#: effects/stretch.effect.desktop.in:4
 msgid "Stretch"
 msgstr "Étirement"
 
-#: ../effects/stretch.effect.in.h:3
+#: effects/stretch.effect.desktop.in:5
 msgid "Stretches the center of the video"
 msgstr "Étire le centre de la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:2
+#: effects/timedelay.effect.desktop.in:4
 msgid "Time delay"
 msgstr "Délai temporel"
 
-#: ../effects/timedelay.effect.in.h:3
+#: effects/timedelay.effect.desktop.in:5
 msgid "Show what was happening in the past"
 msgstr "Affiche ce qui s’est produit dans le passé"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#twirl
-#: ../effects/twirl.effect.in.h:2
+#: effects/twirl.effect.desktop.in:4
 msgid "Twirl"
 msgstr "Enroulement"
 
-#: ../effects/twirl.effect.in.h:3
+#: effects/twirl.effect.desktop.in:5
 msgid "Twirl the center of the video"
 msgstr "Enroule le centre de la vidéo"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:2
+#: effects/vertigotv.effect.desktop.in:4
 msgid "Vertigo"
 msgstr "Vertigo"
 
-#: ../effects/vertigotv.effect.in.h:3
+#: effects/vertigotv.effect.desktop.in:5
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr ""
 "Ajoute un effet de fondu en transparence avec rotation et mise à l’échelle"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:2
+#: effects/warptv.effect.desktop.in:4
 msgid "Warp"
 msgstr "Torsion"
 
-#: ../effects/warptv.effect.in.h:3
+#: effects/warptv.effect.desktop.in:5
 msgid "Transform video input into realtime goo’ing"
 msgstr "Déforme la vidéo à l’aide d’un contra-zoom temps réel"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:2
+#: effects/xray.effect.desktop.in:4
 msgid "X-Ray"
 msgstr "Rayon X"
 
-#: ../effects/xray.effect.in.h:3
+#: effects/xray.effect.desktop.in:5
 msgid "Invert and slightly shade to blue"
 msgstr "Met en négatif légèrement teinté de bleu"
