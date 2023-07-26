@@ -1,334 +1,340 @@
-# Translation of gnome-video-effects to Hungarian
-# Copyright (C) 2008, 2009, 2010, 2011, 2012 Free Software Foundation, Inc.
+# Hungarian translation for gnome-video-effects.
+# Copyright (C) 2008, 2009, 2010, 2011, 2012, 2014, 2023 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-video-effects package.
 #
 # Adam Pongracz <pongadam at gmail dot com>, 2008.
 # Mate Ory <orymate at gmail dot com>, 2008.
 # Gabor Kelemen <kelemeng at gnome dot hu>, 2008, 2009, 2010, 2011, 2012.
-# Balázs Úr <urbalazs@gmail.com>, 2014.
+# Balázs Úr <ur.balazs at fsf dot hu>, 2014, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-09-09 20:17+0000\n"
-"PO-Revision-Date: 2014-09-10 00:14+0200\n"
-"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
-"Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/issue"
+"s\n"
+"POT-Creation-Date: 2023-06-17 10:40+0000\n"
+"PO-Revision-Date: 2023-07-26 01:58+0200\n"
+"Last-Translator: Balázs Úr <ur.balazs at fsf dot hu>\n"
+"Language-Team: Hungarian <openscope at fsf dot hu>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.2\n"
+"X-Generator: Lokalize 23.04.1\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
-#: ../effects/bulge.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
+#: effects/bulge.effect.desktop.in:4
 msgid "Bulge"
 msgstr "Dudor"
 
-#: ../effects/bulge.effect.in.h:3
+#: effects/bulge.effect.desktop.in:5
 msgid "Bulges the center of the video"
 msgstr "A videó közepének kidomborítása"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
-#: ../effects/cartoon.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cartoon
+#: effects/cartoon.effect.desktop.in:4
 msgid "Cartoon"
 msgstr "Rajzfilm"
 
-#: ../effects/cartoon.effect.in.h:3
+#: effects/cartoon.effect.desktop.in:5
 msgid "Cartoonify video input"
 msgstr "Videobemenet rajzfilmesítése"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
-#: ../effects/cheguevara.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cheguevara
+#: effects/cheguevara.effect.desktop.in:4
 msgid "Che Guevara"
 msgstr "Che Guevara"
 
-#: ../effects/cheguevara.effect.in.h:3
+#: effects/cheguevara.effect.desktop.in:5
 msgid "Transform video input into typical Che Guevara style"
 msgstr "Videobemenet átalakítása tipikus Che Guevara stílusba"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
-#: ../effects/chrome.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#chrome
+#: effects/chrome.effect.desktop.in:4
 msgid "Chrome"
 msgstr "Króm"
 
-#: ../effects/chrome.effect.in.h:3
+#: effects/chrome.effect.desktop.in:5
 msgid "Transform video input into a metallic look"
 msgstr "Videobemenet átalakítása fémes megjelenésre"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
-#: ../effects/dicetv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#dicetv
+#: effects/dicetv.effect.desktop.in:4
 msgid "Dice"
 msgstr "Kockák"
 
-#: ../effects/dicetv.effect.in.h:3
+#: effects/dicetv.effect.desktop.in:5
 msgid "Dices the video input into many small squares"
 msgstr "A videobemenet felosztása sok kis négyzetre"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#distortion
+#: effects/distortion.effect.desktop.in:4
 msgid "Distortion"
 msgstr "Torzítás"
 
-#: ../effects/distortion.effect.in.h:3
+#: effects/distortion.effect.desktop.in:5
 msgid "Distort the video input"
 msgstr "A videobemenet torzítása"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#edgetv
+#: effects/edgetv.effect.desktop.in:4
 msgid "Edge"
 msgstr "Élek"
 
-#: ../effects/edgetv.effect.in.h:3
+#: effects/edgetv.effect.desktop.in:5
 msgid "Display video input like good old low resolution computer way"
 msgstr ""
 "Videobemenet megjelenítése a régi alacsony felbontású számítógépekhez "
 "hasonlóan"
 
-#: ../effects/flip.effect.in.h:1
+#: effects/flip.effect.desktop.in:3
 msgid "Flip"
 msgstr "Tükrözés"
 
-#: ../effects/flip.effect.in.h:2
+#: effects/flip.effect.desktop.in:4
 msgid "Flip the image, as if looking at a mirror"
 msgstr "Kép tükrözése, mint ha tükör előtt állna"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#heat
+#: effects/heat.effect.desktop.in:4
 msgid "Heat"
 msgstr "Hő"
 
-#: ../effects/heat.effect.in.h:3
+#: effects/heat.effect.desktop.in:5
 msgid "Fake heat camera toning"
 msgstr "Hamis hőkamera-színezés"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#historical
+#: effects/historical.effect.desktop.in:4
 msgid "Historical"
 msgstr "Régi"
 
-#: ../effects/historical.effect.in.h:3
+#: effects/historical.effect.desktop.in:5
 msgid "Add age to video input using scratches and dust"
 msgstr "A videobemenet öregítése karcolások és por hozzáadásával"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
-#: ../effects/hulk.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#hulk
+#: effects/hulk.effect.desktop.in:4
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/hulk.effect.in.h:3
+#: effects/hulk.effect.desktop.in:5
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Alakítsa magát a hihetetlen Hulkká"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
-#: ../effects/inversion.effect.in.h:2
-#| msgid "Invertion"
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#inversion
+#: effects/inversion.effect.desktop.in:4
 msgid "Inversion"
 msgstr "Inverzió"
 
-#: ../effects/inversion.effect.in.h:3
+#: effects/inversion.effect.desktop.in:5
 msgid "Invert colors of the video input"
 msgstr "A videobemenet színeinek invertálása"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#kaleidoscope
+#: effects/kaleidoscope.effect.desktop.in:4
 msgid "Kaleidoscope"
 msgstr "Kaleidoszkóp"
 
-#: ../effects/kaleidoscope.effect.in.h:3
+#: effects/kaleidoscope.effect.desktop.in:5
 msgid "A triangle Kaleidoscope"
 msgstr "Háromszög kaleidoszkóp"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
-#: ../effects/mauve.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mauve
+#: effects/mauve.effect.desktop.in:4
 msgid "Mauve"
 msgstr "Mályva"
 
-#: ../effects/mauve.effect.in.h:3
+#: effects/mauve.effect.desktop.in:5
 msgid "Transform video input into a mauve color"
 msgstr "A videobemenet mályvaszínűvé alakítása"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
-#: ../effects/mirror.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mirror
+#: effects/mirror.effect.desktop.in:4
 msgid "Mirror"
 msgstr "Tükrözés"
 
-#: ../effects/mirror.effect.in.h:3
+#: effects/mirror.effect.desktop.in:5
 msgid "Mirrors the video"
 msgstr "A videobemenet tükrözése"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
-#: ../effects/noir.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#noir
+#: effects/noir.effect.desktop.in:4
 msgid "Noir/Blanc"
 msgstr "Szürkeárnyalatos"
 
-#: ../effects/noir.effect.in.h:3
+#: effects/noir.effect.desktop.in:5
 msgid "Transform video input into grayscale"
 msgstr "A videobemenet szürkeárnyalatossá alakítása"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
-#: ../effects/optv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#optv
+#: effects/optv.effect.desktop.in:4
 msgid "Optical Illusion"
 msgstr "Optikai illúzió"
 
-#: ../effects/optv.effect.in.h:3
+#: effects/optv.effect.desktop.in:5
 msgid "Traditional black-white optical animation"
 msgstr "Hagyományos fekete-fehér optikai animáció"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
-#: ../effects/pinch.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#pinch
+#: effects/pinch.effect.desktop.in:4
 msgid "Pinch"
 msgstr "Csípés"
 
-#: ../effects/pinch.effect.in.h:3
+#: effects/pinch.effect.desktop.in:5
 msgid "Pinches the center of the video"
 msgstr "A videó közepének összehúzása"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#quarktv
+#: effects/quarktv.effect.desktop.in:4
 msgid "Quark"
 msgstr "Kvark"
 
-#: ../effects/quarktv.effect.in.h:3
+#: effects/quarktv.effect.desktop.in:5
 msgid "Dissolves moving objects in the video input"
 msgstr "A videobemenet mozgó objektumainak feloldása"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#radioactv
+#: effects/radioactv.effect.desktop.in:4
 msgid "Radioactive"
 msgstr "Radioaktív"
 
-#: ../effects/radioactv.effect.in.h:3
+#: effects/radioactv.effect.desktop.in:5
 msgid "Detect radioactivity and show it"
 msgstr "Radioaktivitás „észlelése” és megjelenítése"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#revtv
+#: effects/revtv.effect.desktop.in:4
 msgid "Waveform"
 msgstr "Hullámforma"
 
-#: ../effects/revtv.effect.in.h:3
+#: effects/revtv.effect.desktop.in:5
 msgid "Transform video input into a waveform monitor"
 msgstr "Videobemenet átalakítása hullámforma-monitorrá"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#ripple
+#: effects/ripple.effect.desktop.in:4
 msgid "Ripple"
 msgstr "Hullám"
 
-#: ../effects/ripple.effect.in.h:3
+#: effects/ripple.effect.desktop.in:5
 msgid "Add the ripple mark effect on the video input"
 msgstr "Hullám effektus hozzáadása a videobemenethez"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#saturation
+#: effects/saturation.effect.desktop.in:4
 msgid "Saturation"
 msgstr "Telítettség"
 
-#: ../effects/saturation.effect.in.h:3
+#: effects/saturation.effect.desktop.in:5
 msgid "Add more saturation to the video input"
 msgstr "A videobemenet telítettségének megnövelése"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
-#: ../effects/sepia.effect.in.h:2
+#: effects/scanlines.effect.desktop.in:3
+msgid "Scanlines"
+msgstr "Pásztázási sorok"
+
+#: effects/scanlines.effect.desktop.in:4
+msgid "Interlace dark lines for a CRT TV look"
+msgstr "Sötét sorok váltottsoros megjelenítése egy CRT TV kinézetéhez"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
+#: effects/sepia.effect.desktop.in:4
 msgid "Sepia"
 msgstr "Szépia"
 
-#: ../effects/sepia.effect.in.h:3
+#: effects/sepia.effect.desktop.in:5
 msgid "Sepia toning"
 msgstr "Szépia színezés"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#shagadelictv
+#: effects/shagadelictv.effect.desktop.in:4
 msgid "Shagadelic"
 msgstr "Pszichedelikus"
 
-#: ../effects/shagadelictv.effect.in.h:3
+#: effects/shagadelictv.effect.desktop.in:5
 msgid "Add some hallucination to the video input"
 msgstr "Némi hallucináció a videobemenetre"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sobel
+#: effects/sobel.effect.desktop.in:4
 msgid "Sobel"
 msgstr "Sobel"
 
-#: ../effects/sobel.effect.in.h:3
+#: effects/sobel.effect.desktop.in:5
 msgid "Extracts edges in the video input through using the Sobel operator"
 msgstr "A videobemenet éleinek kinyerése a Sobel operátor használatával"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#square
+#: effects/square.effect.desktop.in:4
 msgid "Square"
 msgstr "Négyzet"
 
-#: ../effects/square.effect.in.h:3
+#: effects/square.effect.desktop.in:5
 msgid "Makes a square out of the center of the video"
 msgstr "A videó közepének négyszögesítése"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
-#: ../effects/streaktv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#streaktv
+#: effects/streaktv.effect.desktop.in:4
 msgid "Kung-Fu"
 msgstr "Kung-Fu"
 
-#: ../effects/streaktv.effect.in.h:3
+#: effects/streaktv.effect.desktop.in:5
 msgid "Transform motions into Kung-Fu style"
 msgstr "A mozgásokat kung-fu stílusúvá alakítja"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
-#: ../effects/stretch.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#stretch
+#: effects/stretch.effect.desktop.in:4
 msgid "Stretch"
 msgstr "Nyújtás"
 
-#: ../effects/stretch.effect.in.h:3
+#: effects/stretch.effect.desktop.in:5
 msgid "Stretches the center of the video"
 msgstr "Megnyújtja a videó közepét"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#timedelay
+#: effects/timedelay.effect.desktop.in:4
 msgid "Time delay"
 msgstr "Késleltetés"
 
-#: ../effects/timedelay.effect.in.h:3
+#: effects/timedelay.effect.desktop.in:5
 msgid "Show what was happening in the past"
 msgstr "A múltbeli történések megjelenítése"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
-#: ../effects/twirl.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#twirl
+#: effects/twirl.effect.desktop.in:4
 msgid "Twirl"
 msgstr "Örvény"
 
-#: ../effects/twirl.effect.in.h:3
+#: effects/twirl.effect.desktop.in:5
 msgid "Twirl the center of the video"
 msgstr "A videó közepének megcsavarása"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#vertigotv
+#: effects/vertigotv.effect.desktop.in:4
 msgid "Vertigo"
 msgstr "Elmosás"
 
-#: ../effects/vertigotv.effect.in.h:3
+#: effects/vertigotv.effect.desktop.in:5
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr ""
 "Önmagába csavarodó alfa elmosás effektus hozzáadása forgatással és "
 "méretezéssel"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#warptv
+#: effects/warptv.effect.desktop.in:4
 msgid "Warp"
 msgstr "Görbítés"
 
-#: ../effects/warptv.effect.in.h:3
+#: effects/warptv.effect.desktop.in:5
 msgid "Transform video input into realtime goo’ing"
 msgstr "Videobemenet átalakítása valós idejű görbítéssel"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#xray
+#: effects/xray.effect.desktop.in:4
 msgid "X-Ray"
 msgstr "Röntgen"
 
-#: ../effects/xray.effect.in.h:3
+#: effects/xray.effect.desktop.in:5
 msgid "Invert and slightly shade to blue"
 msgstr "Invertálás és enyhe kék árnyalás"
-
