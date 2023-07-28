@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/"
 "issues\n"
-"POT-Creation-Date: 2023-06-23 21:17+0000\n"
-"PO-Revision-Date: 2023-06-25 08:34+0200\n"
+"POT-Creation-Date: 2023-06-25 06:35+0000\n"
+"PO-Revision-Date: 2023-07-28 17:49+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: \n"
 "Language: sl\n"
@@ -35,7 +35,6 @@ msgid "Cartoon"
 msgstr "Strip"
 
 #: effects/cartoon.effect.desktop.in:5
-#, fuzzy
 msgid "Cartoonify video input"
 msgstr "Video vhod kot strip"
 
@@ -54,18 +53,15 @@ msgid "Chrome"
 msgstr "Krom"
 
 #: effects/chrome.effect.desktop.in:5
-#, fuzzy
 msgid "Transform video input into a metallic look"
 msgstr "Preoblikuje video vhod v metalen videz"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#dicetv
 #: effects/dicetv.effect.desktop.in:4
-#, fuzzy
 msgid "Dice"
 msgstr "Razkockaj"
 
 #: effects/dicetv.effect.desktop.in:5
-#, fuzzy
 msgid "Dices the video input into many small squares"
 msgstr "Vhodni videoposnetek razreže na veliko majhnih kvadratkov"
 
@@ -102,7 +98,6 @@ msgid "Heat"
 msgstr "Vročina"
 
 #: effects/heat.effect.desktop.in:5
-#, fuzzy
 msgid "Fake heat camera toning"
 msgstr "Toniranje z lažno toplotno kamero"
 
@@ -112,7 +107,6 @@ msgid "Historical"
 msgstr "Zgodovinsko"
 
 #: effects/historical.effect.desktop.in:5
-#, fuzzy
 msgid "Add age to video input using scratches and dust"
 msgstr "Doda starost vhodnemu videoposnetku z uporabo prask in prahu"
 
@@ -145,12 +139,10 @@ msgstr "Trikotni kalejdoskop"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mauve
 #: effects/mauve.effect.desktop.in:4
-#, fuzzy
 msgid "Mauve"
 msgstr "Vijolično"
 
 #: effects/mauve.effect.desktop.in:5
-#, fuzzy
 msgid "Transform video input into a mauve color"
 msgstr "Preoblikuje video vhod v vijolično barvo"
 
@@ -165,12 +157,10 @@ msgstr "Zrcali video"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#noir
 #: effects/noir.effect.desktop.in:4
-#, fuzzy
 msgid "Noir/Blanc"
 msgstr "Črno-belo"
 
 #: effects/noir.effect.desktop.in:5
-#, fuzzy
 msgid "Transform video input into grayscale"
 msgstr "Preoblikuje video vhod v sivinske odtenke"
 
@@ -189,20 +179,17 @@ msgid "Pinch"
 msgstr "Priščipni"
 
 #: effects/pinch.effect.desktop.in:5
-#, fuzzy
 msgid "Pinches the center of the video"
 msgstr "Izboči sredino videa"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#quarktv
 #: effects/quarktv.effect.desktop.in:4
-#, fuzzy
 msgid "Quark"
 msgstr "Kvark"
 
 #: effects/quarktv.effect.desktop.in:5
-#, fuzzy
 msgid "Dissolves moving objects in the video input"
-msgstr "Raztopi premikajoče se predmete v vhodnem videoposnetku"
+msgstr "Prelije premikajoče se predmete v vhodnem videoposnetku"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#radioactv
 #: effects/radioactv.effect.desktop.in:4
@@ -219,9 +206,8 @@ msgid "Waveform"
 msgstr "Oblika signala"
 
 #: effects/revtv.effect.desktop.in:5
-#, fuzzy
 msgid "Transform video input into a waveform monitor"
-msgstr "Spremeni vhodni video v ogled zvočnega signala"
+msgstr "Spremeni vhodni video v obliko zvočnega signala"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#ripple
 #: effects/ripple.effect.desktop.in:4
@@ -229,7 +215,6 @@ msgid "Ripple"
 msgstr "Izrivanje"
 
 #: effects/ripple.effect.desktop.in:5
-#, fuzzy
 msgid "Add the ripple mark effect on the video input"
 msgstr "Doda učinek valovanja na video vhod"
 
@@ -239,17 +224,14 @@ msgid "Saturation"
 msgstr "Nasičenost"
 
 #: effects/saturation.effect.desktop.in:5
-#, fuzzy
 msgid "Add more saturation to the video input"
 msgstr "Doda več nasičenosti vhodnemu videu"
 
 #: effects/scanlines.effect.desktop.in:3
-#, fuzzy
 msgid "Scanlines"
 msgstr "Vodoravne črte"
 
 #: effects/scanlines.effect.desktop.in:4
-#, fuzzy
 msgid "Interlace dark lines for a CRT TV look"
 msgstr "Prepleta temne črte za videz televizorja s katodno cevjo"
 
@@ -259,7 +241,6 @@ msgid "Sepia"
 msgstr "Sepija"
 
 #: effects/sepia.effect.desktop.in:5
-#, fuzzy
 msgid "Sepia toning"
 msgstr "Toniranje v sepijo"
 
@@ -310,23 +291,19 @@ msgstr "Raztegne središče videoposnetka"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#timedelay
 #: effects/timedelay.effect.desktop.in:4
-#, fuzzy
 msgid "Time delay"
 msgstr "Časovni interval (zamik)"
 
 #: effects/timedelay.effect.desktop.in:5
-#, fuzzy
 msgid "Show what was happening in the past"
 msgstr "Pokaže, kaj se je dogajalo v preteklosti"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#twirl
 #: effects/twirl.effect.desktop.in:4
-#, fuzzy
 msgid "Twirl"
 msgstr "Vrtinec"
 
 #: effects/twirl.effect.desktop.in:5
-#, fuzzy
 msgid "Twirl the center of the video"
 msgstr "Zavrti sredino videa"
 
@@ -336,7 +313,6 @@ msgid "Vertigo"
 msgstr "Vrtoglavica"
 
 #: effects/vertigotv.effect.desktop.in:5
-#, fuzzy
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr "Dodaj zankan učinek mešanja alfe z vrtenjem in skaliranjem"
 
@@ -346,9 +322,8 @@ msgid "Warp"
 msgstr "Ukrivi"
 
 #: effects/warptv.effect.desktop.in:5
-#, fuzzy
 msgid "Transform video input into realtime goo’ing"
-msgstr "Preoblikuj vhodni videoposnetek v lepljivega/viskoznega v realnem času"
+msgstr "Preoblikuj vhodni videoposnetek v viskoznega v realnem času"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#xray
 #: effects/xray.effect.desktop.in:4
