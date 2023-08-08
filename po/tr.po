@@ -1,6 +1,6 @@
 # Turkish translation for gnome-video-effects.
 # Copyright (C) 2008, 2009, 2011 the Free Software Foundation, Inc.
-# Copyright (C) 2012-2022 gnome-video-effects's COPYRIGHT HOLDER
+# Copyright (C) 2012-2023 gnome-video-effects's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-video-effects package.
 #
 # Baris Cicek <baris@teamforce.name.tr>, 2008, 2009.
@@ -12,16 +12,16 @@ msgstr ""
 "Project-Id-Version: cheese\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/"
 "issues\n"
-"POT-Creation-Date: 2022-08-15 18:31+0000\n"
-"PO-Revision-Date: 2014-12-07 00:21+0200\n"
-"Last-Translator: Muhammet Kara <muhammetk@gmail.com>\n"
-"Language-Team: Türkçe <gnome-turk@gnome.org>\n"
+"POT-Creation-Date: 2023-06-17 10:40+0000\n"
+"PO-Revision-Date: 2023-07-10 22:38+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
+"Language-Team: Türkçe <takim@gnome.org.tr>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
 #: effects/bulge.effect.desktop.in:4
@@ -228,6 +228,14 @@ msgstr "Doygunluk"
 #: effects/saturation.effect.desktop.in:5
 msgid "Add more saturation to the video input"
 msgstr "Video girdisine daha çok doygunluk ekle"
+
+#: effects/scanlines.effect.desktop.in:3
+msgid "Scanlines"
+msgstr "Tarama çizgileri"
+
+#: effects/scanlines.effect.desktop.in:4
+msgid "Interlace dark lines for a CRT TV look"
+msgstr "Tüplü TV görünümü için birleşik koyu çizgiler"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
 #: effects/sepia.effect.desktop.in:4
