@@ -9,7 +9,9 @@
   <description>A collection of GStreamer effects to be used in different GNOME Modules</description>
   <programming-language>Desktop Entry</programming-language>
   <homepage rdf:resource="https://wiki.gnome.org/Projects/GnomeVideoEffects" />
-  <mailing-list rdf:resource="http://mail.gnome.org/mailman/listinfo/cheese-list" />
+  <support-forum rdf:resource="https://discourse.gnome.org/" />
+  <developer-forum rdf:resource="https://discourse.gnome.org/c/platform/5" />
+  <download-page rdf:resource="https://download.gnome.org/sources/gnome-video-effects/" />
   <bug-database rdf:resource="https://gitlab.gnome.org/GNOME/gnome-video-effects/issues/" />
   <category rdf:resource="http://api.gnome.org/doap-extensions#core" />
 
