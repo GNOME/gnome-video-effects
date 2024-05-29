@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/"
 "issues\n"
-"POT-Creation-Date: 2020-10-09 07:45+0000\n"
-"PO-Revision-Date: 2021-03-31 00:00+0300\n"
+"POT-Creation-Date: 2023-06-17 10:40+0000\n"
+"PO-Revision-Date: 2024-05-29 14:26+0300\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: he\n"
 "Language: he\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
 #: effects/bulge.effect.desktop.in:4
@@ -224,6 +224,14 @@ msgstr "רוויה"
 #: effects/saturation.effect.desktop.in:5
 msgid "Add more saturation to the video input"
 msgstr "הוספת רוויה נוספת לקלט הווידאו"
+
+#: effects/scanlines.effect.desktop.in:3
+msgid "Scanlines"
+msgstr "קווי סריקה"
+
+#: effects/scanlines.effect.desktop.in:4
+msgid "Interlace dark lines for a CRT TV look"
+msgstr "קווים כהים שזורים למראה טלוויזיה ישנה (CRT)"
 
 #. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
 #: effects/sepia.effect.desktop.in:4
