@@ -12,10 +12,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cheese\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-09-06 08:18+0000\n"
-"PO-Revision-Date: 2014-09-06 16:23+0300\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-video-effects/"
+"issues/\n"
+"POT-Creation-Date: 2024-08-28 16:04+0000\n"
+"PO-Revision-Date: 2025-03-02 12:19+0200\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>\n"
 "Language-Team: suomi <gnome-fi-laatu@lists.sourceforge.net>\n"
 "Language: fi\n"
@@ -24,312 +24,319 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-POT-Import-Date: 2012-02-19 15:25:16+0000\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 3.4.4\n"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
-#: ../effects/bulge.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#bulge
+#: effects/bulge.effect.desktop.in:4
 msgid "Bulge"
 msgstr "pullotus"
 
-#: ../effects/bulge.effect.in.h:3
+#: effects/bulge.effect.desktop.in:5
 msgid "Bulges the center of the video"
 msgstr "Pullottaa videon keskiosan"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cartoon
-#: ../effects/cartoon.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cartoon
+#: effects/cartoon.effect.desktop.in:4
 msgid "Cartoon"
 msgstr "piirros"
 
-#: ../effects/cartoon.effect.in.h:3
+#: effects/cartoon.effect.desktop.in:5
 msgid "Cartoonify video input"
 msgstr "Muuttaa videosyötteen piirretyn näköiseksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#cheguevara
-#: ../effects/cheguevara.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#cheguevara
+#: effects/cheguevara.effect.desktop.in:4
 msgid "Che Guevara"
 msgstr "Che Guevara"
 
-#: ../effects/cheguevara.effect.in.h:3
+#: effects/cheguevara.effect.desktop.in:5
 msgid "Transform video input into typical Che Guevara style"
 msgstr "Muuttaa videosyötteen tyypilliseksi Che Guevara -tyyliksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#chrome
-#: ../effects/chrome.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#chrome
+#: effects/chrome.effect.desktop.in:4
 msgid "Chrome"
 msgstr "kromi"
 
-#: ../effects/chrome.effect.in.h:3
+#: effects/chrome.effect.desktop.in:5
 msgid "Transform video input into a metallic look"
 msgstr "Muuttaa videosyötteen metallisen näköiseksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
-#: ../effects/dicetv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#dicetv
+#: effects/dicetv.effect.desktop.in:4
 msgid "Dice"
 msgstr "kuutio"
 
-#: ../effects/dicetv.effect.in.h:3
+#: effects/dicetv.effect.desktop.in:5
 msgid "Dices the video input into many small squares"
 msgstr "Kuutioi videosyöte moniin pieniin neliöihin"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
-#: ../effects/distortion.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#distortion
+#: effects/distortion.effect.desktop.in:4
 msgid "Distortion"
 msgstr "vääristys"
 
-#: ../effects/distortion.effect.in.h:3
+#: effects/distortion.effect.desktop.in:5
 msgid "Distort the video input"
 msgstr "Vääristä videosyöte"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
-#: ../effects/edgetv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#edgetv
+#: effects/edgetv.effect.desktop.in:4
 msgid "Edge"
 msgstr "reuna"
 
-#: ../effects/edgetv.effect.in.h:3
+#: effects/edgetv.effect.desktop.in:5
 msgid "Display video input like good old low resolution computer way"
 msgstr ""
 "Näytä videosyöte kuten vanhaan aikaan matalan resoluution tietokoneissa"
 
-#: ../effects/flip.effect.in.h:1
+#: effects/flip.effect.desktop.in:3
 msgid "Flip"
 msgstr "peilaus"
 
-#: ../effects/flip.effect.in.h:2
+#: effects/flip.effect.desktop.in:4
 msgid "Flip the image, as if looking at a mirror"
 msgstr "Peilaa kuvan niin kuin sitä katsottaisiin peilistä"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#heat
-#: ../effects/heat.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#heat
+#: effects/heat.effect.desktop.in:4
 msgid "Heat"
 msgstr "lämpö"
 
-#: ../effects/heat.effect.in.h:3
+#: effects/heat.effect.desktop.in:5
 msgid "Fake heat camera toning"
 msgstr "Imitoi lämpökameran sävyjä"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#historical
-#: ../effects/historical.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#historical
+#: effects/historical.effect.desktop.in:4
 msgid "Historical"
 msgstr "historiallinen"
 
-#: ../effects/historical.effect.in.h:3
+#: effects/historical.effect.desktop.in:5
 msgid "Add age to video input using scratches and dust"
 msgstr "Tee videosyötteestä vanhemman näköinen naarmuilla ja pölyllä"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#hulk
-#: ../effects/hulk.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#hulk
+#: effects/hulk.effect.desktop.in:4
 msgid "Hulk"
 msgstr "Hulk"
 
-#: ../effects/hulk.effect.in.h:3
+#: effects/hulk.effect.desktop.in:5
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Muunna itsesi hämmästyttäväksi Hulkiksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
-#: ../effects/inversion.effect.in.h:2
-#| msgid "Invertion"
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#inversion
+#: effects/inversion.effect.desktop.in:4
 msgid "Inversion"
 msgstr "käänteisvärit"
 
-#: ../effects/inversion.effect.in.h:3
+#: effects/inversion.effect.desktop.in:5
 msgid "Invert colors of the video input"
 msgstr "Vaihda käänteisvärit videosyötteeseen"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
-#: ../effects/kaleidoscope.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#kaleidoscope
+#: effects/kaleidoscope.effect.desktop.in:4
 msgid "Kaleidoscope"
 msgstr "kaleidoskooppi"
 
-#: ../effects/kaleidoscope.effect.in.h:3
+#: effects/kaleidoscope.effect.desktop.in:5
 msgid "A triangle Kaleidoscope"
 msgstr "Kolmiokaleidoskooppi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
-#: ../effects/mauve.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mauve
+#: effects/mauve.effect.desktop.in:4
 msgid "Mauve"
 msgstr "malva"
 
-#: ../effects/mauve.effect.in.h:3
+#: effects/mauve.effect.desktop.in:5
 msgid "Transform video input into a mauve color"
 msgstr "Muuttaa videosyötteen malvanväriseksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
-#: ../effects/mirror.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#mirror
+#: effects/mirror.effect.desktop.in:4
 msgid "Mirror"
 msgstr "peili"
 
-#: ../effects/mirror.effect.in.h:3
+#: effects/mirror.effect.desktop.in:5
 msgid "Mirrors the video"
 msgstr "Peilaa videon"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#noir
-#: ../effects/noir.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#noir
+#: effects/noir.effect.desktop.in:4
 msgid "Noir/Blanc"
 msgstr "mustavalkoinen"
 
-#: ../effects/noir.effect.in.h:3
+#: effects/noir.effect.desktop.in:5
 msgid "Transform video input into grayscale"
 msgstr "Muuttaa videosyötteen harmaasävyiksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#optv
-#: ../effects/optv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#optv
+#: effects/optv.effect.desktop.in:4
 msgid "Optical Illusion"
 msgstr "optinen illuusio"
 
-#: ../effects/optv.effect.in.h:3
+#: effects/optv.effect.desktop.in:5
 msgid "Traditional black-white optical animation"
 msgstr "Perinteinen mustavalkoinen optinen animaatio"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#pinch
-#: ../effects/pinch.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#pinch
+#: effects/pinch.effect.desktop.in:4
 msgid "Pinch"
 msgstr "nipistys"
 
-#: ../effects/pinch.effect.in.h:3
+#: effects/pinch.effect.desktop.in:5
 msgid "Pinches the center of the video"
 msgstr "Nipistää videon keskiosan"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#quarktv
-#: ../effects/quarktv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#quarktv
+#: effects/quarktv.effect.desktop.in:4
 msgid "Quark"
 msgstr "rahka"
 
-#: ../effects/quarktv.effect.in.h:3
+#: effects/quarktv.effect.desktop.in:5
 msgid "Dissolves moving objects in the video input"
 msgstr "Hajota liikkuvat esineet videosyötteessä"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
-#: ../effects/radioactv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#radioactv
+#: effects/radioactv.effect.desktop.in:4
 msgid "Radioactive"
 msgstr "radioaktiivinen"
 
-#: ../effects/radioactv.effect.in.h:3
+#: effects/radioactv.effect.desktop.in:5
 msgid "Detect radioactivity and show it"
 msgstr "Tunnista radioaktiivisuus ja näytä se"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#revtv
-#: ../effects/revtv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#revtv
+#: effects/revtv.effect.desktop.in:4
 msgid "Waveform"
 msgstr "aaltomuoto"
 
-#: ../effects/revtv.effect.in.h:3
+#: effects/revtv.effect.desktop.in:5
 msgid "Transform video input into a waveform monitor"
 msgstr "Muuttaa videosyötteen aaltomuotomonitoriksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#ripple
-#: ../effects/ripple.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#ripple
+#: effects/ripple.effect.desktop.in:4
 msgid "Ripple"
 msgstr "väre"
 
-#: ../effects/ripple.effect.in.h:3
+#: effects/ripple.effect.desktop.in:5
 msgid "Add the ripple mark effect on the video input"
 msgstr "Lisää väreilyefekti videosyötteeseen"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#saturation
-#: ../effects/saturation.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#saturation
+#: effects/saturation.effect.desktop.in:4
 msgid "Saturation"
 msgstr "värikylläisyys"
 
-#: ../effects/saturation.effect.in.h:3
+#: effects/saturation.effect.desktop.in:5
 msgid "Add more saturation to the video input"
 msgstr "Lisää enemmän värikylläisyyttä videosyötteeseen"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sepia
-#: ../effects/sepia.effect.in.h:2
+#: effects/scanlines.effect.desktop.in:3
+msgid "Scanlines"
+msgstr "juovat"
+
+#: effects/scanlines.effect.desktop.in:4
+msgid "Interlace dark lines for a CRT TV look"
+msgstr "Limittäiset tummat viivat CRT-televisiota tyylitellen"
+
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sepia
+#: effects/sepia.effect.desktop.in:4
 msgid "Sepia"
 msgstr "seepia"
 
-#: ../effects/sepia.effect.in.h:3
+#: effects/sepia.effect.desktop.in:5
 msgid "Sepia toning"
 msgstr "Seepiasävytys"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#shagadelictv
-#: ../effects/shagadelictv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#shagadelictv
+#: effects/shagadelictv.effect.desktop.in:4
 msgid "Shagadelic"
 msgstr "shagadeelinen"
 
-#: ../effects/shagadelictv.effect.in.h:3
+#: effects/shagadelictv.effect.desktop.in:5
 msgid "Add some hallucination to the video input"
 msgstr "Lisää joitain hallusinaatioita videosyötteeseen"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#sobel
-#: ../effects/sobel.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#sobel
+#: effects/sobel.effect.desktop.in:4
 msgid "Sobel"
 msgstr "Sobel"
 
-#: ../effects/sobel.effect.in.h:3
+#: effects/sobel.effect.desktop.in:5
 msgid "Extracts edges in the video input through using the Sobel operator"
 msgstr "Erottelee reunat videosyötteessä Sobel-operaattoria käyttäen"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
-#: ../effects/square.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#square
+#: effects/square.effect.desktop.in:4
 msgid "Square"
 msgstr "neliö"
 
-#: ../effects/square.effect.in.h:3
+#: effects/square.effect.desktop.in:5
 msgid "Makes a square out of the center of the video"
 msgstr "Tekee videon keskiosasta neliön"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
-#: ../effects/streaktv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#streaktv
+#: effects/streaktv.effect.desktop.in:4
 msgid "Kung-Fu"
 msgstr "Kung-Fu"
 
-#: ../effects/streaktv.effect.in.h:3
+#: effects/streaktv.effect.desktop.in:5
 msgid "Transform motions into Kung-Fu style"
 msgstr "Muuttaa liikkeen Kung-Fu-tyylisiksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#stretch
-#: ../effects/stretch.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#stretch
+#: effects/stretch.effect.desktop.in:4
 msgid "Stretch"
 msgstr "venytys"
 
-#: ../effects/stretch.effect.in.h:3
+#: effects/stretch.effect.desktop.in:5
 msgid "Stretches the center of the video"
 msgstr "Venyttää videon keskiosan"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#timedelay
-#: ../effects/timedelay.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#timedelay
+#: effects/timedelay.effect.desktop.in:4
 msgid "Time delay"
 msgstr "aikaviive"
 
-#: ../effects/timedelay.effect.in.h:3
+#: effects/timedelay.effect.desktop.in:5
 msgid "Show what was happening in the past"
 msgstr "Näytä mitä tapahtui menneisyydessä"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#twirl
-#: ../effects/twirl.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#twirl
+#: effects/twirl.effect.desktop.in:4
 msgid "Twirl"
 msgstr "pyörähdys"
 
-#: ../effects/twirl.effect.in.h:3
+#: effects/twirl.effect.desktop.in:5
 msgid "Twirl the center of the video"
 msgstr "Pyöräytä videon keskiosa"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#vertigotv
-#: ../effects/vertigotv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#vertigotv
+#: effects/vertigotv.effect.desktop.in:4
 msgid "Vertigo"
 msgstr "huimaus"
 
-#: ../effects/vertigotv.effect.in.h:3
+#: effects/vertigotv.effect.desktop.in:5
 msgid "Add a loopback alpha blending effector with rotating and scaling"
 msgstr ""
 "Lisää takaisinkytkentänä alfasekoitusefektin kierteellä ja skaalauksella"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
-#: ../effects/warptv.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#warptv
+#: effects/warptv.effect.desktop.in:4
 msgid "Warp"
 msgstr "poimu"
 
-#: ../effects/warptv.effect.in.h:3
+#: effects/warptv.effect.desktop.in:5
 msgid "Transform video input into realtime goo’ing"
 msgstr "Muuttaa videosyötteen reaaliaikaiseksi poimuhypyksi"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
-#: ../effects/xray.effect.in.h:2
+#. Preview: https://wiki.gnome.org/Projects/GnomeVideoEffects/Effects#xray
+#: effects/xray.effect.desktop.in:4
 msgid "X-Ray"
 msgstr "röntgen"
 
-#: ../effects/xray.effect.in.h:3
+#: effects/xray.effect.desktop.in:5
 msgid "Invert and slightly shade to blue"
 msgstr "Käänteisvärit ja lievä sinisen sävytys"
